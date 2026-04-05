@@ -3,17 +3,108 @@
 // Spaced Repetition + Günlük Görev Sistemi
 // ========================================
 
-// ===== STORAGE =====
-const STORAGE_KEY = 'almanca_v1';
+// ===== AUTH =====
+const USERS = {
+  'adem@mail.com':  { password: '123', name: 'Adem',  avatar: '👨‍💻' },
+  'mete@mail.com':  { password: '123', name: 'Mete',  avatar: '👨‍🎓' },
+};
 
+let currentUser = null; // { email, name, avatar }
+
+function storageKey() {
+  return 'almanca_v2_' + (currentUser ? currentUser.email.split('@')[0] : 'guest');
+}
+
+function tryLogin(email, password) {
+  const u = USERS[email.toLowerCase().trim()];
+  if (!u || u.password !== password) return false;
+  currentUser = { email: email.toLowerCase().trim(), name: u.name, avatar: u.avatar };
+  sessionStorage.setItem('auth_user', JSON.stringify(currentUser));
+  return true;
+}
+
+function logout() {
+  sessionStorage.removeItem('auth_user');
+  currentUser = null;
+  showLoginScreen();
+}
+
+function restoreSession() {
+  try {
+    const saved = sessionStorage.getItem('auth_user');
+    if (saved) { currentUser = JSON.parse(saved); return true; }
+  } catch {}
+  return false;
+}
+
+function showLoginScreen() {
+  document.getElementById('login-screen').style.display = 'flex';
+  document.getElementById('app-root').style.display = 'none';
+  document.getElementById('login-error').textContent = '';
+  document.getElementById('login-email').value = '';
+  document.getElementById('login-password').value = '';
+}
+
+function showAppRoot() {
+  document.getElementById('login-screen').style.display = 'none';
+  document.getElementById('app-root').style.display = 'block';
+  // Update navbar user info
+  const nameEl = document.getElementById('nav-user-name');
+  const avatarEl = document.getElementById('nav-user-avatar');
+  if (nameEl) nameEl.textContent = currentUser.name;
+  if (avatarEl) avatarEl.textContent = currentUser.avatar;
+  // Update mobile nav avatar
+  const bnavAvatar = document.getElementById('bnav-user-avatar');
+  if (bnavAvatar) bnavAvatar.textContent = currentUser.avatar;
+  // Update about/profile page
+  const profileAvatar = document.getElementById('profile-avatar');
+  if (profileAvatar) profileAvatar.textContent = currentUser.avatar;
+  const profileName = document.getElementById('profile-name');
+  if (profileName) profileName.textContent = currentUser.name;
+  const profileEmail = document.getElementById('profile-email');
+  if (profileEmail) profileEmail.textContent = currentUser.email;
+}
+
+function quickLogin(email) {
+  document.getElementById('login-email').value = email;
+  document.getElementById('login-password').value = '123';
+  handleLogin();
+}
+
+function handleLogin(e) {
+  if (e) e.preventDefault();
+  const email = document.getElementById('login-email').value;
+  const pass  = document.getElementById('login-password').value;
+  const errEl = document.getElementById('login-error');
+
+  if (!email || !pass) { errEl.textContent = 'E-posta ve şifre gerekli.'; return; }
+
+  const btn = document.getElementById('login-btn');
+  btn.disabled = true;
+  btn.textContent = 'Giriş yapılıyor...';
+
+  setTimeout(() => {
+    if (tryLogin(email, pass)) {
+      appData = loadData();
+      showAppRoot();
+      initApp();
+    } else {
+      errEl.textContent = 'E-posta veya şifre hatalı.';
+      btn.disabled = false;
+      btn.textContent = 'Giriş Yap →';
+    }
+  }, 300);
+}
+
+// ===== STORAGE =====
 function loadData() {
   try {
-    return JSON.parse(localStorage.getItem(STORAGE_KEY)) || defaultData();
+    return JSON.parse(localStorage.getItem(storageKey())) || defaultData();
   } catch { return defaultData(); }
 }
 
 function saveData(data) {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+  localStorage.setItem(storageKey(), JSON.stringify(data));
 }
 
 function defaultData() {
@@ -1199,37 +1290,33 @@ function initTheme() {
   if (btn) btn.textContent = saved === 'dark' ? '☀️' : '🌙';
 }
 
-// ===== INIT =====
-document.addEventListener('DOMContentLoaded', () => {
-  initTheme();
-  // Populate category filter in word list
+// ===== APP INIT (called after login) =====
+function initApp() {
+  // Populate category filter
   const catFilter = document.getElementById('filter-category');
+  catFilter.innerHTML = '<option value="">Tüm Kategoriler</option>';
   Object.entries(CATEGORIES).forEach(([key, cat]) => {
     const opt = document.createElement('option');
-    opt.value = key;
-    opt.textContent = cat.icon + ' ' + cat.label;
+    opt.value = key; opt.textContent = cat.icon + ' ' + cat.label;
     catFilter.appendChild(opt);
   });
 
-  // Search/filter handlers
-  document.getElementById('word-search').addEventListener('input', e => {
+  // Search/filter handlers (re-attach each login)
+  document.getElementById('word-search').oninput = e =>
     renderWordList(e.target.value, document.getElementById('filter-category').value, document.getElementById('filter-level').value);
-  });
-  document.getElementById('filter-category').addEventListener('change', e => {
+  document.getElementById('filter-category').onchange = e =>
     renderWordList(document.getElementById('word-search').value, e.target.value, document.getElementById('filter-level').value);
-  });
-  document.getElementById('filter-level').addEventListener('change', e => {
+  document.getElementById('filter-level').onchange = e =>
     renderWordList(document.getElementById('word-search').value, document.getElementById('filter-category').value, e.target.value);
-  });
 
   // Reset button
-  document.getElementById('btn-reset').addEventListener('click', () => {
+  document.getElementById('btn-reset').onclick = () => {
     if (confirm('Tüm ilerleme silinecek. Emin misiniz?')) {
-      localStorage.removeItem(STORAGE_KEY);
+      localStorage.removeItem(storageKey());
       appData = loadData();
-      startPlacementTest(); // restart placement on full reset
+      startPlacementTest();
     }
-  });
+  };
 
   // Reorder WORDS: A1 shuffled → A2 shuffled
   const _a1 = shuffleArray(WORDS.filter(w => w.level === 'A1'));
@@ -1238,6 +1325,23 @@ document.addEventListener('DOMContentLoaded', () => {
   WORDS.push(..._a1, ..._a2);
 
   showScreen('dashboard');
+}
+
+// ===== INIT =====
+document.addEventListener('DOMContentLoaded', () => {
+  initTheme();
+
+  // Login form
+  document.getElementById('login-form').addEventListener('submit', handleLogin);
+
+  // Restore session
+  if (restoreSession()) {
+    appData = loadData();
+    showAppRoot();
+    initApp();
+  } else {
+    showLoginScreen();
+  }
 });
 
 // =============================================
