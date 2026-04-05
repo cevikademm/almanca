@@ -8,6 +8,46 @@
 </head>
 <body>
 
+<!-- ==================== LOGIN SCREEN ==================== -->
+<div id="login-screen" class="login-screen" style="display:none;">
+  <div class="login-card">
+    <div class="login-logo">🇩🇪</div>
+    <div class="login-title">Almanca A1/A2</div>
+    <div class="login-subtitle">Goethe-Zertifikat Hazırlık Platformu</div>
+
+    <form id="login-form" class="login-form" autocomplete="off">
+      <div class="login-field">
+        <label class="login-label">E-posta</label>
+        <input id="login-email" type="email" class="login-input"
+          placeholder="ornek@mail.com" autocomplete="username" />
+      </div>
+      <div class="login-field">
+        <label class="login-label">Şifre</label>
+        <input id="login-password" type="password" class="login-input"
+          placeholder="••••••" autocomplete="current-password" />
+      </div>
+      <div id="login-error" class="login-error"></div>
+      <button id="login-btn" type="submit" class="btn btn-primary btn-full btn-large">
+        Giriş Yap →
+      </button>
+    </form>
+
+    <div class="login-users">
+      <div class="login-users-title">Hesaplar</div>
+      <div class="login-user-chips">
+        <button class="login-chip" onclick="quickLogin('adem@mail.com')">
+          👨‍💻 Adem
+        </button>
+        <button class="login-chip" onclick="quickLogin('mete@mail.com')">
+          👨‍🎓 Mete
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="app-root" style="display:none">
+
 <!-- TOP NAVBAR (desktop) -->
 <nav class="navbar">
   <span class="navbar-brand">🇩🇪 Almanca <span class="brand-badge">Goethe A1/A2</span></span>
@@ -20,7 +60,12 @@
   <button class="nav-btn" data-screen="progress"   onclick="showScreen('progress')">📊 İlerleme</button>
   <button class="nav-btn" data-screen="about"      onclick="showScreen('about')">ℹ️ Hakkında</button>
   <div class="nav-right">
+    <div class="nav-user">
+      <span id="nav-user-avatar">👤</span>
+      <span id="nav-user-name" style="font-weight:600;font-size:.82rem"></span>
+    </div>
     <button class="theme-btn" id="theme-toggle" onclick="toggleTheme()" title="Tema değiştir">🌙</button>
+    <button class="theme-btn" onclick="logout()" title="Çıkış yap" style="font-size:.75rem;width:auto;padding:0 10px;gap:4px">🚪 Çıkış</button>
   </div>
 </nav>
 
@@ -40,7 +85,7 @@
       <span class="bnav-icon">📊</span>İlerleme
     </button>
     <button class="bnav-btn" data-screen="about" onclick="showScreen('about')">
-      <span class="bnav-icon">ℹ️</span>Hakkında
+      <span class="bnav-icon" id="bnav-user-avatar">ℹ️</span>Profil
     </button>
   </div>
 </nav>
@@ -582,6 +627,18 @@
 <!-- ==================== ABOUT ==================== -->
 <div class="screen" id="screen-about">
 
+  <!-- User Profile Card -->
+  <div class="user-profile-card">
+    <div class="upc-avatar" id="profile-avatar">👤</div>
+    <div class="upc-info">
+      <div class="upc-name" id="profile-name">Kullanıcı</div>
+      <div class="upc-email" id="profile-email">—</div>
+    </div>
+    <button class="btn btn-outline" onclick="logout()" style="margin-left:auto;font-size:.8rem;padding:8px 14px">
+      🚪 Çıkış
+    </button>
+  </div>
+
   <!-- Hero -->
   <div class="about-hero">
     <span class="about-hero-flag">🇩🇪</span>
@@ -715,6 +772,8 @@
     <button class="btn btn-primary btn-full" onclick="closeModal()">Devam Et →</button>
   </div>
 </div>
+
+</div><!-- /app-root -->
 
 <script src="words.js"></script>
 <script src="a2_categories.js"></script>
