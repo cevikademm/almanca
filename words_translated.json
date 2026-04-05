@@ -1,0 +1,6548 @@
+[
+  {
+    "de": "ab",
+    "tr": "uzak",
+    "example": "Ab morgen muss ich arbeiten.",
+    "level": "A1"
+  },
+  {
+    "de": "aber",
+    "tr": "Ancak",
+    "example": "Ich bin oft im Büro, aber nur für wenige Stunden.",
+    "level": "A1"
+  },
+  {
+    "de": "abfahren",
+    "tr": "ayrılmak",
+    "example": "Wir fahren um zwölf Uhr ab.",
+    "level": "A1"
+  },
+  {
+    "de": "die Abfahrt",
+    "tr": "veda",
+    "example": "Vor der Abfahrt rufe ich an.",
+    "level": "A1"
+  },
+  {
+    "de": "abgeben",
+    "tr": "devretmek",
+    "example": "Ich muss meine Schlüssel abgeben.",
+    "level": "A1"
+  },
+  {
+    "de": "abholen",
+    "tr": "toplamak",
+    "example": "Wann kann ich den Schrank bei dir abholen?",
+    "level": "A1"
+  },
+  {
+    "de": "der Absender",
+    "tr": "gönderen",
+    "example": "Da ist ein Brief für dich ohne Absender.",
+    "level": "A1"
+  },
+  {
+    "de": "Achtung",
+    "tr": "Tehlike",
+    "example": "Achtung! Das dürfen Sie nicht tun.",
+    "level": "A1"
+  },
+  {
+    "de": "die Adresse",
+    "tr": "adres",
+    "example": "Können Sie mir seine Adresse sagen?",
+    "level": "A1"
+  },
+  {
+    "de": "all-",
+    "tr": "Tümü-",
+    "example": "Alles Gute!",
+    "level": "A1"
+  },
+  {
+    "de": "allein",
+    "tr": "yalnız",
+    "example": "Er kommt allein.",
+    "level": "A1"
+  },
+  {
+    "de": "also",
+    "tr": "Bu yüzden",
+    "example": "Also, es ist so: ...",
+    "level": "A1"
+  },
+  {
+    "de": "alt",
+    "tr": "eskimiş",
+    "example": "Wie alt sind Sie?",
+    "level": "A1"
+  },
+  {
+    "de": "das Alter",
+    "tr": "yaş",
+    "example": "Alter: 26 Jahre.",
+    "level": "A1"
+  },
+  {
+    "de": "an",
+    "tr": "ile",
+    "example": "Fahren Sie an der nächsten Straße nach rechts.",
+    "level": "A1"
+  },
+  {
+    "de": "anbieten",
+    "tr": "teklif",
+    "example": "Was darf ich dir anbieten?",
+    "level": "A1"
+  },
+  {
+    "de": "das Angebot",
+    "tr": "teklif",
+    "example": "Heute sind Sportschuhe im Angebot.",
+    "level": "A1"
+  },
+  {
+    "de": "ander-",
+    "tr": "en...",
+    "example": "WiIlst du diese Jacke?",
+    "level": "A1"
+  },
+  {
+    "de": "anfangen",
+    "tr": "başlamak",
+    "example": "Hier fängt die Bahnhofstraße an.",
+    "level": "A1"
+  },
+  {
+    "de": "der Anfang",
+    "tr": "başlangıç",
+    "example": "Sie wohnt am Anfang der Straße.",
+    "level": "A1"
+  },
+  {
+    "de": "anklicken",
+    "tr": "tıklamak",
+    "example": "Da musst du dieses Wort anklicken.",
+    "level": "A1"
+  },
+  {
+    "de": "ankommen",
+    "tr": "varmak",
+    "example": "Wann kommt dieser Zug in Hamburg an?",
+    "level": "A1"
+  },
+  {
+    "de": "die Ankunft",
+    "tr": "varış",
+    "example": "Auf diesem Plan steht nur die Ankunft(-szeit) der",
+    "level": "A1"
+  },
+  {
+    "de": "ankreuzen",
+    "tr": "kene",
+    "example": "Auf dem Formular müssen Sie an mehreren Stellen",
+    "level": "A1"
+  },
+  {
+    "de": "anmachen",
+    "tr": "aç",
+    "example": "Mach bitte das Licht an!",
+    "level": "A1"
+  },
+  {
+    "de": "anmelden",
+    "tr": "kayıt olmak",
+    "example": "Wo kann ich mich anmelden?",
+    "level": "A1"
+  },
+  {
+    "de": "die Anmeldung",
+    "tr": "kayıt",
+    "example": "Eine Anmeldung für diesen Kurs ist nicht mehr möglich.",
+    "level": "A1"
+  },
+  {
+    "de": "die Anrede",
+    "tr": "selamlama",
+    "example": "Schreiben Sie auch eine Anrede und einen Gruß.",
+    "level": "A1"
+  },
+  {
+    "de": "anrufen",
+    "tr": "Arama",
+    "example": "Kann man Sie anrufen?",
+    "level": "A1"
+  },
+  {
+    "de": "der Anruf",
+    "tr": "çağrı",
+    "example": "Sie bekommt viele Anrufe auf ihrem Handy.",
+    "level": "A1"
+  },
+  {
+    "de": "beantworter",
+    "tr": "cevaplayıcı",
+    "example": "den Anrufbeantworter.",
+    "level": "A1"
+  },
+  {
+    "de": "die Ansage",
+    "tr": "duyuru",
+    "example": "Hören Sie die Ansagen.",
+    "level": "A1"
+  },
+  {
+    "de": "der Anschluss",
+    "tr": "bağlantı",
+    "example": "In Mannheim haben Sie Anschluss nach Saarbrücken.",
+    "level": "A1"
+  },
+  {
+    "de": "antworten",
+    "tr": "cevap",
+    "example": "Er antwortet nicht.",
+    "level": "A1"
+  },
+  {
+    "de": "die Antwort",
+    "tr": "cevap",
+    "example": "Er gibt leider keine Antwort.",
+    "level": "A1"
+  },
+  {
+    "de": "die Anzeige",
+    "tr": "reklam",
+    "example": "Ich habe Ihre Anzeige in der Zeitung gelesen.",
+    "level": "A1"
+  },
+  {
+    "de": "anziehen",
+    "tr": "giymek",
+    "example": "Ich muss mich noch anziehen.",
+    "level": "A1"
+  },
+  {
+    "de": "das Apartment",
+    "tr": "daire",
+    "example": "Wir haben ein Apartment gemietet.",
+    "level": "A1"
+  },
+  {
+    "de": "der Apfel",
+    "tr": "elma",
+    "example": "Ein Pfund Äpfel bitte.",
+    "level": "A1"
+  },
+  {
+    "de": "der Appetit",
+    "tr": "iştah",
+    "example": "Guten Appetit!",
+    "level": "A1"
+  },
+  {
+    "de": "arbeiten",
+    "tr": "iş",
+    "example": "Wo arbeiten Sie?",
+    "level": "A1"
+  },
+  {
+    "de": "die Arbeit",
+    "tr": "iş",
+    "example": "Mein Bruder sucht Arbeit.",
+    "level": "A1"
+  },
+  {
+    "de": "arbeitslos",
+    "tr": "işsiz",
+    "example": "Es gibt bei uns viele Leute, die schon lange arbeitslos",
+    "level": "A1"
+  },
+  {
+    "de": "der Arbeitsplatz, -ä",
+    "tr": "işyeri vb.",
+    "example": "An meinem Arbeitsplatz fehlt ein Drucker.",
+    "level": "A1"
+  },
+  {
+    "de": "der Arm",
+    "tr": "kol",
+    "example": "Mein Arm tut weh.",
+    "level": "A1"
+  },
+  {
+    "de": "der Arzt, -Ä",
+    "tr": "doktor, -Ä",
+    "example": "Morgen habe ich einen Termin bei meiner Ärztin.",
+    "level": "A1"
+  },
+  {
+    "de": "auch",
+    "tr": "Ayrıca",
+    "example": "Ich bin auch Spanier.",
+    "level": "A1"
+  },
+  {
+    "de": "auf",
+    "tr": "Açık",
+    "example": "Die Kinder spielen auf der Straße.",
+    "level": "A1"
+  },
+  {
+    "de": "die Aufgabe",
+    "tr": "görev",
+    "example": "Das ist eine schwere Aufgabe.",
+    "level": "A1"
+  },
+  {
+    "de": "aufhören",
+    "tr": "durmak",
+    "example": "Der Kurs hört in einer Woche auf.",
+    "level": "A1"
+  },
+  {
+    "de": "aufstehen",
+    "tr": "ayağa kalk",
+    "example": "Ich muss immer um vier Uhr aufstehen.",
+    "level": "A1"
+  },
+  {
+    "de": "der Aufzug, -ü",
+    "tr": "asansör, -ü",
+    "example": "In diesem Haus gibt es keinen Aufzug.",
+    "level": "A1"
+  },
+  {
+    "de": "das Auge",
+    "tr": "göz",
+    "example": "Er hat blaue Augen.",
+    "level": "A1"
+  },
+  {
+    "de": "aus",
+    "tr": "dışında",
+    "example": "Er kommt aus Brasilien.",
+    "level": "A1"
+  },
+  {
+    "de": "der Ausflug",
+    "tr": "gezi",
+    "example": "Morgen machen wir einen Ausflug nach Heidelberg.",
+    "level": "A1"
+  },
+  {
+    "de": "ausfüllen",
+    "tr": "doldur",
+    "example": "Füllen Sie bitte dieses Formular aus.",
+    "level": "A1"
+  },
+  {
+    "de": "der Ausgang",
+    "tr": "çıkış",
+    "example": "Wo ist der Ausgang?",
+    "level": "A1"
+  },
+  {
+    "de": "die Auskunft, -ü",
+    "tr": "bilgi, -ü",
+    "example": "Können Sie mir eine Auskunft geben?",
+    "level": "A1"
+  },
+  {
+    "de": "das Ausland",
+    "tr": "yabancı ülke",
+    "example": "Fahren Sie ins Ausland?",
+    "level": "A1"
+  },
+  {
+    "de": "der Ausländer",
+    "tr": "yabancı",
+    "example": "SInd Sie Ausländerin?",
+    "level": "A1"
+  },
+  {
+    "de": "ausländisch",
+    "tr": "yabancı",
+    "example": "Leider habe ich nur ausländisches Geld.",
+    "level": "A1"
+  },
+  {
+    "de": "ausmachen",
+    "tr": "kapamak",
+    "example": "Mach bitte das Licht aus!",
+    "level": "A1"
+  },
+  {
+    "de": "die Aussage",
+    "tr": "beyan",
+    "example": "Ist die Aussage richtig oder falsch?",
+    "level": "A1"
+  },
+  {
+    "de": "aussehen",
+    "tr": "Bakmak",
+    "example": "Das sieht schön aus.",
+    "level": "A1"
+  },
+  {
+    "de": "aussteigen",
+    "tr": "çıkış",
+    "example": "Wo muss ich aussteigen?",
+    "level": "A1"
+  },
+  {
+    "de": "der Ausweis",
+    "tr": "kimlik kartı",
+    "example": "Hier ist mein Ausweis.",
+    "level": "A1"
+  },
+  {
+    "de": "ausziehen",
+    "tr": "soyunmak",
+    "example": "Zieh die Schuhe aus, bitte!",
+    "level": "A1"
+  },
+  {
+    "de": "das Auto",
+    "tr": "araba",
+    "example": "Er kommt mit dem Auto.",
+    "level": "A1"
+  },
+  {
+    "de": "die Autobahn",
+    "tr": "otoyol",
+    "example": "Wo geht‘s hier bitte zur Autobahn?",
+    "level": "A1"
+  },
+  {
+    "de": "der Automat",
+    "tr": "makine",
+    "example": "Die Fahrkarten gibt es nur am Automaten.",
+    "level": "A1"
+  },
+  {
+    "de": "automatisch",
+    "tr": "otomatik olarak",
+    "example": "Du musst nichts machen. Das geht automatisch.",
+    "level": "A1"
+  },
+  {
+    "de": "das Baby",
+    "tr": "bebek",
+    "example": "Mein Kind ist noch ein Baby.",
+    "level": "A1"
+  },
+  {
+    "de": "die Bäckerei",
+    "tr": "fırın",
+    "example": "Ich geh mal schnell zur Bäckerei.",
+    "level": "A1"
+  },
+  {
+    "de": "das Bad",
+    "tr": "banyo",
+    "example": "Wir haben kein großes Bad.",
+    "level": "A1"
+  },
+  {
+    "de": "baden",
+    "tr": "yıkanmak",
+    "example": "Ich bade nicht so gern, ich dusche lieber.",
+    "level": "A1"
+  },
+  {
+    "de": "die Bahn",
+    "tr": "tren",
+    "example": "Wir fahren lieber mit der Bahn.",
+    "level": "A1"
+  },
+  {
+    "de": "der Bahnhof",
+    "tr": "istasyon",
+    "example": "Komme ich hier zum Bahnhof?",
+    "level": "A1"
+  },
+  {
+    "de": "der Bahnsteig",
+    "tr": "platform",
+    "example": "Auf welchem Bahnsteig fährt der Zug?",
+    "level": "A1"
+  },
+  {
+    "de": "bald",
+    "tr": "yakında",
+    "example": "Ich komme bald.",
+    "level": "A1"
+  },
+  {
+    "de": "der Balkon",
+    "tr": "balkon",
+    "example": "Die Wohnung hat auch einen kleinen Balkon.",
+    "level": "A1"
+  },
+  {
+    "de": "die Banane",
+    "tr": "muz",
+    "example": "Drei Bananen, bitte!",
+    "level": "A1"
+  },
+  {
+    "de": "die Bank",
+    "tr": "Banka",
+    "example": "Die Bank schließt schon um vier Uhr.",
+    "level": "A1"
+  },
+  {
+    "de": "bar",
+    "tr": "ayı",
+    "example": "Muss ich bar zahlen oder geht‘s auch mit Karte?",
+    "level": "A1"
+  },
+  {
+    "de": "der Bauch",
+    "tr": "mide",
+    "example": "Seit gestern tut mir der Bauch weh.",
+    "level": "A1"
+  },
+  {
+    "de": "der Baum, -ä",
+    "tr": "ağaç, -ä",
+    "example": "Vorsicht, fahr nicht an den Baum!",
+    "level": "A1"
+  },
+  {
+    "de": "der Beamte",
+    "tr": "resmi",
+    "example": "Fragen Sie die Beamtin an Schalter acht!",
+    "level": "A1"
+  },
+  {
+    "de": "bedeuten",
+    "tr": "Anlam",
+    "example": "Was bedeutet das Wort?",
+    "level": "A1"
+  },
+  {
+    "de": "beginnen",
+    "tr": "başlangıç",
+    "example": "Das Spiel beginnt um 15.30 Uhr.",
+    "level": "A1"
+  },
+  {
+    "de": "bei",
+    "tr": "en",
+    "example": "Offenbach liegt bei Frankfurt.",
+    "level": "A1"
+  },
+  {
+    "de": "beide",
+    "tr": "ikisi birden",
+    "example": "Beide Eltern arbeiten.",
+    "level": "A1"
+  },
+  {
+    "de": "das Bein",
+    "tr": "bacak",
+    "example": "Mein rechtes Bein tut weh.",
+    "level": "A1"
+  },
+  {
+    "de": "das Beispiel",
+    "tr": "örnek",
+    "example": "Kannst du mir ein Beispiel sagen?",
+    "level": "A1"
+  },
+  {
+    "de": "zum Beispiel/z. B.",
+    "tr": "örneğin/ör. B.",
+    "example": "Viele meiner Verwandten, z. B. meine beiden",
+    "level": "A1"
+  },
+  {
+    "de": "bekannt",
+    "tr": "bilinen",
+    "example": "Picasso ist sehr bekannt.",
+    "level": "A1"
+  },
+  {
+    "de": "der/die Bekannte",
+    "tr": "tanıdık",
+    "example": "Ein Bekannter von mir heißt Klaus.",
+    "level": "A1"
+  },
+  {
+    "de": "bekommen",
+    "tr": "almak",
+    "example": "Haben Sie meinen Brief bekommen?",
+    "level": "A1"
+  },
+  {
+    "de": "benutzen",
+    "tr": "kullanmak",
+    "example": "Die Aufzüge bitte nicht benutzen!",
+    "level": "A1"
+  },
+  {
+    "de": "der Beruf",
+    "tr": "iş",
+    "example": "Was sind Sie von Beruf?",
+    "level": "A1"
+  },
+  {
+    "de": "besetzt",
+    "tr": "dolu",
+    "example": "Die Nummer ist immer besetzt.",
+    "level": "A1"
+  },
+  {
+    "de": "besichtigen",
+    "tr": "görüş",
+    "example": "Ich möchte gern den Dom besichtigen.",
+    "level": "A1"
+  },
+  {
+    "de": "besser",
+    "tr": "daha iyi",
+    "example": "Es geht mir schon besser.",
+    "level": "A1"
+  },
+  {
+    "de": "best-",
+    "tr": "en iyi-",
+    "example": "Am besten treffen wir uns morgen.",
+    "level": "A1"
+  },
+  {
+    "de": "bestellen",
+    "tr": "emir",
+    "example": "Wir möchten bestellen, bitte.",
+    "level": "A1"
+  },
+  {
+    "de": "besuchen",
+    "tr": "ziyaret etmek",
+    "example": "Darf ich dich besuchen?",
+    "level": "A1"
+  },
+  {
+    "de": "das Bett",
+    "tr": "yatak",
+    "example": "Wir brauchen noch ein Kinderbett.",
+    "level": "A1"
+  },
+  {
+    "de": "bezahlen",
+    "tr": "ödemek",
+    "example": "Wo muss ich bezahlen?",
+    "level": "A1"
+  },
+  {
+    "de": "das Bier",
+    "tr": "bira",
+    "example": "Noch ein Bier bitte.",
+    "level": "A1"
+  },
+  {
+    "de": "das Bild",
+    "tr": "resim",
+    "example": "Hast du ein Bild von deinem Sohn?",
+    "level": "A1"
+  },
+  {
+    "de": "billig",
+    "tr": "ucuz",
+    "example": "Die Jacke kostet nur 10 Euro! Die ist aber billig!",
+    "level": "A1"
+  },
+  {
+    "de": "die Birne",
+    "tr": "armut",
+    "example": "Ein Kilo Birnen, bitte!",
+    "level": "A1"
+  },
+  {
+    "de": "bis",
+    "tr": "değin",
+    "example": "Ich fahre nur bis Stuttgart.",
+    "level": "A1"
+  },
+  {
+    "de": "bisschen",
+    "tr": "biraz",
+    "example": "Ich spreche Englisch, Französisch und ein bisschen",
+    "level": "A1"
+  },
+  {
+    "de": "bitte",
+    "tr": "Lütfen",
+    "example": "Eine Tasse Kaffee, bitte!",
+    "level": "A1"
+  },
+  {
+    "de": "bitten",
+    "tr": "sormak",
+    "example": "Darf ich Sie um etwas bitten?",
+    "level": "A1"
+  },
+  {
+    "de": "bitter",
+    "tr": "acı",
+    "example": "Der Kaffee schmeckt bitter.",
+    "level": "A1"
+  },
+  {
+    "de": "bleiben",
+    "tr": "geriye kalmak",
+    "example": "Ich bleibe heute zu Hause.",
+    "level": "A1"
+  },
+  {
+    "de": "der Bleistift",
+    "tr": "kalem",
+    "example": "Hast du einen Bleistift?",
+    "level": "A1"
+  },
+  {
+    "de": "der Blick",
+    "tr": "görünüm",
+    "example": "Von diesem Hotel hat man einen guten Blick auf den",
+    "level": "A1"
+  },
+  {
+    "de": "die Blume",
+    "tr": "çiçek",
+    "example": "Gefallen dir die Blumen?",
+    "level": "A1"
+  },
+  {
+    "de": "der Bogen",
+    "tr": "yay",
+    "example": "Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.",
+    "level": "A1"
+  },
+  {
+    "de": "böse",
+    "tr": "fenalık",
+    "example": "Sie ist böse auf mich.",
+    "level": "A1"
+  },
+  {
+    "de": "brauchen",
+    "tr": "ihtiyaç",
+    "example": "Brauchst du die Zeitung noch?",
+    "level": "A1"
+  },
+  {
+    "de": "breit",
+    "tr": "geniş",
+    "example": "Wie breit ist der Schrank?",
+    "level": "A1"
+  },
+  {
+    "de": "der Brief",
+    "tr": "mektup",
+    "example": "Haben Sie einen Brief für mich?",
+    "level": "A1"
+  },
+  {
+    "de": "die Briefmarke",
+    "tr": "damga",
+    "example": "Kaufst du bitte Briefmarken bei der Post.",
+    "level": "A1"
+  },
+  {
+    "de": "bringen",
+    "tr": "getirmek",
+    "example": "Bringen Sie mir bitte noch einen Kaffee!",
+    "level": "A1"
+  },
+  {
+    "de": "das Brot",
+    "tr": "ekmek",
+    "example": "Haben Sie auch Weißbrot?",
+    "level": "A1"
+  },
+  {
+    "de": "das Brötchen, –",
+    "tr": "ekmek çöreği, -",
+    "example": "Möchtest du Brötchen zum Frühstück?",
+    "level": "A1"
+  },
+  {
+    "de": "der Bruder",
+    "tr": "erkek kardeş",
+    "example": "Sein Bruder arbeitet auch hier.",
+    "level": "A1"
+  },
+  {
+    "de": "das Buch, -ü",
+    "tr": "kitap, -ü",
+    "example": "Gute Bücher sind oft sehr teuer.",
+    "level": "A1"
+  },
+  {
+    "de": "der Buchstabe",
+    "tr": "mektup",
+    "example": "Diesen Buchstaben gibt es in meiner Sprache nicht.",
+    "level": "A1"
+  },
+  {
+    "de": "buchstabieren",
+    "tr": "hecelemek",
+    "example": "Bitte buchstabieren Sie Ihren Namen.",
+    "level": "A1"
+  },
+  {
+    "de": "der Bus",
+    "tr": "otobüs",
+    "example": "Wann kommt der nächste Bus?",
+    "level": "A1"
+  },
+  {
+    "de": "die Butter",
+    "tr": "tereyağı",
+    "example": "Für mich bitte ein Brötchen mit Butter und Käse.",
+    "level": "A1"
+  },
+  {
+    "de": "das Café",
+    "tr": "kafe",
+    "example": "Sollen wir uns im Café treffen?",
+    "level": "A1"
+  },
+  {
+    "de": "die CD",
+    "tr": "CD",
+    "example": "Bring bitte deine Lieblings-CD mit.",
+    "level": "A1"
+  },
+  {
+    "de": "der Chef",
+    "tr": "patron",
+    "example": "Wir haben eine neue Chefin.",
+    "level": "A1"
+  },
+  {
+    "de": "circa/ca.",
+    "tr": "yaklaşık/yaklaşık.",
+    "example": "Von Mainz nach Frankfurt sind es circa fünfzig",
+    "level": "A1"
+  },
+  {
+    "de": "der Computer, –",
+    "tr": "bilgisayar, -",
+    "example": "Wann bekommst du deinen neuen Computer?",
+    "level": "A1"
+  },
+  {
+    "de": "da",
+    "tr": "Orası",
+    "example": "Da hinten ist er ja.",
+    "level": "A1"
+  },
+  {
+    "de": "die Dame",
+    "tr": "bayan",
+    "example": "Damen (an der Toilette)",
+    "level": "A1"
+  },
+  {
+    "de": "daneben",
+    "tr": "onun yanında",
+    "example": "Du kennst doch die Post. Daneben ist die Bank.",
+    "level": "A1"
+  },
+  {
+    "de": "danken",
+    "tr": "teşekkür etmek",
+    "example": "Ich danke Ihnen für die Einladung.",
+    "level": "A1"
+  },
+  {
+    "de": "der Dank",
+    "tr": "teşekkürler",
+    "example": "Vielen Dank!",
+    "level": "A1"
+  },
+  {
+    "de": "danke",
+    "tr": "Teşekkürler",
+    "example": "Soll ich Ihnen helfen? - Nein, danke!",
+    "level": "A1"
+  },
+  {
+    "de": "dann",
+    "tr": "Daha sonra",
+    "example": "Ich muss noch schnell zur Post, dann komme ich.",
+    "level": "A1"
+  },
+  {
+    "de": "das Datum",
+    "tr": "tarih",
+    "example": "Bitte schreiben Sie noch das Datum auf das Formular.",
+    "level": "A1"
+  },
+  {
+    "de": "dauern",
+    "tr": "son",
+    "example": "Wie lange dauert der Film?",
+    "level": "A1"
+  },
+  {
+    "de": "dein-",
+    "tr": "senin-",
+    "example": "Ist das dein Auto?",
+    "level": "A1"
+  },
+  {
+    "de": "denn",
+    "tr": "Çünkü",
+    "example": "Ich kann nicht kommen, denn ich bin krank.",
+    "level": "A1"
+  },
+  {
+    "de": "der, die",
+    "tr": "the, the",
+    "example": "Ich nehme das da.",
+    "level": "A1"
+  },
+  {
+    "de": "dich",
+    "tr": "Sen",
+    "example": "Die Blumen sind für dich.",
+    "level": "A1"
+  },
+  {
+    "de": "dies-",
+    "tr": "Bu-",
+    "example": "Ich nehme lieber diesen Kuchen.",
+    "level": "A1"
+  },
+  {
+    "de": "dir",
+    "tr": "Sen",
+    "example": "Gefallen dir die Blumen?",
+    "level": "A1"
+  },
+  {
+    "de": "die Disco",
+    "tr": "disko",
+    "example": "Heute abend gehen wir in die Disco tanzen.",
+    "level": "A1"
+  },
+  {
+    "de": "der Doktor",
+    "tr": "doktor",
+    "example": "Meine Tochter ist krank. Wir gehen zum Doktor.",
+    "level": "A1"
+  },
+  {
+    "de": "das Doppelzimmer",
+    "tr": "çift ​​kişilik oda",
+    "example": "Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?",
+    "level": "A1"
+  },
+  {
+    "de": "das Dorf, -ö",
+    "tr": "köy, -ö",
+    "example": "Meine Familie lebt in einem Dorf.",
+    "level": "A1"
+  },
+  {
+    "de": "dort, -her",
+    "tr": "orada, -burada",
+    "example": "Deine Tasche kannst du dorthin stellen.",
+    "level": "A1"
+  },
+  {
+    "de": "draußen",
+    "tr": "dıştan",
+    "example": "Wollen wir draußen sitzen?",
+    "level": "A1"
+  },
+  {
+    "de": "drucken",
+    "tr": "basmak",
+    "example": "Bitte drucke das Formular für mich.",
+    "level": "A1"
+  },
+  {
+    "de": "der Drucker, –",
+    "tr": "yazıcı, –",
+    "example": "Mein Drucker ist kaputt.",
+    "level": "A1"
+  },
+  {
+    "de": "drücken",
+    "tr": "basmak",
+    "example": "Drück hier, dann geht der Computer an.",
+    "level": "A1"
+  },
+  {
+    "de": "durch",
+    "tr": "başından sonuna kadar",
+    "example": "Am besten gehen Sie durch die Breite Straße.",
+    "level": "A1"
+  },
+  {
+    "de": "die Durchsage",
+    "tr": "duyuru",
+    "example": "Ich habe die Durchsage nicht verstanden.",
+    "level": "A1"
+  },
+  {
+    "de": "dürfen",
+    "tr": "mayıs",
+    "example": "Sie dürfen hier nicht rauchen.",
+    "level": "A1"
+  },
+  {
+    "de": "der Durst",
+    "tr": "susuzluk",
+    "example": "Hast du etwas zu trinken? Ich habe großen Durst.",
+    "level": "A1"
+  },
+  {
+    "de": "duschen",
+    "tr": "duş",
+    "example": "Ich bade nicht so gern, ich dusche lieber.",
+    "level": "A1"
+  },
+  {
+    "de": "die Dusche",
+    "tr": "duş",
+    "example": "Unsere Wohnung hat nur eine Dusche.",
+    "level": "A1"
+  },
+  {
+    "de": "die Ecke",
+    "tr": "köşe",
+    "example": "An der nächsten Ecke links.",
+    "level": "A1"
+  },
+  {
+    "de": "der Ehemann, ä",
+    "tr": "koca vb.",
+    "example": "Das ist mein (Ehe-) Mann/meine (Ehe-) Frau.",
+    "level": "A1"
+  },
+  {
+    "de": "das Ei",
+    "tr": "yumurta",
+    "example": "Möchtest du ein Ei zum Frühstück?",
+    "level": "A1"
+  },
+  {
+    "de": "eilig",
+    "tr": "acele etmek",
+    "example": "Hast du es eilig?",
+    "level": "A1"
+  },
+  {
+    "de": "ein-",
+    "tr": "A-",
+    "example": "Ich nehme ein Bier. Willst du auch eins?",
+    "level": "A1"
+  },
+  {
+    "de": "einfach",
+    "tr": "basitçe",
+    "example": "Die Prüfung ist ganz einfach.",
+    "level": "A1"
+  },
+  {
+    "de": "der Eingang",
+    "tr": "giriş",
+    "example": "Der Eingang ist um die Ecke.",
+    "level": "A1"
+  },
+  {
+    "de": "einkaufen",
+    "tr": "alışveriş",
+    "example": "Ich muss noch für morgen einkaufen.",
+    "level": "A1"
+  },
+  {
+    "de": "einladen",
+    "tr": "davet etmek",
+    "example": "Darf ich Sie zu einem Kaffee einladen?",
+    "level": "A1"
+  },
+  {
+    "de": "die Einladung",
+    "tr": "davet",
+    "example": "Danke für die Einladung!",
+    "level": "A1"
+  },
+  {
+    "de": "einmal",
+    "tr": "bir kere",
+    "example": "Diese Prüfung mache ich nicht noch einmal.",
+    "level": "A1"
+  },
+  {
+    "de": "einsteigen",
+    "tr": "Alın",
+    "example": "Schnell, steig ein, der Zug fährt gleich.",
+    "level": "A1"
+  },
+  {
+    "de": "der Eintritt",
+    "tr": "giriş",
+    "example": "Der Preis für den Eintritt ist 5 Euro.",
+    "level": "A1"
+  },
+  {
+    "de": "das Einzelzimmer",
+    "tr": "tek kişilik oda",
+    "example": "Haben Sie noch ein Einzelzimmer?",
+    "level": "A1"
+  },
+  {
+    "de": "die Eltern",
+    "tr": "ebeveynler",
+    "example": "Meine Eltern leben in Spanien.",
+    "level": "A1"
+  },
+  {
+    "de": "die E-Mail",
+    "tr": "e-posta",
+    "example": "Ich habe Ihre E-Mail nicht bekommen.",
+    "level": "A1"
+  },
+  {
+    "de": "der Empfänger, –",
+    "tr": "alıcı, –",
+    "example": "Auf dem Brief steht dein Name, also bist du der",
+    "level": "A1"
+  },
+  {
+    "de": "empfehlen",
+    "tr": "tavsiye etmek",
+    "example": "Welchen Wein können Sie mir empfehlen?",
+    "level": "A1"
+  },
+  {
+    "de": "enden",
+    "tr": "son",
+    "example": "Die Straße endet hier.",
+    "level": "A1"
+  },
+  {
+    "de": "das Ende",
+    "tr": "son",
+    "example": "Sie wohnt am Ende der Straße.",
+    "level": "A1"
+  },
+  {
+    "de": "entschuldigen",
+    "tr": "mazeret",
+    "example": "Entschuldigen Sie bitte!",
+    "level": "A1"
+  },
+  {
+    "de": "die Entschuldigung",
+    "tr": "özür",
+    "example": "Entschuldigung! – Bitte.",
+    "level": "A1"
+  },
+  {
+    "de": "er",
+    "tr": "O",
+    "example": "Er heißt Ali.",
+    "level": "A1"
+  },
+  {
+    "de": "das Ergebnis",
+    "tr": "sonuç",
+    "example": "Das Ergebnis des Tests bekommen Sie in zwei Wochen.",
+    "level": "A1"
+  },
+  {
+    "de": "erklären",
+    "tr": "açıklamak",
+    "example": "Kannst du mir das erklären?",
+    "level": "A1"
+  },
+  {
+    "de": "erlauben",
+    "tr": "izin vermek",
+    "example": "Rauchen ist hier nicht erlaubt.",
+    "level": "A1"
+  },
+  {
+    "de": "der Erwachsene",
+    "tr": "yetişkin",
+    "example": "Dieser Film ist nur für Erwachsene.",
+    "level": "A1"
+  },
+  {
+    "de": "erzählen",
+    "tr": "söylemek",
+    "example": "Wir müssen euch etwas erzählen!",
+    "level": "A1"
+  },
+  {
+    "de": "es",
+    "tr": "BT",
+    "example": "Es regnet.",
+    "level": "A1"
+  },
+  {
+    "de": "essen",
+    "tr": "yemek yemek",
+    "example": "Was gibt es zu essen?",
+    "level": "A1"
+  },
+  {
+    "de": "euer",
+    "tr": "senin",
+    "example": "Euer Kurs beginnt heute.",
+    "level": "A1"
+  },
+  {
+    "de": "fahren",
+    "tr": "sürmek",
+    "example": "Ich fahre mit dem Auto zur Arbeit.",
+    "level": "A1"
+  },
+  {
+    "de": "der Fahrer",
+    "tr": "sürücü",
+    "example": "Bitte nicht mit dem Fahrer sprechen!",
+    "level": "A1"
+  },
+  {
+    "de": "die Fahrkarte",
+    "tr": "bilet",
+    "example": "Hast du schon eine Fahrkarte?",
+    "level": "A1"
+  },
+  {
+    "de": "das Fahrrad, -ä",
+    "tr": "bisiklet vb.",
+    "example": "Fährst du mit dem Fahrrad oder mit dem Auto?",
+    "level": "A1"
+  },
+  {
+    "de": "falsch",
+    "tr": "yanlış",
+    "example": "Das ist falsch.",
+    "level": "A1"
+  },
+  {
+    "de": "die Familie",
+    "tr": "aile",
+    "example": "Meine Familie lebt in Spanien.",
+    "level": "A1"
+  },
+  {
+    "de": "der Familienname",
+    "tr": "aile adı",
+    "example": "Meine Familiennamen sind García González.",
+    "level": "A1"
+  },
+  {
+    "de": "der Familienstand",
+    "tr": "medeni durum",
+    "example": "Bei „Familienstand“ musst du „ledig“ ankreuzen.",
+    "level": "A1"
+  },
+  {
+    "de": "die Farbe",
+    "tr": "renk",
+    "example": "Die Farbe gefällt mir gut.",
+    "level": "A1"
+  },
+  {
+    "de": "das Fax",
+    "tr": "faks",
+    "example": "Schicken Sie uns einfach ein Fax!",
+    "level": "A1"
+  },
+  {
+    "de": "Feier-",
+    "tr": "Kutlama-",
+    "example": "z. B. Feierabend, Feiertag",
+    "level": "A1"
+  },
+  {
+    "de": "feiern",
+    "tr": "kutlamak",
+    "example": "Wir feiern heute meinen Geburtstag.",
+    "level": "A1"
+  },
+  {
+    "de": "fehlen",
+    "tr": "kayıp",
+    "example": "Herr Müller ist nicht da, er fehlt schon seit drei Tagen.",
+    "level": "A1"
+  },
+  {
+    "de": "der Fehler, –",
+    "tr": "hata, –",
+    "example": "Diesen Fehler mache ich immer.",
+    "level": "A1"
+  },
+  {
+    "de": "fernsehen",
+    "tr": "TV",
+    "example": "Wollen wir heute Abend mal fernsehen?",
+    "level": "A1"
+  },
+  {
+    "de": "fertig",
+    "tr": "tamamlamak",
+    "example": "Bist du fertig?",
+    "level": "A1"
+  },
+  {
+    "de": "das Feuer",
+    "tr": "ateş",
+    "example": "Haben Sie Feuer?",
+    "level": "A1"
+  },
+  {
+    "de": "das Fieber",
+    "tr": "ateş",
+    "example": "Mein Mann hat noch immer Fieber.",
+    "level": "A1"
+  },
+  {
+    "de": "der Film",
+    "tr": "Film",
+    "example": "Ich möchte gern diesen Film sehen.",
+    "level": "A1"
+  },
+  {
+    "de": "finden",
+    "tr": "bulmak",
+    "example": "Wir müssen den Schlüssel finden.",
+    "level": "A1"
+  },
+  {
+    "de": "die Firma",
+    "tr": "Şirket",
+    "example": "Er arbeitet jetzt bei einer anderen Firma.",
+    "level": "A1"
+  },
+  {
+    "de": "der Fisch",
+    "tr": "balık",
+    "example": "Ich esse gern Fisch. Fleisch mag ich nicht.",
+    "level": "A1"
+  },
+  {
+    "de": "die Flasche",
+    "tr": "şişe",
+    "example": "Eine Flasche Bier, bitte.",
+    "level": "A1"
+  },
+  {
+    "de": "das Fleisch",
+    "tr": "et",
+    "example": "Fleisch mag ich nicht.",
+    "level": "A1"
+  },
+  {
+    "de": "fliegen",
+    "tr": "uçmak",
+    "example": "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.",
+    "level": "A1"
+  },
+  {
+    "de": "abfliegen",
+    "tr": "uçup gitmek",
+    "example": "Wann fliegst du ab?",
+    "level": "A1"
+  },
+  {
+    "de": "der Abflug",
+    "tr": "kalkış",
+    "example": "Der Abflug ist um 11.20 Uhr.",
+    "level": "A1"
+  },
+  {
+    "de": "der Flughafen",
+    "tr": "havaalanı",
+    "example": "Kannst du mich zum Flughafen bringen?",
+    "level": "A1"
+  },
+  {
+    "de": "das Flugzeug",
+    "tr": "Uçak",
+    "example": "Das Flugzeug aus Berlin kommt heute später an.",
+    "level": "A1"
+  },
+  {
+    "de": "das Formular",
+    "tr": "form",
+    "example": "Sie müssen dieses Formular ausfüllen.",
+    "level": "A1"
+  },
+  {
+    "de": "das Foto",
+    "tr": "fotoğraf",
+    "example": "Darf ich ein Foto machen?",
+    "level": "A1"
+  },
+  {
+    "de": "fragen",
+    "tr": "sorular",
+    "example": "Er möchte Sie etwas fragen. Wann kommen Sie?",
+    "level": "A1"
+  },
+  {
+    "de": "die Frage",
+    "tr": "soru",
+    "example": "Ich habe eine Frage.",
+    "level": "A1"
+  },
+  {
+    "de": "die Frau",
+    "tr": "kadın",
+    "example": "Das ist Frau Becker.",
+    "level": "A1"
+  },
+  {
+    "de": "frei",
+    "tr": "özgür",
+    "example": "Ist der Platz noch frei?",
+    "level": "A1"
+  },
+  {
+    "de": "die Freizeit",
+    "tr": "boş zaman",
+    "example": "In meiner Freizeit spiele ich oft Fußball.",
+    "level": "A1"
+  },
+  {
+    "de": "fremd",
+    "tr": "yabancı",
+    "example": "Das weiß ich nicht; ich bin fremd hier.",
+    "level": "A1"
+  },
+  {
+    "de": "freuen",
+    "tr": "mutlu ol",
+    "example": "Ich freue mich auf den Urlaub.",
+    "level": "A1"
+  },
+  {
+    "de": "der Freund",
+    "tr": "arkadaş",
+    "example": "Das ist ein Freund von mir.",
+    "level": "A1"
+  },
+  {
+    "de": "früher",
+    "tr": "daha erken",
+    "example": "Früher waren wir oft zusammen im Kino.",
+    "level": "A1"
+  },
+  {
+    "de": "frühstücken",
+    "tr": "kahvaltı yap",
+    "example": "Am Sonntag frühstücke ich gern im Bett.",
+    "level": "A1"
+  },
+  {
+    "de": "das Frühstück",
+    "tr": "kahvaltı",
+    "example": "Möchtest du ein Ei zum Frühstück?",
+    "level": "A1"
+  },
+  {
+    "de": "die Führung",
+    "tr": "liderlik",
+    "example": "Die Führung durch das Haus beginnt in 3 Minuten.",
+    "level": "A1"
+  },
+  {
+    "de": "für",
+    "tr": "için",
+    "example": "Das ist für Sie.",
+    "level": "A1"
+  },
+  {
+    "de": "der Fuß, -ü",
+    "tr": "ayak, -ü",
+    "example": "Der linke Fuß tut mir weh.",
+    "level": "A1"
+  },
+  {
+    "de": "der Fußball",
+    "tr": "futbol",
+    "example": "Spielt ihr gerne Fußball?",
+    "level": "A1"
+  },
+  {
+    "de": "der Garten",
+    "tr": "bahçe",
+    "example": "Wir haben leider keinen Garten.",
+    "level": "A1"
+  },
+  {
+    "de": "der Gast, -ä",
+    "tr": "misafir, -ä",
+    "example": "Am Wochenende haben wir mehrere Gäste.",
+    "level": "A1"
+  },
+  {
+    "de": "geben",
+    "tr": "vermek",
+    "example": "Kannst du mir bitte deinen Kugelschreiber geben?",
+    "level": "A1"
+  },
+  {
+    "de": "geboren",
+    "tr": "doğmak",
+    "example": "Ich bin in Zagreb geboren.",
+    "level": "A1"
+  },
+  {
+    "de": "das Geburtsjahr",
+    "tr": "doğum yılı",
+    "example": "Das Geburtsjahr Ihres Sohnes, bitte?",
+    "level": "A1"
+  },
+  {
+    "de": "der Geburtsort",
+    "tr": "doğum yeri",
+    "example": "Bitte schreiben Sie Ihren Geburtsort auf das Formular.",
+    "level": "A1"
+  },
+  {
+    "de": "der Geburtstag",
+    "tr": "doğum günü",
+    "example": "Herzlichen Glückwunsch zum Geburtstag!",
+    "level": "A1"
+  },
+  {
+    "de": "gefallen",
+    "tr": "düşmüş",
+    "example": "Das gefällt mir.",
+    "level": "A1"
+  },
+  {
+    "de": "gegen",
+    "tr": "aykırı",
+    "example": "Fahr nicht gegen den Baum!",
+    "level": "A1"
+  },
+  {
+    "de": "gehen",
+    "tr": "Gitmek",
+    "example": "Ich weiß nicht, wie das geht.",
+    "level": "A1"
+  },
+  {
+    "de": "gehören",
+    "tr": "ait olmak",
+    "example": "Wem gehört das?",
+    "level": "A1"
+  },
+  {
+    "de": "das Geld",
+    "tr": "para",
+    "example": "Hast du noch Geld?",
+    "level": "A1"
+  },
+  {
+    "de": "das Gemüse",
+    "tr": "sebze",
+    "example": "Gemüse brauchen wir auch noch.",
+    "level": "A1"
+  },
+  {
+    "de": "das Gepäck",
+    "tr": "bagaj",
+    "example": "Wollen Sie Ihr Gepäck mitnehmen?",
+    "level": "A1"
+  },
+  {
+    "de": "gerade",
+    "tr": "dümdüz",
+    "example": "Da kommt er ja gerade.",
+    "level": "A1"
+  },
+  {
+    "de": "geradeaus",
+    "tr": "dümdüz ileri",
+    "example": "Gehen Sie immer geradeaus!",
+    "level": "A1"
+  },
+  {
+    "de": "gern",
+    "tr": "memnuniyetle",
+    "example": "Ich gehe gerne einkaufen.",
+    "level": "A1"
+  },
+  {
+    "de": "das Geschäft",
+    "tr": "iş",
+    "example": "Die Geschäfte schließen um 18.30 Uhr.",
+    "level": "A1"
+  },
+  {
+    "de": "das Geschenk",
+    "tr": "hediye",
+    "example": "Danke für das schöne Geschenk.",
+    "level": "A1"
+  },
+  {
+    "de": "die Geschwister",
+    "tr": "kardeşler",
+    "example": "Ich habe leider keine Geschwister.",
+    "level": "A1"
+  },
+  {
+    "de": "das Gespräch",
+    "tr": "konuşma",
+    "example": "Das Gespräch mit Frau Kunz ist um 14 Uhr.",
+    "level": "A1"
+  },
+  {
+    "de": "gestern",
+    "tr": "Dün",
+    "example": "Gestern war ich krank.",
+    "level": "A1"
+  },
+  {
+    "de": "gestorben",
+    "tr": "ölü",
+    "example": "Meine Frau ist gestern gestorben.",
+    "level": "A1"
+  },
+  {
+    "de": "das Getränk",
+    "tr": "içki",
+    "example": "Mein Lieblingsgetränk ist Tomatensaft.",
+    "level": "A1"
+  },
+  {
+    "de": "das Gewicht",
+    "tr": "ağırlık",
+    "example": "Bei „Gewicht“ schreibst du: 62 Kilo.",
+    "level": "A1"
+  },
+  {
+    "de": "gewinnen",
+    "tr": "kazanç",
+    "example": "Wer gewinnt das Spiel?",
+    "level": "A1"
+  },
+  {
+    "de": "das Glas, -ä",
+    "tr": "cam, -ä",
+    "example": "Bitte noch ein Glas Wein!",
+    "level": "A1"
+  },
+  {
+    "de": "glauben",
+    "tr": "inanmak",
+    "example": "Sie können mir glauben, es ist so.",
+    "level": "A1"
+  },
+  {
+    "de": "gleich",
+    "tr": "eşit",
+    "example": "Das ist mir gleich.",
+    "level": "A1"
+  },
+  {
+    "de": "das Gleis",
+    "tr": "parça",
+    "example": "Der ICE nach Berlin hält heute an Gleis 12.",
+    "level": "A1"
+  },
+  {
+    "de": "das Glück",
+    "tr": "mutluluk",
+    "example": "Viel Glück!",
+    "level": "A1"
+  },
+  {
+    "de": "glücklich",
+    "tr": "mutlu",
+    "example": "Meine Kinder sind glücklich verheiratet.",
+    "level": "A1"
+  },
+  {
+    "de": "der Glückwunsch",
+    "tr": "tebrikler",
+    "example": "Herzlichen Glückwunsch zum Geburtstag.",
+    "level": "A1"
+  },
+  {
+    "de": "Grad",
+    "tr": "derece",
+    "example": "Heute haben wir dreißig Grad.",
+    "level": "A1"
+  },
+  {
+    "de": "gratulieren",
+    "tr": "tebrik etmek",
+    "example": "Ich gratuliere dir!",
+    "level": "A1"
+  },
+  {
+    "de": "grillen",
+    "tr": "ızgara",
+    "example": "Heute grillen wir im Garten.",
+    "level": "A1"
+  },
+  {
+    "de": "groß",
+    "tr": "büyük",
+    "example": "Mein Bruder und ich sind gleich groß.",
+    "level": "A1"
+  },
+  {
+    "de": "die Größe",
+    "tr": "boyut",
+    "example": "Haben Sie das auch in Größe 40?",
+    "level": "A1"
+  },
+  {
+    "de": "die Großeltern",
+    "tr": "büyükanne ve büyükbaba",
+    "example": "Meine Großeltern leben in Japan.",
+    "level": "A1"
+  },
+  {
+    "de": "die Großmutter",
+    "tr": "büyükanne",
+    "example": "Meine Großmutter heißt Eva.",
+    "level": "A1"
+  },
+  {
+    "de": "der Großvater",
+    "tr": "büyükbaba",
+    "example": "Mein Großvater ist schon 80.",
+    "level": "A1"
+  },
+  {
+    "de": "die Gruppe",
+    "tr": "grup",
+    "example": "Die erste Gruppe beginnt um 16 Uhr.",
+    "level": "A1"
+  },
+  {
+    "de": "der Gruß, -ü",
+    "tr": "selamlama, -ü",
+    "example": "Viele Grüße an Ihre Frau.",
+    "level": "A1"
+  },
+  {
+    "de": "gültig",
+    "tr": "geçerli",
+    "example": "Der Pass ist nicht mehr gültig.",
+    "level": "A1"
+  },
+  {
+    "de": "günstig",
+    "tr": "ucuz",
+    "example": "Dort gibt es günstige Angebote.",
+    "level": "A1"
+  },
+  {
+    "de": "gut",
+    "tr": "iyi",
+    "example": "Das finde ich gut.",
+    "level": "A1"
+  },
+  {
+    "de": "das Haar",
+    "tr": "saç",
+    "example": "Sie hat lange Haare.",
+    "level": "A1"
+  },
+  {
+    "de": "haben",
+    "tr": "sahip olmak",
+    "example": "Ich habe ein neues Auto.",
+    "level": "A1"
+  },
+  {
+    "de": "das Hähnchen",
+    "tr": "tavuk",
+    "example": "Ein Hähnchen mit Pommes bitte!",
+    "level": "A1"
+  },
+  {
+    "de": "die Halbpension",
+    "tr": "yarım pansiyon",
+    "example": "Möchten Sie Vollpension oder Halbpension?",
+    "level": "A1"
+  },
+  {
+    "de": "die Halle",
+    "tr": "salon",
+    "example": "Wir treffen uns in Halle B",
+    "level": "A1"
+  },
+  {
+    "de": "hallo",
+    "tr": "Merhaba",
+    "example": "Hallo Inge! Wie geht’s?",
+    "level": "A1"
+  },
+  {
+    "de": "halten",
+    "tr": "tutmak",
+    "example": "Dieser Zug hält nicht in Rüdesheim.",
+    "level": "A1"
+  },
+  {
+    "de": "die Haltestelle",
+    "tr": "otobüs durağı",
+    "example": "An der nächsten Haltestelle müssen Sie aussteigen.",
+    "level": "A1"
+  },
+  {
+    "de": "die Hand, -ä",
+    "tr": "el, -ä",
+    "example": "Er gibt mir die Hand.",
+    "level": "A1"
+  },
+  {
+    "de": "das Handy",
+    "tr": "telefon",
+    "example": "In der Schule bitte die Handys ausmachen!",
+    "level": "A1"
+  },
+  {
+    "de": "das Haus, -ä",
+    "tr": "ev, -ä",
+    "example": "In welchem Haus wohnst du?",
+    "level": "A1"
+  },
+  {
+    "de": "die Hausaufgabe",
+    "tr": "ödev",
+    "example": "Kannst du mir bei den Hausaufgaben helfen?",
+    "level": "A1"
+  },
+  {
+    "de": "der Hausmann",
+    "tr": "ev kocası",
+    "example": "Die Hausfrau/der Hausmann wäscht, kocht und kauft",
+    "level": "A1"
+  },
+  {
+    "de": "die Heimat",
+    "tr": "vatan",
+    "example": "Ich komme aus der Schweiz. Das ist meine Heimat.",
+    "level": "A1"
+  },
+  {
+    "de": "heiraten",
+    "tr": "evlenmek",
+    "example": "Meine Schwester heiratet einen Japaner.",
+    "level": "A1"
+  },
+  {
+    "de": "heißen",
+    "tr": "çağrılmak",
+    "example": "Ich heiße Charlotte Meier.",
+    "level": "A1"
+  },
+  {
+    "de": "helfen",
+    "tr": "yardım",
+    "example": "Können Sie mir helfen, bitte?",
+    "level": "A1"
+  },
+  {
+    "de": "hell",
+    "tr": "parlak",
+    "example": "Im Sommer ist es bis 21 Uhr hell.",
+    "level": "A1"
+  },
+  {
+    "de": "der Herd",
+    "tr": "soba",
+    "example": "In der neuen Küche fehlt noch der Herd.",
+    "level": "A1"
+  },
+  {
+    "de": "der Herr",
+    "tr": "Allah",
+    "example": "Guten Tag, Herr Sommer!",
+    "level": "A1"
+  },
+  {
+    "de": "herzlich",
+    "tr": "yürekten",
+    "example": "Herzlichen Glückwunsch!",
+    "level": "A1"
+  },
+  {
+    "de": "heute",
+    "tr": "Bugün",
+    "example": "Heute ist ein schöner Tag.",
+    "level": "A1"
+  },
+  {
+    "de": "hier",
+    "tr": "Burada",
+    "example": "Hier ist 06131-553221, Pamela Linke.",
+    "level": "A1"
+  },
+  {
+    "de": "die Hilfe",
+    "tr": "yardım",
+    "example": "Hilfe! Bitte helfen Sie mir!",
+    "level": "A1"
+  },
+  {
+    "de": "hinten",
+    "tr": "arka",
+    "example": "Die Tür zum Aussteigen ist hinten.",
+    "level": "A1"
+  },
+  {
+    "de": "das Hobby",
+    "tr": "hobi",
+    "example": "Meine Hobbys sind Wandern und Schwimmen.",
+    "level": "A1"
+  },
+  {
+    "de": "hoch",
+    "tr": "yüksek",
+    "example": "Der Mount Everest ist 8.880 Meter hoch.",
+    "level": "A1"
+  },
+  {
+    "de": "die Hochzeit",
+    "tr": "düğün",
+    "example": "Zur dieser Hochzeit kommen mehr als fünfzig Gäste.",
+    "level": "A1"
+  },
+  {
+    "de": "holen",
+    "tr": "gidip getirmek",
+    "example": "Ich hole zwei Flaschen Wasser aus der Küche.",
+    "level": "A1"
+  },
+  {
+    "de": "hören",
+    "tr": "duymak",
+    "example": "Hör mal! Was ist das?",
+    "level": "A1"
+  },
+  {
+    "de": "das Hotel",
+    "tr": "otel",
+    "example": "Im Urlaub sind wir in einem Hotel am Meer.",
+    "level": "A1"
+  },
+  {
+    "de": "der Hund",
+    "tr": "köpek",
+    "example": "Der Hund ist noch jung.",
+    "level": "A1"
+  },
+  {
+    "de": "der Hunger",
+    "tr": "açlık",
+    "example": "Ich habe Hunger! Wann ist das Essen fertig?",
+    "level": "A1"
+  },
+  {
+    "de": "ich",
+    "tr": "BEN",
+    "example": "Ich heiße Veronika.",
+    "level": "A1"
+  },
+  {
+    "de": "ihr/ihm/ihn",
+    "tr": "onu / onu / onu",
+    "example": "Gib ihr/ihm bitte das Buch.",
+    "level": "A1"
+  },
+  {
+    "de": "immer",
+    "tr": "Her zaman",
+    "example": "Frau Bast kommt immer zu spät.",
+    "level": "A1"
+  },
+  {
+    "de": "in",
+    "tr": "içinde",
+    "example": "Ich wohne in Wiesbaden.",
+    "level": "A1"
+  },
+  {
+    "de": "die Information",
+    "tr": "bilgi",
+    "example": "Wenn Sie Fragen haben, gehen Sie zur Information.",
+    "level": "A1"
+  },
+  {
+    "de": "international",
+    "tr": "uluslararası",
+    "example": "Unser Deutschkurs ist international: Silvana kommt",
+    "level": "A1"
+  },
+  {
+    "de": "das Internet",
+    "tr": "internet",
+    "example": "Das findest du im Internet.",
+    "level": "A1"
+  },
+  {
+    "de": "ja",
+    "tr": "Evet",
+    "example": "Sind Sie Herr Watanabe? – Ja.",
+    "level": "A1"
+  },
+  {
+    "de": "die Jacke",
+    "tr": "ceket",
+    "example": "Zieh dir eine Jacke an. Es ist kalt.",
+    "level": "A1"
+  },
+  {
+    "de": "jed-",
+    "tr": "herhangi-",
+    "example": "Blumen kannst du in jedem Bahnhof kaufen.",
+    "level": "A1"
+  },
+  {
+    "de": "jetzt",
+    "tr": "Şimdi",
+    "example": "Jetzt machen wir eine Pause.",
+    "level": "A1"
+  },
+  {
+    "de": "der Job",
+    "tr": "iş",
+    "example": "Jenny hat einen neuen Job bei der Post.",
+    "level": "A1"
+  },
+  {
+    "de": "der Jugendliche",
+    "tr": "genç kişi",
+    "example": "Viele Jugendliche kaufen gern ein.",
+    "level": "A1"
+  },
+  {
+    "de": "jung",
+    "tr": "genç",
+    "example": "Claudia ist 21. – Was? Noch so jung?",
+    "level": "A1"
+  },
+  {
+    "de": "der Junge",
+    "tr": "genç",
+    "example": "Ich habe zwei Kinder. Einen Jungen und ein Mädchen.",
+    "level": "A1"
+  },
+  {
+    "de": "der Kaffee",
+    "tr": "kahve",
+    "example": "Zum Frühstück trinke ich immer Kaffee.",
+    "level": "A1"
+  },
+  {
+    "de": "kaputt",
+    "tr": "kırık",
+    "example": "Das Glas war teuer. Es geht sehr leicht kaputt.",
+    "level": "A1"
+  },
+  {
+    "de": "die Karte",
+    "tr": "harita",
+    "example": "Ich schreibe meinen Bekannten eine Karte aus dem",
+    "level": "A1"
+  },
+  {
+    "de": "-Karte",
+    "tr": "-Harita",
+    "example": "Kann ich auch mit Karte (be-) zahlen?",
+    "level": "A1"
+  },
+  {
+    "de": "die Kartoffel",
+    "tr": "patates",
+    "example": "Für Pommes frites braucht man Kartoffeln.",
+    "level": "A1"
+  },
+  {
+    "de": "die Kasse",
+    "tr": "yazarkasa",
+    "example": "Zahlen Sie bitte an der Kasse.",
+    "level": "A1"
+  },
+  {
+    "de": "kaufen",
+    "tr": "satın almak",
+    "example": "Tim kauft sich ein neues Auto.",
+    "level": "A1"
+  },
+  {
+    "de": "kein",
+    "tr": "HAYIR",
+    "example": "Es gibt keine Eintrittskarten mehr.",
+    "level": "A1"
+  },
+  {
+    "de": "kennen",
+    "tr": "Bilmek",
+    "example": "Kennen Sie diese Frau? – Nein, leider nicht.",
+    "level": "A1"
+  },
+  {
+    "de": "kennenlernen",
+    "tr": "tanımak",
+    "example": "Wir sind neu hier. Wir möchten Sie kennenlernen.",
+    "level": "A1"
+  },
+  {
+    "de": "das Kind",
+    "tr": "çocuk",
+    "example": "Wie viele Kinder haben Sie?",
+    "level": "A1"
+  },
+  {
+    "de": "der Kindergarten",
+    "tr": "anaokulu",
+    "example": "Die kleine Laura geht schon in den Kindergarten.",
+    "level": "A1"
+  },
+  {
+    "de": "das Kino",
+    "tr": "sinema",
+    "example": "Wir sehen heute Abend im Kino einen schönen Film.",
+    "level": "A1"
+  },
+  {
+    "de": "der Kiosk",
+    "tr": "kiosk",
+    "example": "Am Kiosk bekommen Sie Getränke, Zigaretten und",
+    "level": "A1"
+  },
+  {
+    "de": "klar",
+    "tr": "temizlemek",
+    "example": "Kommst du mit? – Klar!",
+    "level": "A1"
+  },
+  {
+    "de": "die Klasse",
+    "tr": "sınıf",
+    "example": "In unserer Klasse sind fünfundzwanzig Schüler.",
+    "level": "A1"
+  },
+  {
+    "de": "die Kleidung",
+    "tr": "giyim",
+    "example": "Wo finde ich Kleidung? – Jacken im ersten, Jeans im",
+    "level": "A1"
+  },
+  {
+    "de": "klein",
+    "tr": "küçük",
+    "example": "Eltville ist eine kleine Stadt am Rhein.",
+    "level": "A1"
+  },
+  {
+    "de": "kochen",
+    "tr": "aşçı",
+    "example": "Herr Georgi kann gut kochen.",
+    "level": "A1"
+  },
+  {
+    "de": "der Koffer, –",
+    "tr": "bavul, -",
+    "example": "Ist das Ihr Koffer?",
+    "level": "A1"
+  },
+  {
+    "de": "der Kollege",
+    "tr": "meslektaş",
+    "example": "Wie heißt die neue Kollegin?",
+    "level": "A1"
+  },
+  {
+    "de": "kommen",
+    "tr": "Gelmek",
+    "example": "Woher kommen Sie? – Aus Frankreich.",
+    "level": "A1"
+  },
+  {
+    "de": "können",
+    "tr": "olabilmek",
+    "example": "Ich kann Deutsch und Russisch.",
+    "level": "A1"
+  },
+  {
+    "de": "das Konto",
+    "tr": "hesap",
+    "example": "Das Geld überweisen wir am ersten März auf Ihr Konto.",
+    "level": "A1"
+  },
+  {
+    "de": "der Kopf",
+    "tr": "kafa",
+    "example": "Mein Kopf tut weh!",
+    "level": "A1"
+  },
+  {
+    "de": "kosten",
+    "tr": "maliyet",
+    "example": "Wie viel kostet das? – 10 Euro.",
+    "level": "A1"
+  },
+  {
+    "de": "krank",
+    "tr": "hasta",
+    "example": "Ich kann heute nicht zur Arbeit kommen, ich bin krank",
+    "level": "A1"
+  },
+  {
+    "de": "kriegen",
+    "tr": "elde etmek",
+    "example": "Ich kriege 15 Euro in der Stunde für meine Arbeit.",
+    "level": "A1"
+  },
+  {
+    "de": "die Küche",
+    "tr": "mutfak",
+    "example": "Der neue Herd kommt in die Küche.",
+    "level": "A1"
+  },
+  {
+    "de": "der Kuchen",
+    "tr": "kek",
+    "example": "Ich nehme ein Stück Kuchen.",
+    "level": "A1"
+  },
+  {
+    "de": "der Kugelschreiber",
+    "tr": "tükenmez kalem",
+    "example": "Hast du einen Kugelschreiber für mich?",
+    "level": "A1"
+  },
+  {
+    "de": "der Kühlschrank",
+    "tr": "buzdolabı",
+    "example": "Haben wir noch Milch? – Ja, im Kühlschrank.",
+    "level": "A1"
+  },
+  {
+    "de": "kulturell",
+    "tr": "kültürel",
+    "example": "Ich bin kulturell interessiert. Ich gehe oft ins Museum.",
+    "level": "A1"
+  },
+  {
+    "de": "sich kümmern",
+    "tr": "Dikkatli ol",
+    "example": "Jede Mutter kümmert sich um ihre kleinen Kinder.",
+    "level": "A1"
+  },
+  {
+    "de": "der Kunde",
+    "tr": "müşteri",
+    "example": "Einen Moment, bitte. Ich habe eine Kundin.",
+    "level": "A1"
+  },
+  {
+    "de": "der Kurs",
+    "tr": "kurs",
+    "example": "Der Deutschkurs geht bis zum Sommer.",
+    "level": "A1"
+  },
+  {
+    "de": "kurz",
+    "tr": "kısa",
+    "example": "Ricardo hat kurzes Haar.",
+    "level": "A1"
+  },
+  {
+    "de": "lachen",
+    "tr": "gülmek",
+    "example": "Die Kinder lachen viel.",
+    "level": "A1"
+  },
+  {
+    "de": "der Laden",
+    "tr": "mağaza",
+    "example": "Im Buchladen können Sie Bücher kaufen.",
+    "level": "A1"
+  },
+  {
+    "de": "das Land, -ä",
+    "tr": "ülke, -ä",
+    "example": "Italien ist ein schönes Land.",
+    "level": "A1"
+  },
+  {
+    "de": "lang",
+    "tr": "uzun",
+    "example": "Die Jeans ist zu lang.",
+    "level": "A1"
+  },
+  {
+    "de": "lange",
+    "tr": "uzun",
+    "example": "Wie lange fährt der Zug von Hamburg nach Berlin?",
+    "level": "A1"
+  },
+  {
+    "de": "langsam",
+    "tr": "yavaş",
+    "example": "Könnten Sie bitte etwas langsamer sprechen?",
+    "level": "A1"
+  },
+  {
+    "de": "laufen",
+    "tr": "koşmak",
+    "example": "Ich möchte nicht Auto fahren, ich möchte laufen.",
+    "level": "A1"
+  },
+  {
+    "de": "laut",
+    "tr": "yüksek sesle",
+    "example": "Nicht so laut! Das Baby schläft.",
+    "level": "A1"
+  },
+  {
+    "de": "leben",
+    "tr": "hayat",
+    "example": "Sie lebt bei ihrer Schwester.",
+    "level": "A1"
+  },
+  {
+    "de": "mittel",
+    "tr": "orta",
+    "example": "Lebensmittel bekommen Sie im Supermarkt.",
+    "level": "A1"
+  },
+  {
+    "de": "ledig",
+    "tr": "Bekar",
+    "example": "Sind Sie verheiratet? – Nein. Ledig.",
+    "level": "A1"
+  },
+  {
+    "de": "legen",
+    "tr": "yer",
+    "example": "Legen Sie das Buch auf den Tisch.",
+    "level": "A1"
+  },
+  {
+    "de": "der Lehrer, –",
+    "tr": "öğretmen, -",
+    "example": "Unsere Deutschlehrerin heißt Frau Müller.",
+    "level": "A1"
+  },
+  {
+    "de": "leicht",
+    "tr": "ışık",
+    "example": "Der Koffer ist leicht.",
+    "level": "A1"
+  },
+  {
+    "de": "leider",
+    "tr": "Ne yazık ki",
+    "example": "Leider kann ich nicht kommen. Ich muss zum Arzt.",
+    "level": "A1"
+  },
+  {
+    "de": "leise",
+    "tr": "sessizlik",
+    "example": "Seid leise. Die anderen schlafen schon.",
+    "level": "A1"
+  },
+  {
+    "de": "lernen",
+    "tr": "öğrenmek",
+    "example": "Wie lange lernen Sie schon Deutsch?",
+    "level": "A1"
+  },
+  {
+    "de": "lesen",
+    "tr": "Okumak",
+    "example": "Ich lese ein Buch von García Márquez.",
+    "level": "A1"
+  },
+  {
+    "de": "letzt-",
+    "tr": "son-",
+    "example": "Morgen ist der letzte Kurstag.",
+    "level": "A1"
+  },
+  {
+    "de": "die Leute",
+    "tr": "insanlar",
+    "example": "In der Disko sind viele Leute.",
+    "level": "A1"
+  },
+  {
+    "de": "das Licht",
+    "tr": "ışık",
+    "example": "Wo macht man hier das Licht an?",
+    "level": "A1"
+  },
+  {
+    "de": "lieb-",
+    "tr": "Sayın-",
+    "example": "Liebe Susanne, lieber Hans,",
+    "level": "A1"
+  },
+  {
+    "de": "lieben",
+    "tr": "Aşk",
+    "example": "Ich liebe dich!",
+    "level": "A1"
+  },
+  {
+    "de": "lieber",
+    "tr": "Canım",
+    "example": "Sie fährt lieber mit der Bahn.",
+    "level": "A1"
+  },
+  {
+    "de": "Lieblings-",
+    "tr": "Favori-",
+    "example": "Mein Lieblingsfilm ist „Schwarze Augen“.",
+    "level": "A1"
+  },
+  {
+    "de": "das Lied",
+    "tr": "şarkı",
+    "example": "Welches ist dein Lieblingslied?",
+    "level": "A1"
+  },
+  {
+    "de": "liegen",
+    "tr": "sermek",
+    "example": "Um neun Uhr liegt Judith noch im Bett.",
+    "level": "A1"
+  },
+  {
+    "de": "links",
+    "tr": "sol",
+    "example": "Gehen Sie die nächste Straße links.",
+    "level": "A1"
+  },
+  {
+    "de": "der Lkw",
+    "tr": "kamyon",
+    "example": "Dieser Lastkraftwagen ist sehr groß.",
+    "level": "A1"
+  },
+  {
+    "de": "das Lokal",
+    "tr": "yerel",
+    "example": "In unserer Straße gibt es ein neues Lokal.",
+    "level": "A1"
+  },
+  {
+    "de": "die Lösung",
+    "tr": "çözüm",
+    "example": "Die Lösung ist ganz einfach.",
+    "level": "A1"
+  },
+  {
+    "de": "lustig",
+    "tr": "eğlenceli",
+    "example": "Frau Mertens ist lustig. Sie lacht immer.",
+    "level": "A1"
+  },
+  {
+    "de": "machen",
+    "tr": "yapmak",
+    "example": "Was machst du heute Abend?",
+    "level": "A1"
+  },
+  {
+    "de": "das Mädchen, –",
+    "tr": "kız, -",
+    "example": "Familie Kurz bekommt ein Baby. – Junge oder Mädchen?",
+    "level": "A1"
+  },
+  {
+    "de": "man",
+    "tr": "Adam",
+    "example": "Hier darf man nicht rauchen.",
+    "level": "A1"
+  },
+  {
+    "de": "der Mann, -ä",
+    "tr": "adam, -ä",
+    "example": "Mein Mann arbeitet bei der Polizei.",
+    "level": "A1"
+  },
+  {
+    "de": "männlich",
+    "tr": "eril",
+    "example": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+    "level": "A1"
+  },
+  {
+    "de": "die Maschine",
+    "tr": "makine",
+    "example": "Die Waschmaschine ist günstig.",
+    "level": "A1"
+  },
+  {
+    "de": "das Meer",
+    "tr": "deniz",
+    "example": "Wir machen Urlaub am Meer.",
+    "level": "A1"
+  },
+  {
+    "de": "mehr",
+    "tr": "Daha",
+    "example": "Dieses Auto kostet 1.000 Euro mehr als das andere.",
+    "level": "A1"
+  },
+  {
+    "de": "mein",
+    "tr": "Benim",
+    "example": "Mein Vater ist Arzt.",
+    "level": "A1"
+  },
+  {
+    "de": "meist-",
+    "tr": "çoğunlukla-",
+    "example": "Die meisten Norddeutschen sind sehr groß.",
+    "level": "A1"
+  },
+  {
+    "de": "der Mensch",
+    "tr": "insan",
+    "example": "Die Menschen sind hier anders als bei uns.",
+    "level": "A1"
+  },
+  {
+    "de": "mieten",
+    "tr": "kira",
+    "example": "Ich möchte ein Auto mieten.",
+    "level": "A1"
+  },
+  {
+    "de": "die Miete",
+    "tr": "kira",
+    "example": "Die Miete für diese Wohnung ist 600 Euro.",
+    "level": "A1"
+  },
+  {
+    "de": "die Milch",
+    "tr": "süt",
+    "example": "Die Milch steht im Kühlschrank.",
+    "level": "A1"
+  },
+  {
+    "de": "mit",
+    "tr": "ile",
+    "example": "Trinken Sie den Kaffee mit Milch?",
+    "level": "A1"
+  },
+  {
+    "de": "mitbringen",
+    "tr": "yanında getirmek",
+    "example": "Ich gehe einkaufen. Soll ich dir was mitbringen?",
+    "level": "A1"
+  },
+  {
+    "de": "mitkommen",
+    "tr": "gel",
+    "example": "Ich gehe ins Kino. Kommst du mit?",
+    "level": "A1"
+  },
+  {
+    "de": "mitmachen",
+    "tr": "katılmak",
+    "example": "Warum macht ihr nicht mit?",
+    "level": "A1"
+  },
+  {
+    "de": "mitnehmen",
+    "tr": "yanına al",
+    "example": "Nehmen wir meine Schwester ins Kino mit?",
+    "level": "A1"
+  },
+  {
+    "de": "die Mitte",
+    "tr": "orta",
+    "example": "Der Lehrer steht in der Mitte des Klassenzimmers.",
+    "level": "A1"
+  },
+  {
+    "de": "die Möbel",
+    "tr": "mobilyalar",
+    "example": "Sind die Möbel neu?",
+    "level": "A1"
+  },
+  {
+    "de": "möchten",
+    "tr": "istek",
+    "example": "Was möchten Sie trinken?",
+    "level": "A1"
+  },
+  {
+    "de": "mögen",
+    "tr": "beğenmek",
+    "example": "Magst du Kaffee oder Tee?",
+    "level": "A1"
+  },
+  {
+    "de": "möglich",
+    "tr": "olası",
+    "example": "Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.",
+    "level": "A1"
+  },
+  {
+    "de": "der Moment",
+    "tr": "an",
+    "example": "Moment mal bitte!",
+    "level": "A1"
+  },
+  {
+    "de": "morgen",
+    "tr": "Sabah",
+    "example": "Morgen beginnt die Schule um 10 Uhr.",
+    "level": "A1"
+  },
+  {
+    "de": "müde",
+    "tr": "yorgun",
+    "example": "Ich bin müde. Ich gehe schlafen.",
+    "level": "A1"
+  },
+  {
+    "de": "der Mund",
+    "tr": "ağız",
+    "example": "Öffnen Sie den Mund.",
+    "level": "A1"
+  },
+  {
+    "de": "müssen",
+    "tr": "mutlak",
+    "example": "Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.",
+    "level": "A1"
+  },
+  {
+    "de": "die Mutter",
+    "tr": "anne",
+    "example": "Frau Berghäuser ist die Mutter von Michaela.",
+    "level": "A1"
+  },
+  {
+    "de": "nach",
+    "tr": "sonrasında",
+    "example": "Ich gehe jetzt nach Hause.",
+    "level": "A1"
+  },
+  {
+    "de": "nächst-",
+    "tr": "Sonraki-",
+    "example": "Sehen wir uns nächste Woche?",
+    "level": "A1"
+  },
+  {
+    "de": "der Name",
+    "tr": "isim",
+    "example": "Mein Name ist Thomas Schmidt.",
+    "level": "A1"
+  },
+  {
+    "de": "nehmen",
+    "tr": "almak",
+    "example": "Heute gibt es Hähnchen. Das nehme ich.",
+    "level": "A1"
+  },
+  {
+    "de": "nein",
+    "tr": "HAYIR",
+    "example": "Fährst du auch nach München? – Nein, ich habe keine",
+    "level": "A1"
+  },
+  {
+    "de": "neu",
+    "tr": "yeni",
+    "example": "Ich bin der neue Kollege.",
+    "level": "A1"
+  },
+  {
+    "de": "nicht",
+    "tr": "Olumsuz",
+    "example": "Das stimmt nicht.",
+    "level": "A1"
+  },
+  {
+    "de": "nichts",
+    "tr": "Hiçbir şey",
+    "example": "Das macht nichts.",
+    "level": "A1"
+  },
+  {
+    "de": "nie",
+    "tr": "Asla",
+    "example": "Er kommt nie pünktlich.",
+    "level": "A1"
+  },
+  {
+    "de": "noch",
+    "tr": "Hala",
+    "example": "Vielleicht kommt er noch.",
+    "level": "A1"
+  },
+  {
+    "de": "normal",
+    "tr": "normal",
+    "example": "75 kg. Sein Gewicht ist normal.",
+    "level": "A1"
+  },
+  {
+    "de": "die Nummer",
+    "tr": "sayı",
+    "example": "Sie haben Zimmer Nummer zwölf.",
+    "level": "A1"
+  },
+  {
+    "de": "nur",
+    "tr": "sadece",
+    "example": "Ich möchte nur ein Glas Wasser.",
+    "level": "A1"
+  },
+  {
+    "de": "oben",
+    "tr": "üstünde",
+    "example": "Ich wohne oben.",
+    "level": "A1"
+  },
+  {
+    "de": "das Obst",
+    "tr": "meyve",
+    "example": "Im Sommer ist das Obst billig.",
+    "level": "A1"
+  },
+  {
+    "de": "oder",
+    "tr": "veya",
+    "example": "Wann können Sie kommen – heute oder morgen?",
+    "level": "A1"
+  },
+  {
+    "de": "öffnen",
+    "tr": "açık",
+    "example": "Ich öffne die Tür.",
+    "level": "A1"
+  },
+  {
+    "de": "geöffnet",
+    "tr": "açık",
+    "example": "Der Laden ist samstags bis 16.00 Uhr geöffnet.",
+    "level": "A1"
+  },
+  {
+    "de": "oft",
+    "tr": "sıklıkla",
+    "example": "Petra treffe ich oft.",
+    "level": "A1"
+  },
+  {
+    "de": "ohne",
+    "tr": "olmadan",
+    "example": "Ohne Geld kann er nichts kaufen.",
+    "level": "A1"
+  },
+  {
+    "de": "das Öl",
+    "tr": "yağ",
+    "example": "Den Salat machen wir ohne Öl.",
+    "level": "A1"
+  },
+  {
+    "de": "die Oma",
+    "tr": "büyükanne",
+    "example": "Meine Oma ist schon tot.",
+    "level": "A1"
+  },
+  {
+    "de": "der Opa",
+    "tr": "büyükbaba",
+    "example": "Mein Opa heißt Hans.",
+    "level": "A1"
+  },
+  {
+    "de": "die Ordnung",
+    "tr": "sipariş",
+    "example": "Das ist in Ordnung.",
+    "level": "A1"
+  },
+  {
+    "de": "der Ort",
+    "tr": "yer",
+    "example": "Der Ort liegt am Meer.",
+    "level": "A1"
+  },
+  {
+    "de": "das Papier",
+    "tr": "kağıt",
+    "example": "Hier sind Papier und Bleistift.",
+    "level": "A1"
+  },
+  {
+    "de": "die Papiere",
+    "tr": "gazeteler",
+    "example": "Haben Sie Ihre Papiere dabei?",
+    "level": "A1"
+  },
+  {
+    "de": "die Partnerin",
+    "tr": "ortak",
+    "example": "Sie ist meine Partnerin.",
+    "level": "A1"
+  },
+  {
+    "de": "die Party",
+    "tr": "parti",
+    "example": "Heute Abend machen wir eine Party.",
+    "level": "A1"
+  },
+  {
+    "de": "der Pass, -ä",
+    "tr": "pasaport, -ä",
+    "example": "Im Hotel brauchst du deinen Pass.",
+    "level": "A1"
+  },
+  {
+    "de": "die Pause",
+    "tr": "mola",
+    "example": "Von 12.00 bis 12.30 Uhr haben wir Mittagspause.",
+    "level": "A1"
+  },
+  {
+    "de": "der Plan, -ä",
+    "tr": "plan, -ä",
+    "example": "Ich kaufe mir einen Stadtplan.",
+    "level": "A1"
+  },
+  {
+    "de": "der Platz, -ä",
+    "tr": "yer, -ä",
+    "example": "Tut mir leid, der Platz ist besetzt.",
+    "level": "A1"
+  },
+  {
+    "de": "die Polizei",
+    "tr": "polis",
+    "example": "Holen Sie die Polizei!",
+    "level": "A1"
+  },
+  {
+    "de": "die Pommes frites",
+    "tr": "patates kızartması",
+    "example": "Die Kinder essen Hähnchen mit Pommes frites.",
+    "level": "A1"
+  },
+  {
+    "de": "die Post",
+    "tr": "gönderi",
+    "example": "Wo ist die Post, bitte?",
+    "level": "A1"
+  },
+  {
+    "de": "die Postleitzahl",
+    "tr": "posta kodu",
+    "example": "Wie ist Ihre Postleitzahl?",
+    "level": "A1"
+  },
+  {
+    "de": "das Praktikum",
+    "tr": "staj",
+    "example": "Ich mache ein Praktikum bei Siemens.",
+    "level": "A1"
+  },
+  {
+    "de": "die Praxis",
+    "tr": "pratik",
+    "example": "Die Praxis ist ab acht Uhr geöffnet.",
+    "level": "A1"
+  },
+  {
+    "de": "der Preis",
+    "tr": "fiyat",
+    "example": "Die Preise sind hoch.",
+    "level": "A1"
+  },
+  {
+    "de": "das Problem",
+    "tr": "sorun",
+    "example": "Mein Problem ist die Sprache.",
+    "level": "A1"
+  },
+  {
+    "de": "der Prospekt",
+    "tr": "prospektüs",
+    "example": "Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.",
+    "level": "A1"
+  },
+  {
+    "de": "die Prüfung",
+    "tr": "sınav",
+    "example": "Die Prüfung ist am Montag um 8.00 Uhr.",
+    "level": "A1"
+  },
+  {
+    "de": "pünktlich",
+    "tr": "zamanında",
+    "example": "Der Bus fährt pünktlich um acht Uhr.",
+    "level": "A1"
+  },
+  {
+    "de": "Rad fahren",
+    "tr": "bisiklet sürmek",
+    "example": "Das Kind kann schon Rad fahren.",
+    "level": "A1"
+  },
+  {
+    "de": "rauchen",
+    "tr": "duman",
+    "example": "Ich rauche nicht.",
+    "level": "A1"
+  },
+  {
+    "de": "der Raum, -ä",
+    "tr": "oda, -ä",
+    "example": "Der Unterricht ist in Raum 332.",
+    "level": "A1"
+  },
+  {
+    "de": "die Rechnung",
+    "tr": "fatura",
+    "example": "Die Rechnung, bitte.",
+    "level": "A1"
+  },
+  {
+    "de": "rechts",
+    "tr": "Sağ",
+    "example": "Die Schillerstraße ist hier rechts.",
+    "level": "A1"
+  },
+  {
+    "de": "regnen",
+    "tr": "yağmur",
+    "example": "Heute regnet es.",
+    "level": "A1"
+  },
+  {
+    "de": "der Regen",
+    "tr": "yağmur",
+    "example": "Bei diesem Regen gehe ich nicht raus.",
+    "level": "A1"
+  },
+  {
+    "de": "der Reis",
+    "tr": "pirinç",
+    "example": "Ich esse gern Reis.",
+    "level": "A1"
+  },
+  {
+    "de": "reisen",
+    "tr": "seyahat",
+    "example": "Ich reise gern.",
+    "level": "A1"
+  },
+  {
+    "de": "die Reise",
+    "tr": "yolculuk",
+    "example": "Wir machen eine Reise nach Österreich.",
+    "level": "A1"
+  },
+  {
+    "de": "das Reisebüro",
+    "tr": "seyahat acentesi",
+    "example": "Mein Mann arbeitet im Reisebüro.",
+    "level": "A1"
+  },
+  {
+    "de": "der Reiseführer",
+    "tr": "seyahat rehberi",
+    "example": "Ich kaufe mir einen Reiseführer von Berlin.",
+    "level": "A1"
+  },
+  {
+    "de": "reparieren",
+    "tr": "tamirat",
+    "example": "Er hat das Fahrrad repariert.",
+    "level": "A1"
+  },
+  {
+    "de": "die Reparatur",
+    "tr": "onarım",
+    "example": "Die Reparatur ist sehr teuer.",
+    "level": "A1"
+  },
+  {
+    "de": "das Restaurant",
+    "tr": "restoran",
+    "example": "Wir essen heute in einem Restaurant.",
+    "level": "A1"
+  },
+  {
+    "de": "die Rezeption",
+    "tr": "resepsiyon",
+    "example": "Fragen Sie bitte im Hotel an der Rezeption.",
+    "level": "A1"
+  },
+  {
+    "de": "richtig",
+    "tr": "doğru",
+    "example": "Habe ich das richtig verstanden?",
+    "level": "A1"
+  },
+  {
+    "de": "riechen",
+    "tr": "koku",
+    "example": "Dieser Wein riecht gut.",
+    "level": "A1"
+  },
+  {
+    "de": "ruhig",
+    "tr": "sessizlik",
+    "example": "Ich möchte ein ruhiges Zimmer.",
+    "level": "A1"
+  },
+  {
+    "de": "der Saft",
+    "tr": "meyve suyu",
+    "example": "Möchtest du einen Apfelsaft?",
+    "level": "A1"
+  },
+  {
+    "de": "sagen",
+    "tr": "söylemek",
+    "example": "Sag mal, wie geht es dir denn?",
+    "level": "A1"
+  },
+  {
+    "de": "der Salat",
+    "tr": "salata",
+    "example": "Wie schmeckt dir der Salat?",
+    "level": "A1"
+  },
+  {
+    "de": "das Salz",
+    "tr": "tuz",
+    "example": "Herr Ober, kann ich bitte Salz haben?",
+    "level": "A1"
+  },
+  {
+    "de": "Satz, -ä",
+    "tr": "Cümle, -ä",
+    "example": "Dieser Satz ist sehr einfach.",
+    "level": "A1"
+  },
+  {
+    "de": "die S-Bahn",
+    "tr": "S-Bahn",
+    "example": "Ich nehme lieber die S-Bahn.",
+    "level": "A1"
+  },
+  {
+    "de": "der Schalter",
+    "tr": "masa",
+    "example": "Gehen Sie bitte zum Schalter drei!",
+    "level": "A1"
+  },
+  {
+    "de": "scheinen",
+    "tr": "gözükmek",
+    "example": "Die Sonne scheint.",
+    "level": "A1"
+  },
+  {
+    "de": "schicken",
+    "tr": "Göndermek",
+    "example": "Bitte schicken Sie mir eine E-Mail.",
+    "level": "A1"
+  },
+  {
+    "de": "das Schild",
+    "tr": "kalkan",
+    "example": "Haben Sie nicht das Schild gesehen?",
+    "level": "A1"
+  },
+  {
+    "de": "der Schinken, –",
+    "tr": "jambon, -",
+    "example": "Ich möchte gern ein Schinkenbrot.",
+    "level": "A1"
+  },
+  {
+    "de": "schlafen",
+    "tr": "uyumak",
+    "example": "Ich schlafe meistens acht Stunden.",
+    "level": "A1"
+  },
+  {
+    "de": "schlecht",
+    "tr": "kötü",
+    "example": "Mir ist schlecht!",
+    "level": "A1"
+  },
+  {
+    "de": "schließen",
+    "tr": "kapalı",
+    "example": "Bitte, schließen Sie die Tür.",
+    "level": "A1"
+  },
+  {
+    "de": "geschlossen",
+    "tr": "kapalı",
+    "example": "Die Bank hat am Samstag geschlossen.",
+    "level": "A1"
+  },
+  {
+    "de": "der Schluss",
+    "tr": "sonuç",
+    "example": "Ich muss jetzt Schluss machen.",
+    "level": "A1"
+  },
+  {
+    "de": "der Schlüssel, –",
+    "tr": "anahtar, -",
+    "example": "Ich gebe Ihnen noch den Zimmerschlüssel.",
+    "level": "A1"
+  },
+  {
+    "de": "schmecken",
+    "tr": "tadı güzel",
+    "example": "Schmeckt das gut?",
+    "level": "A1"
+  },
+  {
+    "de": "schnell",
+    "tr": "hızlı",
+    "example": "Er fährt schnell.",
+    "level": "A1"
+  },
+  {
+    "de": "schon",
+    "tr": "çoktan",
+    "example": "Ist das Essen schon fertig?",
+    "level": "A1"
+  },
+  {
+    "de": "schön",
+    "tr": "Güzel",
+    "example": "Schönen Urlaub!",
+    "level": "A1"
+  },
+  {
+    "de": "der Schrank, -ä",
+    "tr": "dolap, -ä",
+    "example": "Die Gläser stehen im Schrank.",
+    "level": "A1"
+  },
+  {
+    "de": "schreiben",
+    "tr": "yazmak",
+    "example": "Er schreibt jeden Tag fünfzig E-Mails.",
+    "level": "A1"
+  },
+  {
+    "de": "der Schuh",
+    "tr": "ayakkabı",
+    "example": "Zieh die Schuhe aus!",
+    "level": "A1"
+  },
+  {
+    "de": "die Schule",
+    "tr": "okul",
+    "example": "Meine Tochter geht schon in die Schule.",
+    "level": "A1"
+  },
+  {
+    "de": "der Schüler, –",
+    "tr": "öğrenci, -",
+    "example": "In meinem Kurs sind acht Schülerinnen und fünf",
+    "level": "A1"
+  },
+  {
+    "de": "schwer",
+    "tr": "zor",
+    "example": "Ist Ihr Gepäck sehr schwer?",
+    "level": "A1"
+  },
+  {
+    "de": "die Schwester",
+    "tr": "kız kardeş",
+    "example": "Meine Schwester kommt am Dienstag.",
+    "level": "A1"
+  },
+  {
+    "de": "schwimmen",
+    "tr": "yüzmek",
+    "example": "Ich schwimme jeden Tag einen Kilometer.",
+    "level": "A1"
+  },
+  {
+    "de": "das Schwimmbad",
+    "tr": "yüzme havuzu",
+    "example": "Kommst du mit ins Schwimmbad?",
+    "level": "A1"
+  },
+  {
+    "de": "der See",
+    "tr": "göl",
+    "example": "Komm, wir fahren zum Starnberger See.",
+    "level": "A1"
+  },
+  {
+    "de": "sehen",
+    "tr": "Görmek",
+    "example": "Ich kann dich nicht sehen.",
+    "level": "A1"
+  },
+  {
+    "de": "sehr",
+    "tr": "çok",
+    "example": "Danke sehr!",
+    "level": "A1"
+  },
+  {
+    "de": "sein",
+    "tr": "olmak",
+    "example": "Herr Müller ist in seinem Zimmer.",
+    "level": "A1"
+  },
+  {
+    "de": "weg sein",
+    "tr": "uzakta olmak",
+    "example": "Herr Meier ist schon weg.",
+    "level": "A1"
+  },
+  {
+    "de": "zu sein",
+    "tr": "olmak",
+    "example": "Die Tür ist zu.",
+    "level": "A1"
+  },
+  {
+    "de": "seit",
+    "tr": "o zamandan beri",
+    "example": "Ich wohne seit drei Jahren in Köln.",
+    "level": "A1"
+  },
+  {
+    "de": "selbstständig",
+    "tr": "serbest meslek",
+    "example": "Er ist selbstständig.",
+    "level": "A1"
+  },
+  {
+    "de": "sie",
+    "tr": "o",
+    "example": "Wie heißt sie?",
+    "level": "A1"
+  },
+  {
+    "de": "sitzen",
+    "tr": "oturmak",
+    "example": "Wo sitzen Sie?",
+    "level": "A1"
+  },
+  {
+    "de": "so",
+    "tr": "Bu yüzden",
+    "example": "Sie müssen das so machen!",
+    "level": "A1"
+  },
+  {
+    "de": "das Sofa",
+    "tr": "kanepe",
+    "example": "Das Sofa ist neu.",
+    "level": "A1"
+  },
+  {
+    "de": "sofort",
+    "tr": "hemen",
+    "example": "Bitte antworten Sie sofort.",
+    "level": "A1"
+  },
+  {
+    "de": "der Sohn, -ö",
+    "tr": "oğlu, -ö",
+    "example": "Das ist Hans, mein Sohn.",
+    "level": "A1"
+  },
+  {
+    "de": "sollen",
+    "tr": "yapmalı",
+    "example": "Soll ich kommen?",
+    "level": "A1"
+  },
+  {
+    "de": "die Sonne",
+    "tr": "güneş",
+    "example": "Die Sonne scheint.",
+    "level": "A1"
+  },
+  {
+    "de": "spät",
+    "tr": "geç",
+    "example": "Es ist schon spät, ich muss gehen.",
+    "level": "A1"
+  },
+  {
+    "de": "später",
+    "tr": "Daha sonra",
+    "example": "Das können wir später machen.",
+    "level": "A1"
+  },
+  {
+    "de": "die Speisekarte",
+    "tr": "menü",
+    "example": "Bringen Sie mir die Speisekarte, bitte.",
+    "level": "A1"
+  },
+  {
+    "de": "spielen",
+    "tr": "oynamak",
+    "example": "Die Kinder spielen draußen.",
+    "level": "A1"
+  },
+  {
+    "de": "der Sport",
+    "tr": "spor",
+    "example": "Ich mache viel Sport.",
+    "level": "A1"
+  },
+  {
+    "de": "die Sprache",
+    "tr": "dil",
+    "example": "Welche Sprachen sprichst du?",
+    "level": "A1"
+  },
+  {
+    "de": "sprechen",
+    "tr": "konuşmak",
+    "example": "Kann ich (mit) Herrn Klein sprechen?",
+    "level": "A1"
+  },
+  {
+    "de": "die Stadt, -ä",
+    "tr": "şehir, -ä",
+    "example": "Heidelberg ist eine alte Stadt.",
+    "level": "A1"
+  },
+  {
+    "de": "stehen",
+    "tr": "durmak",
+    "example": "Ich glaube es nicht, aber es steht in der Zeitung.",
+    "level": "A1"
+  },
+  {
+    "de": "die Stelle",
+    "tr": "nokta",
+    "example": "Ich habe eine neue Stelle.",
+    "level": "A1"
+  },
+  {
+    "de": "stellen",
+    "tr": "yer",
+    "example": "Stell die Tasche rechts in die Ecke!",
+    "level": "A1"
+  },
+  {
+    "de": "der Stock",
+    "tr": "sopa",
+    "example": "Unsere Wohnung liegt im ersten Stock.",
+    "level": "A1"
+  },
+  {
+    "de": "die Straße",
+    "tr": "sokak",
+    "example": "In welcher Straße wohnen Sie?",
+    "level": "A1"
+  },
+  {
+    "de": "die Straßenbahn",
+    "tr": "tramvay",
+    "example": "Wo fährt die Straßenbahn ab?",
+    "level": "A1"
+  },
+  {
+    "de": "studieren",
+    "tr": "çalışmak",
+    "example": "Ich studiere in Mainz.",
+    "level": "A1"
+  },
+  {
+    "de": "das Studium",
+    "tr": "çalışma",
+    "example": "Das Studium beginnt im Oktober.",
+    "level": "A1"
+  },
+  {
+    "de": "der Student",
+    "tr": "öğrenci",
+    "example": "Ich bin Studentin.",
+    "level": "A1"
+  },
+  {
+    "de": "die Stunde",
+    "tr": "saat",
+    "example": "Ich bin in einer Stunde zurück.",
+    "level": "A1"
+  },
+  {
+    "de": "suchen",
+    "tr": "aramak",
+    "example": "Suchst du etwas?",
+    "level": "A1"
+  },
+  {
+    "de": "tanzen",
+    "tr": "dans",
+    "example": "Tanzen Sie gern?",
+    "level": "A1"
+  },
+  {
+    "de": "die Tasche",
+    "tr": "çanta",
+    "example": "Ich habe die Schlüssel in der Tasche.",
+    "level": "A1"
+  },
+  {
+    "de": "das Taxi",
+    "tr": "taksi",
+    "example": "Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi.",
+    "level": "A1"
+  },
+  {
+    "de": "der Tee",
+    "tr": "çay",
+    "example": "Ich trinke morgens immer Tee.",
+    "level": "A1"
+  },
+  {
+    "de": "der Teil",
+    "tr": "parça",
+    "example": "Lies bitte auch den zweiten Teil.",
+    "level": "A1"
+  },
+  {
+    "de": "telefonieren",
+    "tr": "telefon görüşmesi yapmak",
+    "example": "Darf ich mal telefonieren?",
+    "level": "A1"
+  },
+  {
+    "de": "das Telefon",
+    "tr": "telefon",
+    "example": "Haben Sie Telefon?",
+    "level": "A1"
+  },
+  {
+    "de": "der Termin",
+    "tr": "randevu",
+    "example": "Am besten machen wir sofort einen Termin.",
+    "level": "A1"
+  },
+  {
+    "de": "der Test",
+    "tr": "test",
+    "example": "Der Test war einfach.",
+    "level": "A1"
+  },
+  {
+    "de": "teuer",
+    "tr": "masraflı",
+    "example": "Das ist mir zu teuer.",
+    "level": "A1"
+  },
+  {
+    "de": "der Text",
+    "tr": "metin",
+    "example": "Lesen Sie bitte diesen Text.",
+    "level": "A1"
+  },
+  {
+    "de": "das Thema",
+    "tr": "konu",
+    "example": "Wir sprechen heute über das Thema „Essen und",
+    "level": "A1"
+  },
+  {
+    "de": "das Ticket",
+    "tr": "bilet",
+    "example": "Wie viel kostet das Ticket?",
+    "level": "A1"
+  },
+  {
+    "de": "der Tisch",
+    "tr": "masa",
+    "example": "Die Fotos liegen auf dem Tisch.",
+    "level": "A1"
+  },
+  {
+    "de": "die Tochter",
+    "tr": "kızı",
+    "example": "Das ist meine Tochter Katharina.",
+    "level": "A1"
+  },
+  {
+    "de": "die Toilette",
+    "tr": "tuvalet",
+    "example": "Wo ist die Toilette, bitte?",
+    "level": "A1"
+  },
+  {
+    "de": "die Tomate",
+    "tr": "domates",
+    "example": "Die Tomate ist noch grün.",
+    "level": "A1"
+  },
+  {
+    "de": "tot",
+    "tr": "ölü",
+    "example": "Sein Vater ist schon lange tot.",
+    "level": "A1"
+  },
+  {
+    "de": "treffen",
+    "tr": "tanışmak",
+    "example": "Ich treffe in der Stadt einen Kollegen.",
+    "level": "A1"
+  },
+  {
+    "de": "die Treppe",
+    "tr": "merdivenler",
+    "example": "Die Toilette? Die Treppe hoch und dann links.",
+    "level": "A1"
+  },
+  {
+    "de": "trinken",
+    "tr": "içmek",
+    "example": "Möchtest du etwas trinken?",
+    "level": "A1"
+  },
+  {
+    "de": "tschüss",
+    "tr": "güle güle",
+    "example": "Junge Leute sagen meistens „tschüss!“ und nicht",
+    "level": "A1"
+  },
+  {
+    "de": "tun",
+    "tr": "Yapmak",
+    "example": "Ich habe noch etwas zu tun.",
+    "level": "A1"
+  },
+  {
+    "de": "über",
+    "tr": "üstünde",
+    "example": "Gehen Sie hier über die Straße.",
+    "level": "A1"
+  },
+  {
+    "de": "übernachten",
+    "tr": "geceyi geçirmek",
+    "example": "Du kannst bei mir übernachten.",
+    "level": "A1"
+  },
+  {
+    "de": "überweisen",
+    "tr": "aktarma",
+    "example": "Sie können das Geld auch überweisen.",
+    "level": "A1"
+  },
+  {
+    "de": "die Uhr",
+    "tr": "saat",
+    "example": "Es ist vier Uhr.",
+    "level": "A1"
+  },
+  {
+    "de": "um",
+    "tr": "etrafında",
+    "example": "Er kommt um sieben Uhr.",
+    "level": "A1"
+  },
+  {
+    "de": "umziehen",
+    "tr": "taşınmak",
+    "example": "Nächsten Monat ziehen wir um.",
+    "level": "A1"
+  },
+  {
+    "de": "und",
+    "tr": "Ve",
+    "example": "Peter und Helmut sind meine Söhne.",
+    "level": "A1"
+  },
+  {
+    "de": "unser-",
+    "tr": "bizim-",
+    "example": "Das ist unsere Lehrerin.",
+    "level": "A1"
+  },
+  {
+    "de": "unten",
+    "tr": "altında",
+    "example": "Er wohnt ganz unten im Haus.",
+    "level": "A1"
+  },
+  {
+    "de": "unter",
+    "tr": "altında",
+    "example": "Unter uns wohnt eine Familie mit drei Kindern.",
+    "level": "A1"
+  },
+  {
+    "de": "der Unterricht",
+    "tr": "ders",
+    "example": "Wir haben Unterricht von 8.00 bis 12.00 Uhr.",
+    "level": "A1"
+  },
+  {
+    "de": "unterschreiben",
+    "tr": "imza",
+    "example": "Wo muss ich unterschreiben?",
+    "level": "A1"
+  },
+  {
+    "de": "die Unterschrift",
+    "tr": "imza",
+    "example": "Hier fehlt noch Ihre Unterschrift.",
+    "level": "A1"
+  },
+  {
+    "de": "der Urlaub",
+    "tr": "tatiller",
+    "example": "Ich nehme im September Urlaub.",
+    "level": "A1"
+  },
+  {
+    "de": "der Vater",
+    "tr": "baba",
+    "example": "Mein Vater ist Arbeiter.",
+    "level": "A1"
+  },
+  {
+    "de": "verboten",
+    "tr": "yasaklı",
+    "example": "Hier ist Rauchen verboten.",
+    "level": "A1"
+  },
+  {
+    "de": "verdienen",
+    "tr": "para kazanmak",
+    "example": "Ich verdiene 1.500 Euro im Monat.",
+    "level": "A1"
+  },
+  {
+    "de": "der Verein",
+    "tr": "Birlik",
+    "example": "Es gibt einen neuen Sportverein in der Stadt.",
+    "level": "A1"
+  },
+  {
+    "de": "verheiratet",
+    "tr": "evli",
+    "example": "Ich bin verheiratet und habe drei Kinder.",
+    "level": "A1"
+  },
+  {
+    "de": "verkaufen",
+    "tr": "satmak",
+    "example": "Er verkauft sein altes Auto.",
+    "level": "A1"
+  },
+  {
+    "de": "der Verkäufer, –",
+    "tr": "satıcı, -",
+    "example": "Meine Mutter ist Verkäuferin im Kaufhaus.",
+    "level": "A1"
+  },
+  {
+    "de": "vermieten",
+    "tr": "kira",
+    "example": "Die Wohnung ist schon vermietet.",
+    "level": "A1"
+  },
+  {
+    "de": "der Vermieter",
+    "tr": "ev sahibi",
+    "example": "Unser Vermieter heißt Huber. Er wohnt auch hier.",
+    "level": "A1"
+  },
+  {
+    "de": "verstehen",
+    "tr": "anlamak",
+    "example": "Können Sie mich verstehen?",
+    "level": "A1"
+  },
+  {
+    "de": "der Verwandte",
+    "tr": "akraba",
+    "example": "Peter besucht seine Verwandten in Polen.",
+    "level": "A1"
+  },
+  {
+    "de": "viel",
+    "tr": "fazla",
+    "example": "Hier regnet es viel.",
+    "level": "A1"
+  },
+  {
+    "de": "vielleicht",
+    "tr": "belki",
+    "example": "Ich komme vielleicht mit dem Bus.",
+    "level": "A1"
+  },
+  {
+    "de": "von",
+    "tr": "itibaren",
+    "example": "Das Auto von Felix ist kaputt.",
+    "level": "A1"
+  },
+  {
+    "de": "vor",
+    "tr": "önce",
+    "example": "Der Termin war vor einer Stunde.",
+    "level": "A1"
+  },
+  {
+    "de": "der Vorname",
+    "tr": "ilk isim",
+    "example": "Ich heiße Müller, mein Vorname ist Eva.",
+    "level": "A1"
+  },
+  {
+    "de": "die Vorsicht",
+    "tr": "dikkat",
+    "example": "Vorsicht! Da kommt ein Auto.",
+    "level": "A1"
+  },
+  {
+    "de": "vorstellen",
+    "tr": "tanıtmak",
+    "example": "Wir wollen uns kennenlernen. Können Sie sich bitte",
+    "level": "A1"
+  },
+  {
+    "de": "die Vorwahl",
+    "tr": "alan kodu",
+    "example": "Wie ist die Vorwahl von München?",
+    "level": "A1"
+  },
+  {
+    "de": "wandern",
+    "tr": "yürüyüş",
+    "example": "Wir wandern um den Chiemsee.",
+    "level": "A1"
+  },
+  {
+    "de": "wann",
+    "tr": "Ne zaman",
+    "example": "Wann bist du fertig?",
+    "level": "A1"
+  },
+  {
+    "de": "warten",
+    "tr": "Beklemek",
+    "example": "Können Sie ein paar Minuten warten?",
+    "level": "A1"
+  },
+  {
+    "de": "warum",
+    "tr": "Neden",
+    "example": "Warum kommt er nicht?",
+    "level": "A1"
+  },
+  {
+    "de": "was",
+    "tr": "Ne",
+    "example": "Was ist das?",
+    "level": "A1"
+  },
+  {
+    "de": "waschen",
+    "tr": "yıkamak",
+    "example": "Wo kann ich mir die Hände waschen?",
+    "level": "A1"
+  },
+  {
+    "de": "das Wasser",
+    "tr": "su",
+    "example": "Ein Glas Wasser, bitte.",
+    "level": "A1"
+  },
+  {
+    "de": "weh tun",
+    "tr": "acıtmak",
+    "example": "Ich muss zum Arzt. Mein Bein tut weh.",
+    "level": "A1"
+  },
+  {
+    "de": "weiblich",
+    "tr": "dişi",
+    "example": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+    "level": "A1"
+  },
+  {
+    "de": "der Wein",
+    "tr": "şarap",
+    "example": "Nein danke, ich möchte keinen Wein.",
+    "level": "A1"
+  },
+  {
+    "de": "weit",
+    "tr": "uzak",
+    "example": "Zum Bahnhof ist es nicht weit.",
+    "level": "A1"
+  },
+  {
+    "de": "weiter",
+    "tr": "daha öte",
+    "example": "Der Bus fährt nicht weiter.",
+    "level": "A1"
+  },
+  {
+    "de": "welch-",
+    "tr": "Hangi-",
+    "example": "Welches Buch möchtest du?",
+    "level": "A1"
+  },
+  {
+    "de": "die Welt",
+    "tr": "dünya",
+    "example": "Es gibt viele Probleme auf der Welt.",
+    "level": "A1"
+  },
+  {
+    "de": "wenig",
+    "tr": "bir kaç",
+    "example": "Ich habe leider nur wenig verstanden.",
+    "level": "A1"
+  },
+  {
+    "de": "wer",
+    "tr": "DSÖ",
+    "example": "Wer ist das?",
+    "level": "A1"
+  },
+  {
+    "de": "werden",
+    "tr": "haline gelmek",
+    "example": "Mein Sohn will Arzt werden.",
+    "level": "A1"
+  },
+  {
+    "de": "das Wetter",
+    "tr": "hava",
+    "example": "Wir hatten schlechtes Wetter.",
+    "level": "A1"
+  },
+  {
+    "de": "wichtig",
+    "tr": "önemli",
+    "example": "Dieses Formular ist sehr wichtig.",
+    "level": "A1"
+  },
+  {
+    "de": "wie",
+    "tr": "Nasıl",
+    "example": "Wie heißt du?",
+    "level": "A1"
+  },
+  {
+    "de": "wiederholen",
+    "tr": "tekrarlamak",
+    "example": "Können Sie das bitte wiederholen?",
+    "level": "A1"
+  },
+  {
+    "de": "das Wiederhören",
+    "tr": "yeniden duruşma",
+    "example": "Wir müssen jetzt Schluss machen.",
+    "level": "A1"
+  },
+  {
+    "de": "das Wiedersehen",
+    "tr": "yeniden birleşme",
+    "example": "Auf Wiedersehen!",
+    "level": "A1"
+  },
+  {
+    "de": "willkommen",
+    "tr": "Hoş geldin",
+    "example": "Herzlich willkommen!",
+    "level": "A1"
+  },
+  {
+    "de": "der Wind",
+    "tr": "rüzgar",
+    "example": "Der Wind kommt aus Osten.",
+    "level": "A1"
+  },
+  {
+    "de": "wir",
+    "tr": "Biz",
+    "example": "Wir lernen Deutsch.",
+    "level": "A1"
+  },
+  {
+    "de": "wissen",
+    "tr": "bilgi",
+    "example": "Weißt du, wie er heißt?",
+    "level": "A1"
+  },
+  {
+    "de": "wo",
+    "tr": "Neresi",
+    "example": "Wo waren Sie im Urlaub?",
+    "level": "A1"
+  },
+  {
+    "de": "woher",
+    "tr": "nereden",
+    "example": "Woher kommen Sie?",
+    "level": "A1"
+  },
+  {
+    "de": "wohin",
+    "tr": "Neresi",
+    "example": "Wohin fährt dieser Bus?",
+    "level": "A1"
+  },
+  {
+    "de": "wohnen",
+    "tr": "ikamet etmek",
+    "example": "Ich wohne in München.",
+    "level": "A1"
+  },
+  {
+    "de": "die Wohnung",
+    "tr": "daire",
+    "example": "Seit wann haben Sie diese Wohnung?",
+    "level": "A1"
+  },
+  {
+    "de": "wollen",
+    "tr": "istek",
+    "example": "Wollen Sie einen Kaffee trinken?",
+    "level": "A1"
+  },
+  {
+    "de": "das Wort, -ö, er/-e",
+    "tr": "kelime, -ö, o/-e",
+    "example": "Ich kenne das Wort nicht.",
+    "level": "A1"
+  },
+  {
+    "de": "wunderbar",
+    "tr": "müthiş",
+    "example": "Das Essen schmeckt wunderbar.",
+    "level": "A1"
+  },
+  {
+    "de": "zahlen",
+    "tr": "ödemek",
+    "example": "Zahlen, bitte!",
+    "level": "A1"
+  },
+  {
+    "de": "die Zeit",
+    "tr": "zaman",
+    "example": "Ich habe heute keine Zeit.",
+    "level": "A1"
+  },
+  {
+    "de": "zurzeit",
+    "tr": "şu anda",
+    "example": "Zurzeit habe ich sehr viel zu tun.",
+    "level": "A1"
+  },
+  {
+    "de": "die Zeitung",
+    "tr": "gazete",
+    "example": "Ich lese gern Zeitung.",
+    "level": "A1"
+  },
+  {
+    "de": "die Zigarette",
+    "tr": "sigara",
+    "example": "Wie teuer sind die Zigaretten?",
+    "level": "A1"
+  },
+  {
+    "de": "das Zimmer, –",
+    "tr": "oda, -",
+    "example": "Das Zimmer ist groß.",
+    "level": "A1"
+  },
+  {
+    "de": "der Zoll",
+    "tr": "gümrükler",
+    "example": "Wir müssen noch durch den Zoll.",
+    "level": "A1"
+  },
+  {
+    "de": "zufrieden",
+    "tr": "memnun",
+    "example": "Ich bin mit der Wohnung zufrieden.",
+    "level": "A1"
+  },
+  {
+    "de": "der Zug, -ü",
+    "tr": "tren, -ü",
+    "example": "Ich fahre gern mit dem Zug.",
+    "level": "A1"
+  },
+  {
+    "de": "zurück",
+    "tr": "geri",
+    "example": "Einmal Frankfurt und zurück.",
+    "level": "A1"
+  },
+  {
+    "de": "zusammen",
+    "tr": "birlikte",
+    "example": "Sollen wir zusammen essen gehen?",
+    "level": "A1"
+  },
+  {
+    "de": "zwischen",
+    "tr": "arasında",
+    "example": "Heidelberg liegt zwischen Frankfurt und Stuttgart.",
+    "level": "A1"
+  },
+  {
+    "de": "ändern",
+    "tr": "değiştirmek",
+    "example": "Das Wetter hat sich geändert.",
+    "level": "A2"
+  },
+  {
+    "de": "anders",
+    "tr": "farklı",
+    "example": "Anders geht das leider nicht.",
+    "level": "A2"
+  },
+  {
+    "de": "abschließen",
+    "tr": "tamamlamak",
+    "example": "Hast du die Tür abgeschlossen?",
+    "level": "A2"
+  },
+  {
+    "de": "aktiv",
+    "tr": "aktif",
+    "example": "Peter ist sehr aktiv und macht viel Sport.",
+    "level": "A2"
+  },
+  {
+    "de": "aktuell",
+    "tr": "akım",
+    "example": "Das ist das aktuelle Kinoprogramm.",
+    "level": "A2"
+  },
+  {
+    "de": "meldet",
+    "tr": "raporlar",
+    "example": "Eine Anmeldung für diesen Kurs ist nicht mehr",
+    "level": "A2"
+  },
+  {
+    "de": "als",
+    "tr": "gibi",
+    "example": "Hector ist jünger als seine Schwester.",
+    "level": "A2"
+  },
+  {
+    "de": "ansehen",
+    "tr": "görüş",
+    "example": "Darf ich eure Urlaubsfotos ansehen?",
+    "level": "A2"
+  },
+  {
+    "de": "ärgern",
+    "tr": "kızdırmak",
+    "example": "Warum ärgerst du dich? - Ich ärgere mich, weil das",
+    "level": "A2"
+  },
+  {
+    "de": "ärgert",
+    "tr": "rahatsız ediyor",
+    "example": "Wetter schlecht ist.",
+    "level": "A2"
+  },
+  {
+    "de": "ausgeben",
+    "tr": "harcamak",
+    "example": "Agata gibt viel Geld für Bücher aus.",
+    "level": "A2"
+  },
+  {
+    "de": "ausgehen",
+    "tr": "dışarı çıkmak",
+    "example": "Gehen wir am Freitag zusammen aus?",
+    "level": "A2"
+  },
+  {
+    "de": "auspacken",
+    "tr": "ambalajı açma",
+    "example": "Packst du bitte den Koffer aus?",
+    "level": "A2"
+  },
+  {
+    "de": "ausruhen",
+    "tr": "rahatlamak",
+    "example": "Ruh dich erst mal aus! Du bist sicher müde.",
+    "level": "A2"
+  },
+  {
+    "de": "ruht",
+    "tr": "dinlenme",
+    "example": "Er ruht sich nach der Arbeit immer aus.",
+    "level": "A2"
+  },
+  {
+    "de": "keinen",
+    "tr": "hiçbiri",
+    "example": "Film sehen. - Wirklich? Ich finde James-Bond-Filme",
+    "level": "A2"
+  },
+  {
+    "de": "außer",
+    "tr": "hariç",
+    "example": "Außer Lisa möchte niemand den Film sehen.",
+    "level": "A2"
+  },
+  {
+    "de": "aufmachen",
+    "tr": "açılmak",
+    "example": "Kannst du bitte die Tür aufmachen?",
+    "level": "A2"
+  },
+  {
+    "de": "außerdem",
+    "tr": "bunun dışında",
+    "example": "Vier Brötchen, möchten Sie außerdem noch etwas?",
+    "level": "A2"
+  },
+  {
+    "de": "außerhalb",
+    "tr": "dıştan",
+    "example": "Die Wohnung ist nicht in der Stadt, sie liegt etwas",
+    "level": "A2"
+  },
+  {
+    "de": "aufpassen",
+    "tr": "dikkat",
+    "example": "Pass auf, der Teller fällt gleich auf den Boden!",
+    "level": "A2"
+  },
+  {
+    "de": "passt",
+    "tr": "uyuyor",
+    "example": "Der Babysitter passt heute Abend auf die Kinder",
+    "level": "A2"
+  },
+  {
+    "de": "aussprechen",
+    "tr": "ifade etmek",
+    "example": "Wie spricht man das Wort aus?",
+    "level": "A2"
+  },
+  {
+    "de": "aufräumen",
+    "tr": "Temizlemek",
+    "example": "Die Kinder müssen ihr Zimmer aufräumen.",
+    "level": "A2"
+  },
+  {
+    "de": "steigt",
+    "tr": "yükselir",
+    "example": "Haltestelle.",
+    "level": "A2"
+  },
+  {
+    "de": "aufregend",
+    "tr": "heyecan verici",
+    "example": "Die letzte Woche war sehr aufregend.",
+    "level": "A2"
+  },
+  {
+    "de": "austragen",
+    "tr": "gerçekleştirmek",
+    "example": "Er trägt jeden Morgen die Zeitung aus.",
+    "level": "A2"
+  },
+  {
+    "de": "beenden",
+    "tr": "sona ermek",
+    "example": "Du musst deine Ausbildung auf jeden Fall beenden.",
+    "level": "A2"
+  },
+  {
+    "de": "begründen",
+    "tr": "savunmak",
+    "example": "Bitte begründen Sie Ihre Meinung.",
+    "level": "A2"
+  },
+  {
+    "de": "backen",
+    "tr": "pişmek",
+    "example": "Wenn du kommst, backe ich einen Kuchen.",
+    "level": "A2"
+  },
+  {
+    "de": "bekommt",
+    "tr": "alır",
+    "example": "Aspirin bekommen Sie in der Apotheke.",
+    "level": "A2"
+  },
+  {
+    "de": "beliebt",
+    "tr": "popüler",
+    "example": "Fußball ist bei vielen Menschen beliebt.",
+    "level": "A2"
+  },
+  {
+    "de": "bequem",
+    "tr": "rahat",
+    "example": "Das Sofa ist sehr bequem.",
+    "level": "A2"
+  },
+  {
+    "de": "beraten",
+    "tr": "öğüt vermek",
+    "example": "Unsere Sekretärin berät Sie gern, wenn Sie",
+    "level": "A2"
+  },
+  {
+    "de": "basteln",
+    "tr": "zanaat",
+    "example": "Die Kinder haben etwas gebastelt.",
+    "level": "A2"
+  },
+  {
+    "de": "berichten",
+    "tr": "rapor",
+    "example": "Alle Zeitungen berichten von dem Unfall.",
+    "level": "A2"
+  },
+  {
+    "de": "bauen",
+    "tr": "inşa etmek",
+    "example": "Unsere Nachbarn bauen ein neues Haus.",
+    "level": "A2"
+  },
+  {
+    "de": "berühmt",
+    "tr": "ünlü",
+    "example": "Thomas Müller ist ein berühmter Fußballspieler.",
+    "level": "A2"
+  },
+  {
+    "de": "(bekommen/",
+    "tr": "(almak/",
+    "example": "noch nicht. Sie bekommt erst nächste Woche",
+    "level": "A2"
+  },
+  {
+    "de": "geben/sagen)",
+    "tr": "ver / söyle)",
+    "example": "Bescheid.",
+    "level": "A2"
+  },
+  {
+    "de": "beantworten",
+    "tr": "cevap",
+    "example": "Können Sie meine Frage bitte beantworten?",
+    "level": "A2"
+  },
+  {
+    "de": "beantwortet",
+    "tr": "cevaplandı",
+    "example": "Hast du die Mail schon beantwortet?",
+    "level": "A2"
+  },
+  {
+    "de": "bedanken",
+    "tr": "Teşekkürler",
+    "example": "Ich möchte mich noch einmal sehr herzlich für Ihre",
+    "level": "A2"
+  },
+  {
+    "de": "beschreiben",
+    "tr": "betimlemek",
+    "example": "Kannst du mir den Weg zum Bahnhof beschreiben?",
+    "level": "A2"
+  },
+  {
+    "de": "bedankt",
+    "tr": "teşekkürler",
+    "example": "Hilfe bedanken.",
+    "level": "A2"
+  },
+  {
+    "de": "beschweren",
+    "tr": "şikayet etmek",
+    "example": "Hier ist es zu laut. Wo können wir uns beschweren?",
+    "level": "A2"
+  },
+  {
+    "de": "beschwert",
+    "tr": "şikayet edildi",
+    "example": "Mein Nachbar beschwert sich immer über unsere",
+    "level": "A2"
+  },
+  {
+    "de": "beeilen",
+    "tr": "acele etmek",
+    "example": "Kannst du dich bitte beeilen? Der Bus fährt",
+    "level": "A2"
+  },
+  {
+    "de": "beeilt",
+    "tr": "acele etmek",
+    "example": "gleich ab!",
+    "level": "A2"
+  },
+  {
+    "de": "besichtigt",
+    "tr": "ziyaret edildi",
+    "example": "Sie können die Wohnung am Mittwochabend",
+    "level": "A2"
+  },
+  {
+    "de": "bleibt",
+    "tr": "kalıntılar",
+    "example": "Bitte bleiben Sie stehen!",
+    "level": "A2"
+  },
+  {
+    "de": "besonders",
+    "tr": "özellikle",
+    "example": "Dieses Angebot ist besonders günstig.",
+    "level": "A2"
+  },
+  {
+    "de": "bestätigen",
+    "tr": "onaylamak",
+    "example": "Ich kann bestätigen, dass er hier war.",
+    "level": "A2"
+  },
+  {
+    "de": "blöd",
+    "tr": "aptal",
+    "example": "Ich finde es blöd, dass du morgen gehen musst.",
+    "level": "A2"
+  },
+  {
+    "de": "der/das",
+    "tr": "o / o",
+    "example": "Ich schreibe einen Blog über Mode.",
+    "level": "A2"
+  },
+  {
+    "de": "blond",
+    "tr": "sarışın",
+    "example": "Lisa hat blonde Haare.",
+    "level": "A2"
+  },
+  {
+    "de": "bestehen",
+    "tr": "meydana gelmek",
+    "example": "Ich habe die Prüfung bestanden!",
+    "level": "A2"
+  },
+  {
+    "de": "besteht",
+    "tr": "oluşur",
+    "example": "Die Prüfung besteht aus vier Teilen: Hören, Lesen,",
+    "level": "A2"
+  },
+  {
+    "de": "bestellt",
+    "tr": "sipariş edildi",
+    "example": "Dieses Buch haben wir nicht da. Sollen wir es für",
+    "level": "A2"
+  },
+  {
+    "de": "braten",
+    "tr": "yağda kızartmak",
+    "example": "Braten Sie das Fleisch in etwas Öl!",
+    "level": "A2"
+  },
+  {
+    "de": "brät",
+    "tr": "yağda kızartmak",
+    "example": "Der Fisch brät in der Pfanne.",
+    "level": "A2"
+  },
+  {
+    "de": "besucht",
+    "tr": "ziyaret edildi",
+    "example": "Möchtest du mich in den Ferien besuchen?",
+    "level": "A2"
+  },
+  {
+    "de": "braucht",
+    "tr": "ihtiyaçlar",
+    "example": "Brauchst du die Zeitung noch oder kann ich sie",
+    "level": "A2"
+  },
+  {
+    "de": "bewerben",
+    "tr": "uygula",
+    "example": "Ich möchte mich um diese Stelle bewerben.",
+    "level": "A2"
+  },
+  {
+    "de": "bewirbt",
+    "tr": "uygulanan",
+    "example": "Kannst du mir bei meiner Bewerbung helfen?",
+    "level": "A2"
+  },
+  {
+    "de": "bewölkt",
+    "tr": "bulutlu",
+    "example": "Heute ist es bewölkt.",
+    "level": "A2"
+  },
+  {
+    "de": "bringt",
+    "tr": "getiriyor",
+    "example": "Wir müssen Max ins Krankenhaus bringen.",
+    "level": "A2"
+  },
+  {
+    "de": "buchen",
+    "tr": "kitap",
+    "example": "Morgen buche ich unsere Urlaubsreise.",
+    "level": "A2"
+  },
+  {
+    "de": "bunt",
+    "tr": "renkli",
+    "example": "Anna trägt gern bunte Kleider.",
+    "level": "A2"
+  },
+  {
+    "de": "chatten",
+    "tr": "sohbet",
+    "example": "Luis chattet gern mit seinen Freunden im Internet.",
+    "level": "A2"
+  },
+  {
+    "de": "denken",
+    "tr": "düşünmek",
+    "example": "Ich denke, du hast recht.",
+    "level": "A2"
+  },
+  {
+    "de": "deshalb",
+    "tr": "bu nedenle",
+    "example": "Ich bin krank. Deshalb komme ich heute nicht ins",
+    "level": "A2"
+  },
+  {
+    "de": "Klub",
+    "tr": "kulüp",
+    "example": "Ich möchte gern tanzen gehen. Wo gibt es hier",
+    "level": "A2"
+  },
+  {
+    "de": "deutlich",
+    "tr": "açıkça",
+    "example": "Sprechen Sie bitte deutlich!",
+    "level": "A2"
+  },
+  {
+    "de": "dick",
+    "tr": "kalın",
+    "example": "Ich bin zu dick. Ich muss weniger essen.",
+    "level": "A2"
+  },
+  {
+    "de": "direkt",
+    "tr": "doğrudan",
+    "example": "Wir wohnen direkt über dem Café.",
+    "level": "A2"
+  },
+  {
+    "de": "darüber)",
+    "tr": "bu konuda)",
+    "example": "Darüber spreche ich nicht gern.",
+    "level": "A2"
+  },
+  {
+    "de": "dabei",
+    "tr": "dahil",
+    "example": "Hast du einen Stift dabei?",
+    "level": "A2"
+  },
+  {
+    "de": "diskutieren",
+    "tr": "tartışmak",
+    "example": "Ich möchte das mit meinen Kollegen diskutieren.",
+    "level": "A2"
+  },
+  {
+    "de": "doch",
+    "tr": "Ancak",
+    "example": "Hast du keinen Hunger? - Doch, ich bin sehr",
+    "level": "A2"
+  },
+  {
+    "de": "dafür/dagegen",
+    "tr": "lehine/aleyhine",
+    "example": "Ich bin dafür/dagegen.",
+    "level": "A2"
+  },
+  {
+    "de": "damals",
+    "tr": "o zaman",
+    "example": "Als Student hatte ich viel Zeit und wollte reisen.",
+    "level": "A2"
+  },
+  {
+    "de": "dort",
+    "tr": "Orası",
+    "example": "Wir treffen uns vor dem Kino. - Gut, ich bin in fünf",
+    "level": "A2"
+  },
+  {
+    "de": "dringend",
+    "tr": "acil",
+    "example": "Bitte kommen Sie schnell. Es ist dringend.",
+    "level": "A2"
+  },
+  {
+    "de": "drinnen",
+    "tr": "içeri",
+    "example": "Wollen Sie drinnen oder draußen sitzen?",
+    "level": "A2"
+  },
+  {
+    "de": "dass",
+    "tr": "O",
+    "example": "Rico hat gesagt, dass er auch zur Party kommt.",
+    "level": "A2"
+  },
+  {
+    "de": "drüben",
+    "tr": "üzerinde",
+    "example": "Da drüben ist die Haltestelle.",
+    "level": "A2"
+  },
+  {
+    "de": "dumm",
+    "tr": "sersem",
+    "example": "Ich finde den Film dumm.",
+    "level": "A2"
+  },
+  {
+    "de": "dunkel",
+    "tr": "karanlık",
+    "example": "Um sechs Uhr ist es schon dunkel.",
+    "level": "A2"
+  },
+  {
+    "de": "Diese",
+    "tr": "Bu",
+    "example": "Prüfung mache ich nicht noch einmal.",
+    "level": "A2"
+  },
+  {
+    "de": "Warst",
+    "tr": "sen",
+    "example": "du schon einmal in Paris?",
+    "level": "A2"
+  },
+  {
+    "de": "dünn",
+    "tr": "ince",
+    "example": "Das Buch ist sehr dünn. Es hat nur 40 Seiten.",
+    "level": "A2"
+  },
+  {
+    "de": "einpacken",
+    "tr": "toparlanmak",
+    "example": "bitte die Handtücher ein!",
+    "level": "A2"
+  },
+  {
+    "de": "packt",
+    "tr": "paketler",
+    "example": "ich Ihnen das als Geschenk einpacken?",
+    "level": "A2"
+  },
+  {
+    "de": "durfte",
+    "tr": "izin verildi",
+    "example": "Dürfen wir heute länger fernsehen?",
+    "level": "A2"
+  },
+  {
+    "de": "eintragen",
+    "tr": "kayıt olmak",
+    "example": "Sie sich bitte in diese Liste ein!",
+    "level": "A2"
+  },
+  {
+    "de": "Der",
+    "tr": "",
+    "example": "Eintritt ist frei. Sie müssen nichts bezahlen.",
+    "level": "A2"
+  },
+  {
+    "de": "einverstanden",
+    "tr": "anlaştık",
+    "example": "Als Termin schlage ich den 11. Juni vor. - Gut, (ich",
+    "level": "A2"
+  },
+  {
+    "de": "duscht",
+    "tr": "sağanak yağışlar",
+    "example": "Möchten Sie sich duschen? Das Badezimmer ist dort",
+    "level": "A2"
+  },
+  {
+    "de": "einzel-",
+    "tr": "Bekar",
+    "example": "alle zusammen. Könnt ihr bitte einzeln",
+    "level": "A2"
+  },
+  {
+    "de": "echt",
+    "tr": "gerçek",
+    "example": "Ist das Bild ein echter Picasso?",
+    "level": "A2"
+  },
+  {
+    "de": "Florian",
+    "tr": "Florian",
+    "example": "ist ein Einzelkind. Er hat keine Geschwister.",
+    "level": "A2"
+  },
+  {
+    "de": "einziehen",
+    "tr": "taşınmak",
+    "example": "Juni ziehen unsere neuen Nachbarn ein.",
+    "level": "A2"
+  },
+  {
+    "de": "egal",
+    "tr": "önemli değil",
+    "example": "Das ist mir egal.",
+    "level": "A2"
+  },
+  {
+    "de": "eigen-",
+    "tr": "sahip olmak",
+    "example": "Nicht alle Kinder haben ein eigenes Zimmer.",
+    "level": "A2"
+  },
+  {
+    "de": "eigentlich",
+    "tr": "Aslında",
+    "example": "Wir wollten eigentlich Freunde besuchen, aber dann",
+    "level": "A2"
+  },
+  {
+    "de": "endlich",
+    "tr": "Sonunda",
+    "example": "kommst du endlich? Der Film fängt gleich an.",
+    "level": "A2"
+  },
+  {
+    "de": "eng",
+    "tr": "yakından",
+    "example": "Hose ist zu eng. Gibt es sie auch eine",
+    "level": "A2"
+  },
+  {
+    "de": "einig-",
+    "tr": "kabul etmek-",
+    "example": "In diesem Text sind einige Fehler.",
+    "level": "A2"
+  },
+  {
+    "de": "erinnern",
+    "tr": "Unutma",
+    "example": "Erinnerst du dich an José? - Nein, ich erinnere mich",
+    "level": "A2"
+  },
+  {
+    "de": "erinnert",
+    "tr": "hatırladım",
+    "example": "nicht an ihn, tut mir leid.",
+    "level": "A2"
+  },
+  {
+    "de": "erkältet",
+    "tr": "üşüttüm",
+    "example": "Lisa ist erkältet. Sie kann heute nicht zur Schule",
+    "level": "A2"
+  },
+  {
+    "de": "fantastisch",
+    "tr": "fantastik",
+    "example": "Dein neues Kleid sieht fantastisch aus!",
+    "level": "A2"
+  },
+  {
+    "de": "fast",
+    "tr": "neredeyse",
+    "example": "Der Film ist fast zu Ende.",
+    "level": "A2"
+  },
+  {
+    "de": "erlaubt",
+    "tr": "izin verilmiş",
+    "example": "Parken ist hier nicht erlaubt.",
+    "level": "A2"
+  },
+  {
+    "de": "faul",
+    "tr": "tembel",
+    "example": "Heute sind wir faul: Wir machen keine Hausauf-",
+    "level": "A2"
+  },
+  {
+    "de": "erreichen",
+    "tr": "ulaşmak",
+    "example": "Wenn wir uns beeilen, erreichen wir noch den Zug",
+    "level": "A2"
+  },
+  {
+    "de": "(z.",
+    "tr": "(ör.",
+    "example": "Am ersten Mai ist ein Feiertag.",
+    "level": "A2"
+  },
+  {
+    "de": "erreicht",
+    "tr": "ulaşmış",
+    "example": "um acht Uhr.",
+    "level": "A2"
+  },
+  {
+    "de": "erst",
+    "tr": "Birinci",
+    "example": "Wir können erst morgen kommen.",
+    "level": "A2"
+  },
+  {
+    "de": "etwas",
+    "tr": "bir şey",
+    "example": "Ich muss dir etwas erzählen!",
+    "level": "A2"
+  },
+  {
+    "de": "fett",
+    "tr": "yağ",
+    "example": "Die Wurst ist mir zu fett.",
+    "level": "A2"
+  },
+  {
+    "de": "fit",
+    "tr": "yerleştirmek",
+    "example": "Tom will fit sein. Er geht jeden Tag ins Fitness-",
+    "level": "A2"
+  },
+  {
+    "de": "fallen",
+    "tr": "düşmek",
+    "example": "Pass auf, das Glas fällt gleich vom Tisch.",
+    "level": "A2"
+  },
+  {
+    "de": "fleißig",
+    "tr": "gayretli",
+    "example": "Ibrahim ist sehr fleißig. Er macht immer seine",
+    "level": "A2"
+  },
+  {
+    "de": "fliegt",
+    "tr": "sinekler",
+    "example": "Ich fliege in den Ferien nach Spanien.",
+    "level": "A2"
+  },
+  {
+    "de": "fühlen",
+    "tr": "hissetmek",
+    "example": "Wie fühlen Sie sich?",
+    "level": "A2"
+  },
+  {
+    "de": "fühlt",
+    "tr": "hissediyor",
+    "example": "Ich fühle mich heute nicht gut.",
+    "level": "A2"
+  },
+  {
+    "de": "schein",
+    "tr": "gözükmek",
+    "example": "Sie hat die Führerscheinprüfung bestanden.",
+    "level": "A2"
+  },
+  {
+    "de": "furchtbar",
+    "tr": "korkunç",
+    "example": "Er hat furchtbare Schmerzen.",
+    "level": "A2"
+  },
+  {
+    "de": "fotografieren",
+    "tr": "fotoğraf",
+    "example": "Ich fotografiere gern.",
+    "level": "A2"
+  },
+  {
+    "de": "ganz",
+    "tr": "epeyce",
+    "example": "Oh nein! Was ist passiert? Ist deine Brille jetzt",
+    "level": "A2"
+  },
+  {
+    "de": "freiwillig",
+    "tr": "gönüllü olarak",
+    "example": "Manchmal bleibe ich freiwillig länger im Büro.",
+    "level": "A2"
+  },
+  {
+    "de": "freut",
+    "tr": "mutlu",
+    "example": "Die Kinder freuen sich schon auf die Ferien.",
+    "level": "A2"
+  },
+  {
+    "de": "Geburts-",
+    "tr": "doğum",
+    "example": "Das Geburtsjahr Ihres Sohnes, bitte?",
+    "level": "A2"
+  },
+  {
+    "de": "(jahr",
+    "tr": "(yıl",
+    "example": "Bitte tragen Sie Ihren Geburtsort noch ein.",
+    "level": "A2"
+  },
+  {
+    "de": "(-e",
+    "tr": "(-e",
+    "example": "Herzlichen Glückwunsch zum Geburtstag!",
+    "level": "A2"
+  },
+  {
+    "de": "geehrt-",
+    "tr": "onur-",
+    "example": "Sehr geehrte Damen und Herren,",
+    "level": "A2"
+  },
+  {
+    "de": "gefährlich",
+    "tr": "tehlikeli",
+    "example": "Du darfst nicht bei Rot über die Straße gehen. Das",
+    "level": "A2"
+  },
+  {
+    "de": "freundlich",
+    "tr": "arkadaşça",
+    "example": "Er ist immer sehr freundlich zu mir.",
+    "level": "A2"
+  },
+  {
+    "de": "frisch",
+    "tr": "taze",
+    "example": "Das Brot ist noch ganz frisch. Ich habe es gerade",
+    "level": "A2"
+  },
+  {
+    "de": "froh",
+    "tr": "memnun",
+    "example": "Ich bin froh, dass du kommen kannst.",
+    "level": "A2"
+  },
+  {
+    "de": "früh",
+    "tr": "erken",
+    "example": "Geht es auch später? Sechs Uhr ist mir zu früh.",
+    "level": "A2"
+  },
+  {
+    "de": "gewinnt",
+    "tr": "kazanır",
+    "example": "Mein Sohn will bei diesem Spiel immer gewinnen.",
+    "level": "A2"
+  },
+  {
+    "de": "gegenüber",
+    "tr": "zıt",
+    "example": "Die Post ist gegenüber vom Bahnhof.",
+    "level": "A2"
+  },
+  {
+    "de": "genau",
+    "tr": "Kesinlikle",
+    "example": "Sind Sie sicher, dass die Prüfung am 15. Juni ist? -",
+    "level": "A2"
+  },
+  {
+    "de": "genug",
+    "tr": "yeterli",
+    "example": "Es ist noch genug Pizza da. Möchtest du noch",
+    "level": "A2"
+  },
+  {
+    "de": "am",
+    "tr": "Açık",
+    "example": "Kaffee oder Tee? - Ich trinke lieber einen Tee.",
+    "level": "A2"
+  },
+  {
+    "de": "gesund",
+    "tr": "sağlıklı",
+    "example": "Ich hatte Grippe. Jetzt bin ich wieder gesund.",
+    "level": "A2"
+  },
+  {
+    "de": "hatte",
+    "tr": "vardı",
+    "example": "Hast du kurz Zeit?",
+    "level": "A2"
+  },
+  {
+    "de": "herein/rein",
+    "tr": "içeri/içeri",
+    "example": "Herein! Die Tür ist offen.",
+    "level": "A2"
+  },
+  {
+    "de": "herstellen",
+    "tr": "üretmek",
+    "example": "In unserer Firma stellen wir Möbel her.",
+    "level": "A2"
+  },
+  {
+    "de": "herunterladen",
+    "tr": "indirmek",
+    "example": "Er lädt die Musik aus dem Internet herunter.",
+    "level": "A2"
+  },
+  {
+    "de": "hängen",
+    "tr": "asmak",
+    "example": "Im Museum hängen moderne Bilder.",
+    "level": "A2"
+  },
+  {
+    "de": "gehängt",
+    "tr": "asıldı",
+    "example": "gehängt?",
+    "level": "A2"
+  },
+  {
+    "de": "hart",
+    "tr": "zor",
+    "example": "Ich finde das Bett zu hart.",
+    "level": "A2"
+  },
+  {
+    "de": "hässlich",
+    "tr": "çirkin",
+    "example": "Ich finde das Kleid hässlich. Es gefällt mir nicht.",
+    "level": "A2"
+  },
+  {
+    "de": "hin/hin-/-hin",
+    "tr": "doğru/doğru/doğru",
+    "example": "Wo gehst du hin?/Wohin gehst du?",
+    "level": "A2"
+  },
+  {
+    "de": "hinter",
+    "tr": "arka",
+    "example": "Hinter dem Haus haben wir einen Garten.",
+    "level": "A2"
+  },
+  {
+    "de": "hoffen",
+    "tr": "umut",
+    "example": "Ich hoffe, dass es dir gut geht.",
+    "level": "A2"
+  },
+  {
+    "de": "heiß",
+    "tr": "sıcak",
+    "example": "Vorsicht, der Tee ist heiß!",
+    "level": "A2"
+  },
+  {
+    "de": "hoffentlich",
+    "tr": "umutla",
+    "example": "Hoffentlich hat unser Zug keine Verspätung.",
+    "level": "A2"
+  },
+  {
+    "de": "her/her-/-her",
+    "tr": "burada/onu-/-onu",
+    "example": "Komm bitte mal her!",
+    "level": "A2"
+  },
+  {
+    "de": "heraus/raus",
+    "tr": "dışarı/dışarı",
+    "example": "Möchtet ihr nicht rauskommen? Das Wetter ist",
+    "level": "A2"
+  },
+  {
+    "de": "husten",
+    "tr": "öksürük",
+    "example": "Sie hustet seit zwei Tagen. Sie ist krank.",
+    "level": "A2"
+  },
+  {
+    "de": "informieren",
+    "tr": "bilgi vermek",
+    "example": "Ich möchte mich vor der Reise über das Land",
+    "level": "A2"
+  },
+  {
+    "de": "kalt",
+    "tr": "soğuk",
+    "example": "Heute ist es sehr kalt.",
+    "level": "A2"
+  },
+  {
+    "de": "informiert",
+    "tr": "bilgilendirilmiş",
+    "example": "Hast du dich über die Prüfung informiert?",
+    "level": "A2"
+  },
+  {
+    "de": "intelligent",
+    "tr": "zeki",
+    "example": "Einstein war sehr intelligent.",
+    "level": "A2"
+  },
+  {
+    "de": "interessieren",
+    "tr": "ilgili",
+    "example": "Ich interessiere mich für Fußball.",
+    "level": "A2"
+  },
+  {
+    "de": "interessiert",
+    "tr": "ilgili",
+    "example": "Den Artikel über Brasilien finde ich sehr",
+    "level": "A2"
+  },
+  {
+    "de": "interessant",
+    "tr": "ilginç",
+    "example": "Ich lese gerade ein interessantes Buch.",
+    "level": "A2"
+  },
+  {
+    "de": "jeder",
+    "tr": "herkes",
+    "example": "Das Restaurant hat jeden Tag geöffnet.",
+    "level": "A2"
+  },
+  {
+    "de": "jemand",
+    "tr": "birisi",
+    "example": "Hat jemand meinen Stift?",
+    "level": "A2"
+  },
+  {
+    "de": "lernt",
+    "tr": "öğrenir",
+    "example": "in München kennengelernt.",
+    "level": "A2"
+  },
+  {
+    "de": "joggen",
+    "tr": "koşmak",
+    "example": "Ich jogge gern im Park.",
+    "level": "A2"
+  },
+  {
+    "de": "kostenlos",
+    "tr": "ücretsiz",
+    "example": "Diese Zeitschrift kostet nichts. Sie ist kostenlos.",
+    "level": "A2"
+  },
+  {
+    "de": "klappen",
+    "tr": "başarmak",
+    "example": "Können wir uns heute Mittag treffen? –Ja, das",
+    "level": "A2"
+  },
+  {
+    "de": "haus",
+    "tr": "bir ev",
+    "example": "Er hat sich verletzt und muss ins Krankenhaus.",
+    "level": "A2"
+  },
+  {
+    "de": "klug",
+    "tr": "akıllı",
+    "example": "Molly ist ein kluges Mädchen.",
+    "level": "A2"
+  },
+  {
+    "de": "kühl",
+    "tr": "Serin",
+    "example": "Es ist kühl draußen. Zieh dir eine Jacke an.",
+    "level": "A2"
+  },
+  {
+    "de": "komisch",
+    "tr": "eğlenceli",
+    "example": "Der Film war sehr komisch. Wir haben viel gelacht.",
+    "level": "A2"
+  },
+  {
+    "de": "kümmern",
+    "tr": "Dikkatli ol",
+    "example": "Sonja kann nicht arbeiten. Sie muss sich um ihre",
+    "level": "A2"
+  },
+  {
+    "de": "kümmert",
+    "tr": "umurunda",
+    "example": "Tochter kümmern.",
+    "level": "A2"
+  },
+  {
+    "de": "konnte",
+    "tr": "olabilir",
+    "example": "ich nicht.",
+    "level": "A2"
+  },
+  {
+    "de": "kündigen",
+    "tr": "çıkış yapmak",
+    "example": "Meine Arbeit gefällt mir nicht mehr. Ich habe heute",
+    "level": "A2"
+  },
+  {
+    "de": "kontrollieren",
+    "tr": "kontrol",
+    "example": "Können Sie bei meinem Auto bitte das Öl",
+    "level": "A2"
+  },
+  {
+    "de": "kontrolliert",
+    "tr": "kontrollü",
+    "example": "kontrollieren?",
+    "level": "A2"
+  },
+  {
+    "de": "langweilig",
+    "tr": "sıkıcı",
+    "example": "Mir ist langweilig.",
+    "level": "A2"
+  },
+  {
+    "de": "lügen",
+    "tr": "yalan",
+    "example": "Du sollst nicht lügen.",
+    "level": "A2"
+  },
+  {
+    "de": "lassen",
+    "tr": "izin vermek",
+    "example": "Lass mich in Ruhe!",
+    "level": "A2"
+  },
+  {
+    "de": "leer",
+    "tr": "boş",
+    "example": "Die Kanne ist fast leer. Ich mache neuen Tee.",
+    "level": "A2"
+  },
+  {
+    "de": "mal",
+    "tr": "Sadece",
+    "example": "Sag mal, wie gefällt dir mein neues Kleid?",
+    "level": "A2"
+  },
+  {
+    "de": "leidtun/leid",
+    "tr": "üzgün olmak / üzgün olmak",
+    "example": "Es tut mir leid, dass ich nicht kommen kann.",
+    "level": "A2"
+  },
+  {
+    "de": "malen",
+    "tr": "boyamak",
+    "example": "Mein Sohn kann gut malen.",
+    "level": "A2"
+  },
+  {
+    "de": "leihen",
+    "tr": "ödünç vermek",
+    "example": "Kannst du mir fünf Euro leihen?",
+    "level": "A2"
+  },
+  {
+    "de": "manch-",
+    "tr": "bazı-",
+    "example": "Manche Nachbarn sind unfreundlich.",
+    "level": "A2"
+  },
+  {
+    "de": "manchmal",
+    "tr": "Bazen",
+    "example": "Manchmal essen wir im Restaurant.",
+    "level": "A2"
+  },
+  {
+    "de": "meinen",
+    "tr": "Anlam",
+    "example": "Wie meinst du das? Erklär mir das bitte genauer!",
+    "level": "A2"
+  },
+  {
+    "de": "liefern",
+    "tr": "teslimat",
+    "example": "Wir liefern Ihnen den Schrank nach Hause.",
+    "level": "A2"
+  },
+  {
+    "de": "hat/ist",
+    "tr": "var / var",
+    "example": "Judith liegt noch im Bett.",
+    "level": "A2"
+  },
+  {
+    "de": "meistens",
+    "tr": "çoğunlukla",
+    "example": "Meistens trinke ich zum Frühstück nur einen Kaffee.",
+    "level": "A2"
+  },
+  {
+    "de": "merken",
+    "tr": "Unutma",
+    "example": "Ich kann mir keine Zahlen merken. Ich vergesse sie",
+    "level": "A2"
+  },
+  {
+    "de": "mindestens",
+    "tr": "en azından",
+    "example": "Bitte kommen Sie mindestens zwei Stunden vor",
+    "level": "A2"
+  },
+  {
+    "de": "-kommen/-machen/Fahren",
+    "tr": "-gel/yap/git",
+    "example": "wir mit dem Auto oder mit dem Zug nach",
+    "level": "A2"
+  },
+  {
+    "de": "-nehmen/-spielen)",
+    "tr": "-al/oyna)",
+    "example": "Hamburg?",
+    "level": "A2"
+  },
+  {
+    "de": "nächste",
+    "tr": "Sonraki",
+    "example": "Sehen wir uns nächste Woche?",
+    "level": "A2"
+  },
+  {
+    "de": "nass",
+    "tr": "ıslak",
+    "example": "Geh nicht mit den nassen Schuhen ins",
+    "level": "A2"
+  },
+  {
+    "de": "natürlich",
+    "tr": "doğal olarak",
+    "example": "Natürlich helfen wir dir.",
+    "level": "A2"
+  },
+  {
+    "de": "neben",
+    "tr": "yanında",
+    "example": "Neben mir ist noch ein Platz frei.",
+    "level": "A2"
+  },
+  {
+    "de": "modern",
+    "tr": "modern",
+    "example": "Das Stadtzentrum von Frankfurt ist sehr modern.",
+    "level": "A2"
+  },
+  {
+    "de": "nebenan",
+    "tr": "yan kapı",
+    "example": "Das ist José. Er wohnt nebenan.",
+    "level": "A2"
+  },
+  {
+    "de": "mochte",
+    "tr": "istek",
+    "example": "Süßigkeiten.",
+    "level": "A2"
+  },
+  {
+    "de": "neblig",
+    "tr": "sisli",
+    "example": "Fahr vorsichtig! Es ist neblig.",
+    "level": "A2"
+  },
+  {
+    "de": "offen",
+    "tr": "açık",
+    "example": "Ist das Fenster im Bad noch offen?",
+    "level": "A2"
+  },
+  {
+    "de": "nennen",
+    "tr": "isim vermek",
+    "example": "Mein Freund heißt Alexander, aber alle nennen",
+    "level": "A2"
+  },
+  {
+    "de": "nervös",
+    "tr": "gergin",
+    "example": "Bei Prüfungen bin ich immer sehr nervös.",
+    "level": "A2"
+  },
+  {
+    "de": "nett",
+    "tr": "Güzel",
+    "example": "Ich habe viele nette Kollegen.",
+    "level": "A2"
+  },
+  {
+    "de": "online",
+    "tr": "çevrimiçi",
+    "example": "Wann bist du wieder online?",
+    "level": "A2"
+  },
+  {
+    "de": "niemand",
+    "tr": "hiç kimse",
+    "example": "Hier ist niemand.",
+    "level": "A2"
+  },
+  {
+    "de": "organisieren",
+    "tr": "organize etmek",
+    "example": "Frau Gomez organisiert unseren Ausflug.",
+    "level": "A2"
+  },
+  {
+    "de": "organisiert",
+    "tr": "organize edilmiş",
+    "example": "Hast du schon alles für deinen Urlaub organisiert?",
+    "level": "A2"
+  },
+  {
+    "de": "nirgends",
+    "tr": "hiçbir yerde",
+    "example": "Hier kann man nirgends parken.",
+    "level": "A2"
+  },
+  {
+    "de": "notieren",
+    "tr": "not etmek",
+    "example": "Notieren Sie bitte alle wichtigen Informationen.",
+    "level": "A2"
+  },
+  {
+    "de": "notwendig",
+    "tr": "gerekli",
+    "example": "Muss ich noch einmal kommen? –Nein, das ist",
+    "level": "A2"
+  },
+  {
+    "de": "packen",
+    "tr": "ambalaj",
+    "example": "Ich muss noch meinen Koffer packen.",
+    "level": "A2"
+  },
+  {
+    "de": "parken",
+    "tr": "park",
+    "example": "Darf ich hier parken?",
+    "level": "A2"
+  },
+  {
+    "de": "nützlich",
+    "tr": "kullanışlı",
+    "example": "Danke für den Tipp. Er war sehr nützlich.",
+    "level": "A2"
+  },
+  {
+    "de": "passen",
+    "tr": "yerleştirmek",
+    "example": "Die Bluse passt mir nicht.",
+    "level": "A2"
+  },
+  {
+    "de": "passieren",
+    "tr": "olmak",
+    "example": "Wie ist der Unfall passiert?",
+    "level": "A2"
+  },
+  {
+    "de": "passiert",
+    "tr": "olmuş",
+    "example": "Was ist passiert?",
+    "level": "A2"
+  },
+  {
+    "de": "prüfen",
+    "tr": "kontrol etmek",
+    "example": "prüfen Sie die Rechnung sofort.",
+    "level": "A2"
+  },
+  {
+    "de": "putzen",
+    "tr": "temizlik",
+    "example": "muss heute noch das Bad putzen.",
+    "level": "A2"
+  },
+  {
+    "de": "planen",
+    "tr": "planı",
+    "example": "Wir sollen zusammen eine Klassenparty planen.",
+    "level": "A2"
+  },
+  {
+    "de": "plötzlich",
+    "tr": "Birden",
+    "example": "Plötzlich war das Licht aus.",
+    "level": "A2"
+  },
+  {
+    "de": "raten",
+    "tr": "tahmin etmek",
+    "example": "weiß nicht, welches Handy ich kaufen soll. Was",
+    "level": "A2"
+  },
+  {
+    "de": "Rate",
+    "tr": "oran",
+    "example": "mal, wen ich heute gesehen habe! Deinen",
+    "level": "A2"
+  },
+  {
+    "de": "praktisch",
+    "tr": "pratik",
+    "example": "Mit meinem neuen Handy kann ich auch im Internet",
+    "level": "A2"
+  },
+  {
+    "de": "rechnen",
+    "tr": "hesaplamak",
+    "example": "kann gut rechnen.",
+    "level": "A2"
+  },
+  {
+    "de": "recht",
+    "tr": "Sağ",
+    "example": "hast (nicht) recht.",
+    "level": "A2"
+  },
+  {
+    "de": "preiswert",
+    "tr": "ucuz",
+    "example": "Die Jacke ist sehr preiswert. Sie kostet nur 15 Euro.",
+    "level": "A2"
+  },
+  {
+    "de": "privat",
+    "tr": "özel",
+    "example": "Das ist meine Nummer im Büro und das ist meine",
+    "level": "A2"
+  },
+  {
+    "de": "reden",
+    "tr": "konuşmak",
+    "example": "meiner Freundin kann ich über alles reden.",
+    "level": "A2"
+  },
+  {
+    "de": "pro",
+    "tr": "başına",
+    "example": "Das Zimmer kostet 100 Euro pro Nacht.",
+    "level": "A2"
+  },
+  {
+    "de": "probieren",
+    "tr": "denemek",
+    "example": "Möchten Sie den Käse probieren?",
+    "level": "A2"
+  },
+  {
+    "de": "probiert",
+    "tr": "sınanmış",
+    "example": "Die Tür geht schwer auf. Probier mal!",
+    "level": "A2"
+  },
+  {
+    "de": "reich",
+    "tr": "zengin",
+    "example": "ist reich. Sie hat sehr viel Geld.",
+    "level": "A2"
+  },
+  {
+    "de": "darf",
+    "tr": "mayıs",
+    "example": "sie nicht in der Waschmaschine waschen.",
+    "level": "A2"
+  },
+  {
+    "de": "rund",
+    "tr": "etrafında",
+    "example": "Wohnzimmertisch ist rund.",
+    "level": "A2"
+  },
+  {
+    "de": "Nimm",
+    "tr": "Almak",
+    "example": "deine Sachen und komm!",
+    "level": "A2"
+  },
+  {
+    "de": "Das",
+    "tr": "",
+    "example": "ist meine Sache.",
+    "level": "A2"
+  },
+  {
+    "de": "reiten",
+    "tr": "sürmek",
+    "example": "Möchtest du reiten lernen?",
+    "level": "A2"
+  },
+  {
+    "de": "renovieren",
+    "tr": "yenilemek",
+    "example": "Wir renovieren das ganze Haus.",
+    "level": "A2"
+  },
+  {
+    "de": "Sag",
+    "tr": "Söylemek",
+    "example": "mal, wie geht es dir denn?",
+    "level": "A2"
+  },
+  {
+    "de": "de",
+    "tr": "de",
+    "example": "Mein Onkel arbeitet nicht mehr. Er ist Rentner.",
+    "level": "A2"
+  },
+  {
+    "de": "sammeln",
+    "tr": "TOPLAMAK",
+    "example": "sammelt Briefmarken.",
+    "level": "A2"
+  },
+  {
+    "de": "sammelt",
+    "tr": "toplar",
+    "example": "Herbst sammeln wir im Wald bunte Blätter.",
+    "level": "A2"
+  },
+  {
+    "de": "sauber",
+    "tr": "temiz",
+    "example": "Sie mir bitte ein sauberes Glas!",
+    "level": "A2"
+  },
+  {
+    "de": "reservieren",
+    "tr": "rezerv",
+    "example": "Reservieren Sie bitte ein Doppelzimmer.",
+    "level": "A2"
+  },
+  {
+    "de": "sauer",
+    "tr": "ekşi",
+    "example": "sind mir zu sauer.",
+    "level": "A2"
+  },
+  {
+    "de": "reserviert",
+    "tr": "rezerve",
+    "example": "Ich möchte gern einen Tisch für fünf Personen",
+    "level": "A2"
+  },
+  {
+    "de": "reservierte",
+    "tr": "rezerve",
+    "example": "reservieren.",
+    "level": "A2"
+  },
+  {
+    "de": "Freunden",
+    "tr": "Arkadaşlar",
+    "example": "ins Kino gehen.",
+    "level": "A2"
+  },
+  {
+    "de": "schade",
+    "tr": "çok kötü",
+    "example": "dass du nicht kommen kannst.",
+    "level": "A2"
+  },
+  {
+    "de": "schädlich",
+    "tr": "zararlı",
+    "example": "ist schädlich für die Gesundheit.",
+    "level": "A2"
+  },
+  {
+    "de": "schaffen",
+    "tr": "yaratmak",
+    "example": "du mir bitte helfen? Ich schaffe das nicht",
+    "level": "A2"
+  },
+  {
+    "de": "Geschafft!",
+    "tr": "Tamamlamak!",
+    "example": "Das Projekt ist endlich fertig.",
+    "level": "A2"
+  },
+  {
+    "de": "scharf",
+    "tr": "keskin",
+    "example": "Suppe ist mir zu scharf.",
+    "level": "A2"
+  },
+  {
+    "de": "Pass",
+    "tr": "pasaport",
+    "example": "auf! Das Messer ist sehr scharf.",
+    "level": "A2"
+  },
+  {
+    "de": "schenken",
+    "tr": "vermek",
+    "example": "schenken wir Michael zum Geburtstag?",
+    "level": "A2"
+  },
+  {
+    "de": "romantisch",
+    "tr": "romantik",
+    "example": "Dieser Film ist sehr romantisch.",
+    "level": "A2"
+  },
+  {
+    "de": "schimpfen",
+    "tr": "azarlamak",
+    "example": "schimpfst du denn so laut? –Ich ärgere",
+    "level": "A2"
+  },
+  {
+    "de": "rufen",
+    "tr": "Arama",
+    "example": "Rufst du bitte die Kinder. Das Essen ist fertig.",
+    "level": "A2"
+  },
+  {
+    "de": "schimpft",
+    "tr": "azarlıyor",
+    "example": "über mein Auto.",
+    "level": "A2"
+  },
+  {
+    "de": "Gute",
+    "tr": "İyi",
+    "example": "Nacht! Schlaf gut und träum süß!",
+    "level": "A2"
+  },
+  {
+    "de": "schwach",
+    "tr": "zayıf",
+    "example": "ist krank und schwach.",
+    "level": "A2"
+  },
+  {
+    "de": "Die",
+    "tr": "",
+    "example": "Tabletten sind zu schwach. Sie helfen nicht.",
+    "level": "A2"
+  },
+  {
+    "de": "schwanger",
+    "tr": "hamile",
+    "example": "ist schwanger. Sie bekommt im Juli ein Kind.",
+    "level": "A2"
+  },
+  {
+    "de": "schließt",
+    "tr": "kapatır",
+    "example": "Wir müssen uns beeilen, die Bank schließt um",
+    "level": "A2"
+  },
+  {
+    "de": "schlimm",
+    "tr": "korkunç",
+    "example": "Kein Problem, das ist nicht so schlimm.",
+    "level": "A2"
+  },
+  {
+    "de": "schwierig",
+    "tr": "zor",
+    "example": "Prüfung war nicht schwierig.",
+    "level": "A2"
+  },
+  {
+    "de": "Komm",
+    "tr": "Gelmek",
+    "example": "wir fahren an den Bodensee.",
+    "level": "A2"
+  },
+  {
+    "de": "schmeckt",
+    "tr": "zevkler",
+    "example": "Hat es Ihnen geschmeckt?",
+    "level": "A2"
+  },
+  {
+    "de": "schmutzig",
+    "tr": "kirli",
+    "example": "Das Handtuch ist schmutzig.",
+    "level": "A2"
+  },
+  {
+    "de": "schneiden",
+    "tr": "kesmek",
+    "example": "Das Messer schneidet nicht gut.",
+    "level": "A2"
+  },
+  {
+    "de": "schneidet",
+    "tr": "kesikler",
+    "example": "Wer schneidet dir die Haare?",
+    "level": "A2"
+  },
+  {
+    "de": "schneien",
+    "tr": "kar",
+    "example": "Morgen schneit es.",
+    "level": "A2"
+  },
+  {
+    "de": "Mir",
+    "tr": "Ben",
+    "example": "ist kalt.",
+    "level": "A2"
+  },
+  {
+    "de": "schrecklich",
+    "tr": "korkunç",
+    "example": "Ich finde ihren Rock schrecklich. Er sieht furchtbar",
+    "level": "A2"
+  },
+  {
+    "de": "selbst",
+    "tr": "kendisi",
+    "example": "musst mir nicht helfen, ich mache das selbst.",
+    "level": "A2"
+  },
+  {
+    "de": "schriftlich",
+    "tr": "yazılı olarak",
+    "example": "Sie müssen sich schriftlich anmelden.",
+    "level": "A2"
+  },
+  {
+    "de": "Rufst",
+    "tr": "sen ara",
+    "example": "du beim Pizza-Service an?",
+    "level": "A2"
+  },
+  {
+    "de": "setzen",
+    "tr": "ayarlamak",
+    "example": "dich doch!",
+    "level": "A2"
+  },
+  {
+    "de": "sicher",
+    "tr": "güvenli",
+    "example": "Dieses Auto ist besonders sicher.",
+    "level": "A2"
+  },
+  {
+    "de": "spielt",
+    "tr": "oynar",
+    "example": "Sie Karten?",
+    "level": "A2"
+  },
+  {
+    "de": "singen",
+    "tr": "şarkı söylemek",
+    "example": "Er singt gern.",
+    "level": "A2"
+  },
+  {
+    "de": "sportlich",
+    "tr": "sportif",
+    "example": "ist sehr sportlich.",
+    "level": "A2"
+  },
+  {
+    "de": "Englisch",
+    "tr": "İngilizce",
+    "example": "und Spanisch.",
+    "level": "A2"
+  },
+  {
+    "de": "stark",
+    "tr": "güçlü",
+    "example": "habe starke Kopfschmerzen.",
+    "level": "A2"
+  },
+  {
+    "de": "sogar",
+    "tr": "eşit",
+    "example": "Heute ist es sehr kalt. In den Bergen schneit es",
+    "level": "A2"
+  },
+  {
+    "de": "stattfinden",
+    "tr": "gerçekleşmek",
+    "example": "Spiel findet auch bei Regen statt.",
+    "level": "A2"
+  },
+  {
+    "de": "sollte",
+    "tr": "yapmalı",
+    "example": "Und, was hat der Arzt gesagt? –Ich soll drei Tage",
+    "level": "A2"
+  },
+  {
+    "de": "sonnig",
+    "tr": "güneşli",
+    "example": "Morgen ist das Wetter wieder warm und sonnig.",
+    "level": "A2"
+  },
+  {
+    "de": "sonst",
+    "tr": "aksi takdirde",
+    "example": "Haben Sie sonst noch einen Wunsch? –Nein danke,",
+    "level": "A2"
+  },
+  {
+    "de": "spannend",
+    "tr": "heyecan verici",
+    "example": "Ich finde den Film sehr spannend.",
+    "level": "A2"
+  },
+  {
+    "de": "sterben",
+    "tr": "ölmek",
+    "example": "Müller kommt heute nicht. Sein Vater ist",
+    "level": "A2"
+  },
+  {
+    "de": "sparen",
+    "tr": "kaydetmek",
+    "example": "Ein neues Auto ist sehr teuer. Ich muss sparen.",
+    "level": "A2"
+  },
+  {
+    "de": "brauchst",
+    "tr": "ihtiyaç",
+    "example": "du? Einen Farbstift oder einen Bleistift",
+    "level": "A2"
+  },
+  {
+    "de": "dium",
+    "tr": "diyum",
+    "example": "Stipendium.",
+    "level": "A2"
+  },
+  {
+    "de": "spazieren",
+    "tr": "gezinti",
+    "example": "Wir gehen sonntags immer spazieren.",
+    "level": "A2"
+  },
+  {
+    "de": "Mach",
+    "tr": "Yapmak",
+    "example": "die Musik leiser! Sie stört mich.",
+    "level": "A2"
+  },
+  {
+    "de": "speichern",
+    "tr": "kaydetmek",
+    "example": "Sie müssen die Datei speichern.",
+    "level": "A2"
+  },
+  {
+    "de": "streiten",
+    "tr": "tartışmak",
+    "example": "Kinder streiten (sich) oft.",
+    "level": "A2"
+  },
+  {
+    "de": "streng",
+    "tr": "kesinlikle",
+    "example": "Der Lehrer von meiner Tochter ist sehr streng.",
+    "level": "A2"
+  },
+  {
+    "de": "teilnehmen",
+    "tr": "katılmak",
+    "example": "möchte an dem Tanzkurs teilnehmen.",
+    "level": "A2"
+  },
+  {
+    "de": "stressig",
+    "tr": "stresli",
+    "example": "Meine Arbeit ist stressig.",
+    "level": "A2"
+  },
+  {
+    "de": "Möchtest",
+    "tr": "İstiyorum",
+    "example": "du noch einen Teller Suppe?",
+    "level": "A2"
+  },
+  {
+    "de": "super",
+    "tr": "süper",
+    "example": "Der Film ist super.",
+    "level": "A2"
+  },
+  {
+    "de": "tief",
+    "tr": "derin",
+    "example": "das Wasser ist tief!",
+    "level": "A2"
+  },
+  {
+    "de": "surfen",
+    "tr": "sörf",
+    "example": "Ich möchte gern surfen lernen.",
+    "level": "A2"
+  },
+  {
+    "de": "Meine",
+    "tr": "Bana ait",
+    "example": "Lieblingstiere sind Katzen.",
+    "level": "A2"
+  },
+  {
+    "de": "süß",
+    "tr": "tatlı",
+    "example": "Ich finde die Torte zu süß.",
+    "level": "A2"
+  },
+  {
+    "de": "sympathisch",
+    "tr": "arkadaşça",
+    "example": "Der neue Chef ist sehr sympathisch.",
+    "level": "A2"
+  },
+  {
+    "de": "toll",
+    "tr": "Harika",
+    "example": "Urlaub war toll.",
+    "level": "A2"
+  },
+  {
+    "de": "total",
+    "tr": "toplam",
+    "example": "Film ist total langweilig.",
+    "level": "A2"
+  },
+  {
+    "de": "tragen",
+    "tr": "taşımak",
+    "example": "kann den Koffer nicht tragen, er ist zu schwer.",
+    "level": "A2"
+  },
+  {
+    "de": "trainieren",
+    "tr": "tren",
+    "example": "trainieren einmal pro Woche im Sportverein.",
+    "level": "A2"
+  },
+  {
+    "de": "tauschen",
+    "tr": "takas etmek",
+    "example": "Können wir bitte die Plätze tauschen?",
+    "level": "A2"
+  },
+  {
+    "de": "tauscht",
+    "tr": "borsalar",
+    "example": "Können wir unsere Adressen austauschen?",
+    "level": "A2"
+  },
+  {
+    "de": "träumen",
+    "tr": "rüya",
+    "example": "habe schlecht geträumt.",
+    "level": "A2"
+  },
+  {
+    "de": "träumt",
+    "tr": "rüyalar",
+    "example": "träume von einem großen Haus mit Garten.",
+    "level": "A2"
+  },
+  {
+    "de": "traurig",
+    "tr": "üzgün",
+    "example": "bin sehr traurig. Meine Katze ist weggelaufen.",
+    "level": "A2"
+  },
+  {
+    "de": "teilen",
+    "tr": "bölmek",
+    "example": "Wollen wir die Pizza teilen?",
+    "level": "A2"
+  },
+  {
+    "de": "trifft",
+    "tr": "isabetler",
+    "example": "Wir treffen uns immer freitags.",
+    "level": "A2"
+  },
+  {
+    "de": "unbedingt",
+    "tr": "kesinlikle",
+    "example": "Ich muss unbedingt mit dir sprechen.",
+    "level": "A2"
+  },
+  {
+    "de": "trocken",
+    "tr": "kuru",
+    "example": "Die Wäsche ist bald trocken.",
+    "level": "A2"
+  },
+  {
+    "de": "tschüs",
+    "tr": "güle güle",
+    "example": "Tschüs, bis morgen!",
+    "level": "A2"
+  },
+  {
+    "de": "unterhalten",
+    "tr": "eğlendirmek",
+    "example": "Andreas und Nessrin unterhalten sich.",
+    "level": "A2"
+  },
+  {
+    "de": "unterhält",
+    "tr": "eğlendirir",
+    "example": "Wir haben uns über das Fußballspiel unterhalten.",
+    "level": "A2"
+  },
+  {
+    "de": "unternehmen",
+    "tr": "şirket",
+    "example": "Wollen wir heute Abend etwas unternehmen?",
+    "level": "A2"
+  },
+  {
+    "de": "typisch",
+    "tr": "tipik",
+    "example": "Diese Musik ist typisch für dieses Land.",
+    "level": "A2"
+  },
+  {
+    "de": "üben",
+    "tr": "pratik",
+    "example": "Ich lerne gerade Gitarre spielen. Ich übe jeden Tag",
+    "level": "A2"
+  },
+  {
+    "de": "überall",
+    "tr": "her yer",
+    "example": "Ich habe überall gesucht, aber ich kann meine Brille",
+    "level": "A2"
+  },
+  {
+    "de": "untersuchen",
+    "tr": "araştırmak",
+    "example": "Der Arzt hat mich untersucht.",
+    "level": "A2"
+  },
+  {
+    "de": "untersucht",
+    "tr": "incelendi",
+    "example": "Der Arzt muss dein Bein untersuchen.",
+    "level": "A2"
+  },
+  {
+    "de": "übermorgen",
+    "tr": "yarından sonraki gün",
+    "example": "Morgen habe ich frei. Ich komme übermorgen",
+    "level": "A2"
+  },
+  {
+    "de": "unterwegs",
+    "tr": "yolda",
+    "example": "Warte bitte auf mich. Ich bin unterwegs und",
+    "level": "A2"
+  },
+  {
+    "de": "übersetzen",
+    "tr": "tercüme etmek",
+    "example": "Können Sie mir den Brief bitte übersetzen?",
+    "level": "A2"
+  },
+  {
+    "de": "verabredet",
+    "tr": "randevum var",
+    "example": "Ich bin mit meiner Freundin verabredet.",
+    "level": "A2"
+  },
+  {
+    "de": "überweist",
+    "tr": "transfer edildi",
+    "example": "Ich überweise dir das Geld.",
+    "level": "A2"
+  },
+  {
+    "de": "tung",
+    "tr": "tung",
+    "example": "haben eine Veranstaltung.",
+    "level": "A2"
+  },
+  {
+    "de": "verbieten",
+    "tr": "yasaklamak",
+    "example": "Hier ist Rauchen verboten.",
+    "level": "A2"
+  },
+  {
+    "de": "umsteigen",
+    "tr": "aktarma",
+    "example": "Sie müssen in Mannheim umsteigen.",
+    "level": "A2"
+  },
+  {
+    "de": "vereinbaren",
+    "tr": "kabul etmek",
+    "example": "Können wir einen Termin vereinbaren?",
+    "level": "A2"
+  },
+  {
+    "de": "vergessen",
+    "tr": "unutmak",
+    "example": "Ich habe meine Hausaufgaben vergessen.",
+    "level": "A2"
+  },
+  {
+    "de": "vergisst",
+    "tr": "unutur",
+    "example": "Vergiss deinen Arzttermin nicht!",
+    "level": "A2"
+  },
+  {
+    "de": "vergleichen",
+    "tr": "karşılaştırmak",
+    "example": "Vergleichen Sie die Angebote!",
+    "level": "A2"
+  },
+  {
+    "de": "vergleicht",
+    "tr": "karşılaştırır",
+    "example": "Können wir die Antworten vergleichen?",
+    "level": "A2"
+  },
+  {
+    "de": "vorbei",
+    "tr": "üzerinde",
+    "example": "Die Linie 8 fährt am Krankenhaus vorbei.",
+    "level": "A2"
+  },
+  {
+    "de": "vorbereiten",
+    "tr": "hazırlanmak",
+    "example": "Morgen mache ich eine Party. Ich muss noch viel",
+    "level": "A2"
+  },
+  {
+    "de": "verletzen",
+    "tr": "yaralamak",
+    "example": "Sind Sie verletzt? –Ja, am Bein.",
+    "level": "A2"
+  },
+  {
+    "de": "bereitet",
+    "tr": "tedarikli",
+    "example": "dafür vorbereiten.",
+    "level": "A2"
+  },
+  {
+    "de": "verletzt",
+    "tr": "yaralı",
+    "example": "Haben Sie sich verletzt?",
+    "level": "A2"
+  },
+  {
+    "de": "vorgestern",
+    "tr": "dünden önceki gün",
+    "example": "Er hat mich vorgestern angerufen.",
+    "level": "A2"
+  },
+  {
+    "de": "verlieben",
+    "tr": "aşık olmak",
+    "example": "Ich bin total verliebt.",
+    "level": "A2"
+  },
+  {
+    "de": "vorher",
+    "tr": "önceden",
+    "example": "Ich komme mit ins Café. Vorher muss ich aber noch",
+    "level": "A2"
+  },
+  {
+    "de": "vorn",
+    "tr": "ön",
+    "example": "Bitte vorn(e) einsteigen!",
+    "level": "A2"
+  },
+  {
+    "de": "verlieren",
+    "tr": "kaybetmek",
+    "example": "Ich habe meinen Schlüssel verloren.",
+    "level": "A2"
+  },
+  {
+    "de": "verliert",
+    "tr": "kaybeder",
+    "example": "Michael hat seine Arbeit verloren.",
+    "level": "A2"
+  },
+  {
+    "de": "vorsichtig",
+    "tr": "dikkatli",
+    "example": "Sei vorsichtig!",
+    "level": "A2"
+  },
+  {
+    "de": "verpassen",
+    "tr": "kayıp",
+    "example": "Ich habe den Zug verpasst.",
+    "level": "A2"
+  },
+  {
+    "de": "vorwärts",
+    "tr": "ileri",
+    "example": "Fahren Sie bitte noch ein Stück vorwärts.",
+    "level": "A2"
+  },
+  {
+    "de": "verreisen",
+    "tr": "seyahat",
+    "example": "Verreist ihr in den Ferien?",
+    "level": "A2"
+  },
+  {
+    "de": "verreist",
+    "tr": "seyahat etti",
+    "example": "Frau Doktor Müller ist zur Zeit verreist. Sie kommt",
+    "level": "A2"
+  },
+  {
+    "de": "verschieben",
+    "tr": "taşınmak",
+    "example": "Leider muss ich den Termin verschieben.",
+    "level": "A2"
+  },
+  {
+    "de": "wach",
+    "tr": "uyanmak",
+    "example": "Bist du schon lange wach?",
+    "level": "A2"
+  },
+  {
+    "de": "verschieden",
+    "tr": "farklı",
+    "example": "Unsere beiden Kinder sind sehr verschieden.",
+    "level": "A2"
+  },
+  {
+    "de": "wählen",
+    "tr": "seçmek",
+    "example": "Sie müssen erst eine Null wählen.",
+    "level": "A2"
+  },
+  {
+    "de": "wahr",
+    "tr": "doğru",
+    "example": "Das ist (nicht) wahr!",
+    "level": "A2"
+  },
+  {
+    "de": "versteht",
+    "tr": "anlıyor",
+    "example": "Ich verstehe diese Aufgabe nicht.",
+    "level": "A2"
+  },
+  {
+    "de": "wahrscheinlich",
+    "tr": "muhtemelen",
+    "example": "Wahrscheinlich mache ich im Herbst einen",
+    "level": "A2"
+  },
+  {
+    "de": "versuchen",
+    "tr": "girişim",
+    "example": "Kann ich es auch einmal versuchen?",
+    "level": "A2"
+  },
+  {
+    "de": "versucht",
+    "tr": "sınanmış",
+    "example": "Haben Sie es schon einmal mit diesem Mittel",
+    "level": "A2"
+  },
+  {
+    "de": "warm",
+    "tr": "ılık",
+    "example": "Hier ist es sehr warm.",
+    "level": "A2"
+  },
+  {
+    "de": "voll",
+    "tr": "tam dolu",
+    "example": "Morgens und abends sind die Züge immer sehr voll.",
+    "level": "A2"
+  },
+  {
+    "de": "wartet",
+    "tr": "bekler",
+    "example": "Auf wen warten Sie?",
+    "level": "A2"
+  },
+  {
+    "de": "wenn",
+    "tr": "eğer",
+    "example": "ich nicht arbeiten muss, komme ich.",
+    "level": "A2"
+  },
+  {
+    "de": "wechseln",
+    "tr": "değiştirmek",
+    "example": "Wir müssen den Reifen wechseln.",
+    "level": "A2"
+  },
+  {
+    "de": "wechselt",
+    "tr": "değişiklikler",
+    "example": "Können Sie mir zehn Dollar wechseln?",
+    "level": "A2"
+  },
+  {
+    "de": "wecken",
+    "tr": "uyanmak",
+    "example": "Bitte wecken Sie mich morgen früh um fünf.",
+    "level": "A2"
+  },
+  {
+    "de": "weg/weg-",
+    "tr": "uzakta/uzakta-",
+    "example": "Meine Brille ist weg. Ich finde sie nicht mehr.",
+    "level": "A2"
+  },
+  {
+    "de": "(wegbringen/",
+    "tr": "(götürmek/",
+    "example": "Bringst du bitte den Müll weg?",
+    "level": "A2"
+  },
+  {
+    "de": "-fahren/-gehen/",
+    "tr": "-sürüş/-yürüyüş/",
+    "example": "Können Sie Ihr Auto bitte wegfahren?",
+    "level": "A2"
+  },
+  {
+    "de": "-laufen/-machen/",
+    "tr": "-çalıştır/-yap/",
+    "example": "Ich gehe jetzt weg.",
+    "level": "A2"
+  },
+  {
+    "de": "-nehmen/-werfen)",
+    "tr": "-al/at)",
+    "example": "Unser Hund ist weggelaufen.",
+    "level": "A2"
+  },
+  {
+    "de": "wieder",
+    "tr": "Tekrar",
+    "example": "kann wieder zum Fußballtraining kommen.",
+    "level": "A2"
+  },
+  {
+    "de": "Du",
+    "tr": "Sen",
+    "example": "kommst schon wieder zu spät.",
+    "level": "A2"
+  },
+  {
+    "de": "wegen",
+    "tr": "yüzünden",
+    "example": "Wegen seiner Arbeit kann er leider nicht kommen.",
+    "level": "A2"
+  },
+  {
+    "de": "wehtun",
+    "tr": "acıtmak",
+    "example": "Wo tut es weh?",
+    "level": "A2"
+  },
+  {
+    "de": "tut",
+    "tr": "yapmak",
+    "example": "Ich will dir nicht wehtun.",
+    "level": "A2"
+  },
+  {
+    "de": "weich",
+    "tr": "yumuşak",
+    "example": "Ich möchte zum Frühstück ein weiches Ei.",
+    "level": "A2"
+  },
+  {
+    "de": "windig",
+    "tr": "rüzgarlı",
+    "example": "ist es sehr windig.",
+    "level": "A2"
+  },
+  {
+    "de": "wirklich",
+    "tr": "Gerçekten",
+    "example": "glaubst mir nicht? Es ist aber wirklich so.",
+    "level": "A2"
+  },
+  {
+    "de": "weil",
+    "tr": "Çünkü",
+    "example": "Ich kann nicht kommen, weil ich arbeiten muss.",
+    "level": "A2"
+  },
+  {
+    "de": "weinen",
+    "tr": "ağlamak",
+    "example": "Warum weint das Baby?",
+    "level": "A2"
+  },
+  {
+    "de": "witzig",
+    "tr": "eğlenceli",
+    "example": "lachst du? Ich finde das nicht witzig.",
+    "level": "A2"
+  },
+  {
+    "de": "machen/-helfen)",
+    "tr": "yap/yardım et)",
+    "example": "Entschuldigung, können Sie mir bitte weiterhelfen?",
+    "level": "A2"
+  },
+  {
+    "de": "welcher",
+    "tr": "Hangi",
+    "example": "Welcher Tag ist heute?",
+    "level": "A2"
+  },
+  {
+    "de": "wenigstens",
+    "tr": "en azından",
+    "example": "Ich habe keinen Hunger. - Ach, essen Sie",
+    "level": "A2"
+  },
+  {
+    "de": "Lucia",
+    "tr": "Lucia",
+    "example": "mag Zitroneneis.",
+    "level": "A2"
+  },
+  {
+    "de": "zuerst",
+    "tr": "Birinci",
+    "example": "müsst ihr die Hausaufgaben machen, dann",
+    "level": "A2"
+  },
+  {
+    "de": "könnt",
+    "tr": "olabilmek",
+    "example": "ihr spielen.",
+    "level": "A2"
+  },
+  {
+    "de": "wünschen",
+    "tr": "dilek",
+    "example": "Ich wünsche mir eine Kamera zum Geburtstag.",
+    "level": "A2"
+  },
+  {
+    "de": "zuhören",
+    "tr": "Dinlemek",
+    "example": "mir doch mal zu! Ich rede mit dir.",
+    "level": "A2"
+  },
+  {
+    "de": "zuletzt",
+    "tr": "son",
+    "example": "haben uns vor drei Jahren zuletzt gesehen.",
+    "level": "A2"
+  },
+  {
+    "de": "zeichnen",
+    "tr": "çizmek",
+    "example": "Caterina kann gut zeichnen. Sieh mal das Bild hier.",
+    "level": "A2"
+  },
+  {
+    "de": "zumachen",
+    "tr": "kapalı",
+    "example": "du bitte das Fenster zu?",
+    "level": "A2"
+  },
+  {
+    "de": "zeigen",
+    "tr": "göstermek",
+    "example": "Können Sie mir bitte den Weg zum Bahnhof zeigen?",
+    "level": "A2"
+  },
+  {
+    "de": "(fahren",
+    "tr": "(sürmek",
+    "example": "muss ich das Buch zurückgeben?",
+    "level": "A2"
+  },
+  {
+    "de": "/ziehen",
+    "tr": "/çekmek",
+    "example": "Ich ziehe (mir) eine Jacke an.",
+    "level": "A2"
+  },
+  {
+    "de": "gezogen",
+    "tr": "çekti",
+    "example": "Die Nachbarn sind am Wochenende ausgezogen.",
+    "level": "A2"
+  }
+]

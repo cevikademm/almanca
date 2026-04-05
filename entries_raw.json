@@ -1,0 +1,6386 @@
+{
+  "a1": [
+    {
+      "de": "ab",
+      "example": "Ab morgen muss ich arbeiten.",
+      "level": "A1"
+    },
+    {
+      "de": "aber",
+      "example": "Ich bin oft im Büro, aber nur für wenige Stunden.",
+      "level": "A1"
+    },
+    {
+      "de": "abfahren",
+      "example": "Wir fahren um zwölf Uhr ab.",
+      "level": "A1"
+    },
+    {
+      "de": "die Abfahrt",
+      "example": "Vor der Abfahrt rufe ich an.",
+      "level": "A1"
+    },
+    {
+      "de": "abgeben",
+      "example": "Ich muss meine Schlüssel abgeben.",
+      "level": "A1"
+    },
+    {
+      "de": "abholen",
+      "example": "Wann kann ich den Schrank bei dir abholen?",
+      "level": "A1"
+    },
+    {
+      "de": "der Absender",
+      "example": "Da ist ein Brief für dich ohne Absender.",
+      "level": "A1"
+    },
+    {
+      "de": "Achtung",
+      "example": "Achtung! Das dürfen Sie nicht tun.",
+      "level": "A1"
+    },
+    {
+      "de": "all-",
+      "example": "Alles Gute!",
+      "level": "A1"
+    },
+    {
+      "de": "allein",
+      "example": "Er kommt allein.",
+      "level": "A1"
+    },
+    {
+      "de": "also",
+      "example": "Also, es ist so: ...",
+      "level": "A1"
+    },
+    {
+      "de": "alt",
+      "example": "Wie alt sind Sie?",
+      "level": "A1"
+    },
+    {
+      "de": "das Alter",
+      "example": "Alter: 26 Jahre.",
+      "level": "A1"
+    },
+    {
+      "de": "an",
+      "example": "Fahren Sie an der nächsten Straße nach rechts.",
+      "level": "A1"
+    },
+    {
+      "de": "anbieten",
+      "example": "Was darf ich dir anbieten?",
+      "level": "A1"
+    },
+    {
+      "de": "ander-",
+      "example": "WiIlst du diese Jacke?",
+      "level": "A1"
+    },
+    {
+      "de": "anfangen",
+      "example": "Hier fängt die Bahnhofstraße an.",
+      "level": "A1"
+    },
+    {
+      "de": "anklicken",
+      "example": "Da musst du dieses Wort anklicken.",
+      "level": "A1"
+    },
+    {
+      "de": "ankommen",
+      "example": "Wann kommt dieser Zug in Hamburg an?",
+      "level": "A1"
+    },
+    {
+      "de": "ankreuzen",
+      "example": "Auf dem Formular müssen Sie an mehreren Stellen",
+      "level": "A1"
+    },
+    {
+      "de": "anmachen",
+      "example": "Mach bitte das Licht an!",
+      "level": "A1"
+    },
+    {
+      "de": "(sich) anmelden",
+      "example": "Wo kann ich mich anmelden?",
+      "level": "A1"
+    },
+    {
+      "de": "anrufen",
+      "example": "Kann man Sie anrufen?",
+      "level": "A1"
+    },
+    {
+      "de": "beantworter",
+      "example": "den Anrufbeantworter.",
+      "level": "A1"
+    },
+    {
+      "de": "antworten",
+      "example": "Er antwortet nicht.",
+      "level": "A1"
+    },
+    {
+      "de": "arbeiten",
+      "example": "Wo arbeiten Sie?",
+      "level": "A1"
+    },
+    {
+      "de": "arbeitslos",
+      "example": "Es gibt bei uns viele Leute, die schon lange arbeitslos",
+      "level": "A1"
+    },
+    {
+      "de": "auch",
+      "example": "Ich bin auch Spanier.",
+      "level": "A1"
+    },
+    {
+      "de": "auf",
+      "example": "Die Kinder spielen auf der Straße.",
+      "level": "A1"
+    },
+    {
+      "de": "aufhören",
+      "example": "Der Kurs hört in einer Woche auf.",
+      "level": "A1"
+    },
+    {
+      "de": "aufstehen",
+      "example": "Ich muss immer um vier Uhr aufstehen.",
+      "level": "A1"
+    },
+    {
+      "de": "aus",
+      "example": "Er kommt aus Brasilien.",
+      "level": "A1"
+    },
+    {
+      "de": "ausfüllen",
+      "example": "Füllen Sie bitte dieses Formular aus.",
+      "level": "A1"
+    },
+    {
+      "de": "ausländisch",
+      "example": "Leider habe ich nur ausländisches Geld.",
+      "level": "A1"
+    },
+    {
+      "de": "ausmachen",
+      "example": "Mach bitte das Licht aus!",
+      "level": "A1"
+    },
+    {
+      "de": "aussehen",
+      "example": "Das sieht schön aus.",
+      "level": "A1"
+    },
+    {
+      "de": "aussteigen",
+      "example": "Wo muss ich aussteigen?",
+      "level": "A1"
+    },
+    {
+      "de": "automatisch",
+      "example": "Du musst nichts machen. Das geht automatisch.",
+      "level": "A1"
+    },
+    {
+      "de": "baden",
+      "example": "Ich bade nicht so gern, ich dusche lieber.",
+      "level": "A1"
+    },
+    {
+      "de": "bald",
+      "example": "Ich komme bald.",
+      "level": "A1"
+    },
+    {
+      "de": "bar",
+      "example": "Muss ich bar zahlen oder geht‘s auch mit Karte?",
+      "level": "A1"
+    },
+    {
+      "de": "bedeuten",
+      "example": "Was bedeutet das Wort?",
+      "level": "A1"
+    },
+    {
+      "de": "beginnen",
+      "example": "Das Spiel beginnt um 15.30 Uhr.",
+      "level": "A1"
+    },
+    {
+      "de": "bei",
+      "example": "Offenbach liegt bei Frankfurt.",
+      "level": "A1"
+    },
+    {
+      "de": "beide",
+      "example": "Beide Eltern arbeiten.",
+      "level": "A1"
+    },
+    {
+      "de": "zum Beispiel/z. B.",
+      "example": "Viele meiner Verwandten, z. B. meine beiden",
+      "level": "A1"
+    },
+    {
+      "de": "bekannt",
+      "example": "Picasso ist sehr bekannt.",
+      "level": "A1"
+    },
+    {
+      "de": "der/die Bekannte",
+      "example": "Ein Bekannter von mir heißt Klaus.",
+      "level": "A1"
+    },
+    {
+      "de": "bekommen",
+      "example": "Haben Sie meinen Brief bekommen?",
+      "level": "A1"
+    },
+    {
+      "de": "benutzen",
+      "example": "Die Aufzüge bitte nicht benutzen!",
+      "level": "A1"
+    },
+    {
+      "de": "besetzt",
+      "example": "Die Nummer ist immer besetzt.",
+      "level": "A1"
+    },
+    {
+      "de": "besichtigen",
+      "example": "Ich möchte gern den Dom besichtigen.",
+      "level": "A1"
+    },
+    {
+      "de": "besser",
+      "example": "Es geht mir schon besser.",
+      "level": "A1"
+    },
+    {
+      "de": "best-",
+      "example": "Am besten treffen wir uns morgen.",
+      "level": "A1"
+    },
+    {
+      "de": "bestellen",
+      "example": "Wir möchten bestellen, bitte.",
+      "level": "A1"
+    },
+    {
+      "de": "besuchen",
+      "example": "Darf ich dich besuchen?",
+      "level": "A1"
+    },
+    {
+      "de": "bezahlen",
+      "example": "Wo muss ich bezahlen?",
+      "level": "A1"
+    },
+    {
+      "de": "billig",
+      "example": "Die Jacke kostet nur 10 Euro! Die ist aber billig!",
+      "level": "A1"
+    },
+    {
+      "de": "bis",
+      "example": "Ich fahre nur bis Stuttgart.",
+      "level": "A1"
+    },
+    {
+      "de": "bisschen",
+      "example": "Ich spreche Englisch, Französisch und ein bisschen",
+      "level": "A1"
+    },
+    {
+      "de": "bitte",
+      "example": "Eine Tasse Kaffee, bitte!",
+      "level": "A1"
+    },
+    {
+      "de": "bitten",
+      "example": "Darf ich Sie um etwas bitten?",
+      "level": "A1"
+    },
+    {
+      "de": "bitter",
+      "example": "Der Kaffee schmeckt bitter.",
+      "level": "A1"
+    },
+    {
+      "de": "bleiben",
+      "example": "Ich bleibe heute zu Hause.",
+      "level": "A1"
+    },
+    {
+      "de": "böse",
+      "example": "Sie ist böse auf mich.",
+      "level": "A1"
+    },
+    {
+      "de": "brauchen",
+      "example": "Brauchst du die Zeitung noch?",
+      "level": "A1"
+    },
+    {
+      "de": "breit",
+      "example": "Wie breit ist der Schrank?",
+      "level": "A1"
+    },
+    {
+      "de": "bringen",
+      "example": "Bringen Sie mir bitte noch einen Kaffee!",
+      "level": "A1"
+    },
+    {
+      "de": "buchstabieren",
+      "example": "Bitte buchstabieren Sie Ihren Namen.",
+      "level": "A1"
+    },
+    {
+      "de": "circa/ca.",
+      "example": "Von Mainz nach Frankfurt sind es circa fünfzig",
+      "level": "A1"
+    },
+    {
+      "de": "da",
+      "example": "Da hinten ist er ja.",
+      "level": "A1"
+    },
+    {
+      "de": "daneben",
+      "example": "Du kennst doch die Post. Daneben ist die Bank.",
+      "level": "A1"
+    },
+    {
+      "de": "danken",
+      "example": "Ich danke Ihnen für die Einladung.",
+      "level": "A1"
+    },
+    {
+      "de": "danke",
+      "example": "Soll ich Ihnen helfen? - Nein, danke!",
+      "level": "A1"
+    },
+    {
+      "de": "dann",
+      "example": "Ich muss noch schnell zur Post, dann komme ich.",
+      "level": "A1"
+    },
+    {
+      "de": "dauern",
+      "example": "Wie lange dauert der Film?",
+      "level": "A1"
+    },
+    {
+      "de": "dein-",
+      "example": "Ist das dein Auto?",
+      "level": "A1"
+    },
+    {
+      "de": "denn",
+      "example": "Ich kann nicht kommen, denn ich bin krank.",
+      "level": "A1"
+    },
+    {
+      "de": "der, die",
+      "example": "Ich nehme das da.",
+      "level": "A1"
+    },
+    {
+      "de": "dich",
+      "example": "Die Blumen sind für dich.",
+      "level": "A1"
+    },
+    {
+      "de": "dies-",
+      "example": "Ich nehme lieber diesen Kuchen.",
+      "level": "A1"
+    },
+    {
+      "de": "dir",
+      "example": "Gefallen dir die Blumen?",
+      "level": "A1"
+    },
+    {
+      "de": "dort, -her",
+      "example": "Deine Tasche kannst du dorthin stellen.",
+      "level": "A1"
+    },
+    {
+      "de": "draußen",
+      "example": "Wollen wir draußen sitzen?",
+      "level": "A1"
+    },
+    {
+      "de": "drucken",
+      "example": "Bitte drucke das Formular für mich.",
+      "level": "A1"
+    },
+    {
+      "de": "drücken",
+      "example": "Drück hier, dann geht der Computer an.",
+      "level": "A1"
+    },
+    {
+      "de": "durch",
+      "example": "Am besten gehen Sie durch die Breite Straße.",
+      "level": "A1"
+    },
+    {
+      "de": "dürfen",
+      "example": "Sie dürfen hier nicht rauchen.",
+      "level": "A1"
+    },
+    {
+      "de": "eilig",
+      "example": "Hast du es eilig?",
+      "level": "A1"
+    },
+    {
+      "de": "ein-",
+      "example": "Ich nehme ein Bier. Willst du auch eins?",
+      "level": "A1"
+    },
+    {
+      "de": "einfach",
+      "example": "Die Prüfung ist ganz einfach.",
+      "level": "A1"
+    },
+    {
+      "de": "einkaufen",
+      "example": "Ich muss noch für morgen einkaufen.",
+      "level": "A1"
+    },
+    {
+      "de": "einladen",
+      "example": "Darf ich Sie zu einem Kaffee einladen?",
+      "level": "A1"
+    },
+    {
+      "de": "einmal",
+      "example": "Diese Prüfung mache ich nicht noch einmal.",
+      "level": "A1"
+    },
+    {
+      "de": "einsteigen",
+      "example": "Schnell, steig ein, der Zug fährt gleich.",
+      "level": "A1"
+    },
+    {
+      "de": "empfehlen",
+      "example": "Welchen Wein können Sie mir empfehlen?",
+      "level": "A1"
+    },
+    {
+      "de": "enden",
+      "example": "Die Straße endet hier.",
+      "level": "A1"
+    },
+    {
+      "de": "entschuldigen",
+      "example": "Entschuldigen Sie bitte!",
+      "level": "A1"
+    },
+    {
+      "de": "er",
+      "example": "Er heißt Ali.",
+      "level": "A1"
+    },
+    {
+      "de": "erklären",
+      "example": "Kannst du mir das erklären?",
+      "level": "A1"
+    },
+    {
+      "de": "erlauben",
+      "example": "Rauchen ist hier nicht erlaubt.",
+      "level": "A1"
+    },
+    {
+      "de": "erzählen",
+      "example": "Wir müssen euch etwas erzählen!",
+      "level": "A1"
+    },
+    {
+      "de": "es",
+      "example": "Es regnet.",
+      "level": "A1"
+    },
+    {
+      "de": "essen",
+      "example": "Was gibt es zu essen?",
+      "level": "A1"
+    },
+    {
+      "de": "euer",
+      "example": "Euer Kurs beginnt heute.",
+      "level": "A1"
+    },
+    {
+      "de": "fahren",
+      "example": "Ich fahre mit dem Auto zur Arbeit.",
+      "level": "A1"
+    },
+    {
+      "de": "falsch",
+      "example": "Das ist falsch.",
+      "level": "A1"
+    },
+    {
+      "de": "Feier-",
+      "example": "z. B. Feierabend, Feiertag",
+      "level": "A1"
+    },
+    {
+      "de": "feiern",
+      "example": "Wir feiern heute meinen Geburtstag.",
+      "level": "A1"
+    },
+    {
+      "de": "fehlen",
+      "example": "Herr Müller ist nicht da, er fehlt schon seit drei Tagen.",
+      "level": "A1"
+    },
+    {
+      "de": "fernsehen",
+      "example": "Wollen wir heute Abend mal fernsehen?",
+      "level": "A1"
+    },
+    {
+      "de": "fertig",
+      "example": "Bist du fertig?",
+      "level": "A1"
+    },
+    {
+      "de": "finden",
+      "example": "Wir müssen den Schlüssel finden.",
+      "level": "A1"
+    },
+    {
+      "de": "fliegen",
+      "example": "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.",
+      "level": "A1"
+    },
+    {
+      "de": "abfliegen",
+      "example": "Wann fliegst du ab?",
+      "level": "A1"
+    },
+    {
+      "de": "fragen",
+      "example": "Er möchte Sie etwas fragen. Wann kommen Sie?",
+      "level": "A1"
+    },
+    {
+      "de": "frei",
+      "example": "Ist der Platz noch frei?",
+      "level": "A1"
+    },
+    {
+      "de": "fremd",
+      "example": "Das weiß ich nicht; ich bin fremd hier.",
+      "level": "A1"
+    },
+    {
+      "de": "früher",
+      "example": "Früher waren wir oft zusammen im Kino.",
+      "level": "A1"
+    },
+    {
+      "de": "frühstücken",
+      "example": "Am Sonntag frühstücke ich gern im Bett.",
+      "level": "A1"
+    },
+    {
+      "de": "für",
+      "example": "Das ist für Sie.",
+      "level": "A1"
+    },
+    {
+      "de": "geben",
+      "example": "Kannst du mir bitte deinen Kugelschreiber geben?",
+      "level": "A1"
+    },
+    {
+      "de": "geboren",
+      "example": "Ich bin in Zagreb geboren.",
+      "level": "A1"
+    },
+    {
+      "de": "gefallen",
+      "example": "Das gefällt mir.",
+      "level": "A1"
+    },
+    {
+      "de": "gegen",
+      "example": "Fahr nicht gegen den Baum!",
+      "level": "A1"
+    },
+    {
+      "de": "gehen",
+      "example": "Ich weiß nicht, wie das geht.",
+      "level": "A1"
+    },
+    {
+      "de": "gehören",
+      "example": "Wem gehört das?",
+      "level": "A1"
+    },
+    {
+      "de": "gerade",
+      "example": "Da kommt er ja gerade.",
+      "level": "A1"
+    },
+    {
+      "de": "geradeaus",
+      "example": "Gehen Sie immer geradeaus!",
+      "level": "A1"
+    },
+    {
+      "de": "gern(e)",
+      "example": "Ich gehe gerne einkaufen.",
+      "level": "A1"
+    },
+    {
+      "de": "gestern",
+      "example": "Gestern war ich krank.",
+      "level": "A1"
+    },
+    {
+      "de": "gestorben",
+      "example": "Meine Frau ist gestern gestorben.",
+      "level": "A1"
+    },
+    {
+      "de": "gewinnen",
+      "example": "Wer gewinnt das Spiel?",
+      "level": "A1"
+    },
+    {
+      "de": "glauben",
+      "example": "Sie können mir glauben, es ist so.",
+      "level": "A1"
+    },
+    {
+      "de": "gleich",
+      "example": "Das ist mir gleich.",
+      "level": "A1"
+    },
+    {
+      "de": "glücklich",
+      "example": "Meine Kinder sind glücklich verheiratet.",
+      "level": "A1"
+    },
+    {
+      "de": "Grad (Celsius)",
+      "example": "Heute haben wir dreißig Grad.",
+      "level": "A1"
+    },
+    {
+      "de": "gratulieren",
+      "example": "Ich gratuliere dir!",
+      "level": "A1"
+    },
+    {
+      "de": "grillen",
+      "example": "Heute grillen wir im Garten.",
+      "level": "A1"
+    },
+    {
+      "de": "groß",
+      "example": "Mein Bruder und ich sind gleich groß.",
+      "level": "A1"
+    },
+    {
+      "de": "gültig",
+      "example": "Der Pass ist nicht mehr gültig.",
+      "level": "A1"
+    },
+    {
+      "de": "günstig",
+      "example": "Dort gibt es günstige Angebote.",
+      "level": "A1"
+    },
+    {
+      "de": "gut",
+      "example": "Das finde ich gut.",
+      "level": "A1"
+    },
+    {
+      "de": "haben",
+      "example": "Ich habe ein neues Auto.",
+      "level": "A1"
+    },
+    {
+      "de": "hallo",
+      "example": "Hallo Inge! Wie geht’s?",
+      "level": "A1"
+    },
+    {
+      "de": "halten",
+      "example": "Dieser Zug hält nicht in Rüdesheim.",
+      "level": "A1"
+    },
+    {
+      "de": "heiraten",
+      "example": "Meine Schwester heiratet einen Japaner.",
+      "level": "A1"
+    },
+    {
+      "de": "heißen",
+      "example": "Ich heiße Charlotte Meier.",
+      "level": "A1"
+    },
+    {
+      "de": "helfen",
+      "example": "Können Sie mir helfen, bitte?",
+      "level": "A1"
+    },
+    {
+      "de": "hell",
+      "example": "Im Sommer ist es bis 21 Uhr hell.",
+      "level": "A1"
+    },
+    {
+      "de": "herzlich",
+      "example": "Herzlichen Glückwunsch!",
+      "level": "A1"
+    },
+    {
+      "de": "heute",
+      "example": "Heute ist ein schöner Tag.",
+      "level": "A1"
+    },
+    {
+      "de": "hier",
+      "example": "Hier ist 06131-553221, Pamela Linke.",
+      "level": "A1"
+    },
+    {
+      "de": "hinten",
+      "example": "Die Tür zum Aussteigen ist hinten.",
+      "level": "A1"
+    },
+    {
+      "de": "hoch",
+      "example": "Der Mount Everest ist 8.880 Meter hoch.",
+      "level": "A1"
+    },
+    {
+      "de": "holen",
+      "example": "Ich hole zwei Flaschen Wasser aus der Küche.",
+      "level": "A1"
+    },
+    {
+      "de": "hören",
+      "example": "Hör mal! Was ist das?",
+      "level": "A1"
+    },
+    {
+      "de": "ich",
+      "example": "Ich heiße Veronika.",
+      "level": "A1"
+    },
+    {
+      "de": "ihr/ihm/ihn",
+      "example": "Gib ihr/ihm bitte das Buch.",
+      "level": "A1"
+    },
+    {
+      "de": "immer",
+      "example": "Frau Bast kommt immer zu spät.",
+      "level": "A1"
+    },
+    {
+      "de": "in",
+      "example": "Ich wohne in Wiesbaden.",
+      "level": "A1"
+    },
+    {
+      "de": "international",
+      "example": "Unser Deutschkurs ist international: Silvana kommt",
+      "level": "A1"
+    },
+    {
+      "de": "ja",
+      "example": "Sind Sie Herr Watanabe? – Ja.",
+      "level": "A1"
+    },
+    {
+      "de": "jed-",
+      "example": "Blumen kannst du in jedem Bahnhof kaufen.",
+      "level": "A1"
+    },
+    {
+      "de": "jetzt",
+      "example": "Jetzt machen wir eine Pause.",
+      "level": "A1"
+    },
+    {
+      "de": "jung",
+      "example": "Claudia ist 21. – Was? Noch so jung?",
+      "level": "A1"
+    },
+    {
+      "de": "kaputt",
+      "example": "Das Glas war teuer. Es geht sehr leicht kaputt.",
+      "level": "A1"
+    },
+    {
+      "de": "(Kredit)-Karte",
+      "example": "Kann ich auch mit Karte (be-) zahlen?",
+      "level": "A1"
+    },
+    {
+      "de": "kaufen",
+      "example": "Tim kauft sich ein neues Auto.",
+      "level": "A1"
+    },
+    {
+      "de": "kein",
+      "example": "Es gibt keine Eintrittskarten mehr.",
+      "level": "A1"
+    },
+    {
+      "de": "kennen",
+      "example": "Kennen Sie diese Frau? – Nein, leider nicht.",
+      "level": "A1"
+    },
+    {
+      "de": "kennenlernen",
+      "example": "Wir sind neu hier. Wir möchten Sie kennenlernen.",
+      "level": "A1"
+    },
+    {
+      "de": "klar",
+      "example": "Kommst du mit? – Klar!",
+      "level": "A1"
+    },
+    {
+      "de": "klein",
+      "example": "Eltville ist eine kleine Stadt am Rhein.",
+      "level": "A1"
+    },
+    {
+      "de": "kochen",
+      "example": "Herr Georgi kann gut kochen.",
+      "level": "A1"
+    },
+    {
+      "de": "kommen",
+      "example": "Woher kommen Sie? – Aus Frankreich.",
+      "level": "A1"
+    },
+    {
+      "de": "können",
+      "example": "Ich kann Deutsch und Russisch.",
+      "level": "A1"
+    },
+    {
+      "de": "kosten",
+      "example": "Wie viel kostet das? – 10 Euro.",
+      "level": "A1"
+    },
+    {
+      "de": "krank",
+      "example": "Ich kann heute nicht zur Arbeit kommen, ich bin krank",
+      "level": "A1"
+    },
+    {
+      "de": "kriegen",
+      "example": "Ich kriege 15 Euro in der Stunde für meine Arbeit.",
+      "level": "A1"
+    },
+    {
+      "de": "kulturell",
+      "example": "Ich bin kulturell interessiert. Ich gehe oft ins Museum.",
+      "level": "A1"
+    },
+    {
+      "de": "sich kümmern",
+      "example": "Jede Mutter kümmert sich um ihre kleinen Kinder.",
+      "level": "A1"
+    },
+    {
+      "de": "kurz",
+      "example": "Ricardo hat kurzes Haar.",
+      "level": "A1"
+    },
+    {
+      "de": "lachen",
+      "example": "Die Kinder lachen viel.",
+      "level": "A1"
+    },
+    {
+      "de": "lang",
+      "example": "Die Jeans ist zu lang.",
+      "level": "A1"
+    },
+    {
+      "de": "lange",
+      "example": "Wie lange fährt der Zug von Hamburg nach Berlin?",
+      "level": "A1"
+    },
+    {
+      "de": "langsam",
+      "example": "Könnten Sie bitte etwas langsamer sprechen?",
+      "level": "A1"
+    },
+    {
+      "de": "laufen",
+      "example": "Ich möchte nicht Auto fahren, ich möchte laufen.",
+      "level": "A1"
+    },
+    {
+      "de": "laut",
+      "example": "Nicht so laut! Das Baby schläft.",
+      "level": "A1"
+    },
+    {
+      "de": "leben",
+      "example": "Sie lebt bei ihrer Schwester.",
+      "level": "A1"
+    },
+    {
+      "de": "mittel (pl.)",
+      "example": "Lebensmittel bekommen Sie im Supermarkt.",
+      "level": "A1"
+    },
+    {
+      "de": "ledig",
+      "example": "Sind Sie verheiratet? – Nein. Ledig.",
+      "level": "A1"
+    },
+    {
+      "de": "legen",
+      "example": "Legen Sie das Buch auf den Tisch.",
+      "level": "A1"
+    },
+    {
+      "de": "leicht",
+      "example": "Der Koffer ist leicht.",
+      "level": "A1"
+    },
+    {
+      "de": "leider",
+      "example": "Leider kann ich nicht kommen. Ich muss zum Arzt.",
+      "level": "A1"
+    },
+    {
+      "de": "leise",
+      "example": "Seid leise. Die anderen schlafen schon.",
+      "level": "A1"
+    },
+    {
+      "de": "lernen",
+      "example": "Wie lange lernen Sie schon Deutsch?",
+      "level": "A1"
+    },
+    {
+      "de": "lesen",
+      "example": "Ich lese ein Buch von García Márquez.",
+      "level": "A1"
+    },
+    {
+      "de": "letzt-",
+      "example": "Morgen ist der letzte Kurstag.",
+      "level": "A1"
+    },
+    {
+      "de": "lieb-",
+      "example": "Liebe Susanne, lieber Hans,",
+      "level": "A1"
+    },
+    {
+      "de": "lieben",
+      "example": "Ich liebe dich!",
+      "level": "A1"
+    },
+    {
+      "de": "lieber",
+      "example": "Sie fährt lieber mit der Bahn.",
+      "level": "A1"
+    },
+    {
+      "de": "Lieblings-",
+      "example": "Mein Lieblingsfilm ist „Schwarze Augen“.",
+      "level": "A1"
+    },
+    {
+      "de": "liegen",
+      "example": "Um neun Uhr liegt Judith noch im Bett.",
+      "level": "A1"
+    },
+    {
+      "de": "links",
+      "example": "Gehen Sie die nächste Straße links.",
+      "level": "A1"
+    },
+    {
+      "de": "lustig",
+      "example": "Frau Mertens ist lustig. Sie lacht immer.",
+      "level": "A1"
+    },
+    {
+      "de": "machen",
+      "example": "Was machst du heute Abend?",
+      "level": "A1"
+    },
+    {
+      "de": "man",
+      "example": "Hier darf man nicht rauchen.",
+      "level": "A1"
+    },
+    {
+      "de": "männlich",
+      "example": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+      "level": "A1"
+    },
+    {
+      "de": "mehr",
+      "example": "Dieses Auto kostet 1.000 Euro mehr als das andere.",
+      "level": "A1"
+    },
+    {
+      "de": "mein",
+      "example": "Mein Vater ist Arzt.",
+      "level": "A1"
+    },
+    {
+      "de": "meist-",
+      "example": "Die meisten Norddeutschen sind sehr groß.",
+      "level": "A1"
+    },
+    {
+      "de": "mieten",
+      "example": "Ich möchte ein Auto mieten.",
+      "level": "A1"
+    },
+    {
+      "de": "mit",
+      "example": "Trinken Sie den Kaffee mit Milch?",
+      "level": "A1"
+    },
+    {
+      "de": "mitbringen",
+      "example": "Ich gehe einkaufen. Soll ich dir was mitbringen?",
+      "level": "A1"
+    },
+    {
+      "de": "mitkommen",
+      "example": "Ich gehe ins Kino. Kommst du mit?",
+      "level": "A1"
+    },
+    {
+      "de": "mitmachen",
+      "example": "Warum macht ihr nicht mit?",
+      "level": "A1"
+    },
+    {
+      "de": "mitnehmen",
+      "example": "Nehmen wir meine Schwester ins Kino mit?",
+      "level": "A1"
+    },
+    {
+      "de": "möchten",
+      "example": "Was möchten Sie trinken?",
+      "level": "A1"
+    },
+    {
+      "de": "mögen",
+      "example": "Magst du Kaffee oder Tee?",
+      "level": "A1"
+    },
+    {
+      "de": "möglich",
+      "example": "Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.",
+      "level": "A1"
+    },
+    {
+      "de": "morgen",
+      "example": "Morgen beginnt die Schule um 10 Uhr.",
+      "level": "A1"
+    },
+    {
+      "de": "müde",
+      "example": "Ich bin müde. Ich gehe schlafen.",
+      "level": "A1"
+    },
+    {
+      "de": "müssen",
+      "example": "Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.",
+      "level": "A1"
+    },
+    {
+      "de": "nach",
+      "example": "Ich gehe jetzt nach Hause.",
+      "level": "A1"
+    },
+    {
+      "de": "nächst-",
+      "example": "Sehen wir uns nächste Woche?",
+      "level": "A1"
+    },
+    {
+      "de": "nehmen",
+      "example": "Heute gibt es Hähnchen. Das nehme ich.",
+      "level": "A1"
+    },
+    {
+      "de": "nein",
+      "example": "Fährst du auch nach München? – Nein, ich habe keine",
+      "level": "A1"
+    },
+    {
+      "de": "neu",
+      "example": "Ich bin der neue Kollege.",
+      "level": "A1"
+    },
+    {
+      "de": "nicht",
+      "example": "Das stimmt nicht.",
+      "level": "A1"
+    },
+    {
+      "de": "nichts",
+      "example": "Das macht nichts.",
+      "level": "A1"
+    },
+    {
+      "de": "nie",
+      "example": "Er kommt nie pünktlich.",
+      "level": "A1"
+    },
+    {
+      "de": "noch",
+      "example": "Vielleicht kommt er noch.",
+      "level": "A1"
+    },
+    {
+      "de": "normal",
+      "example": "75 kg. Sein Gewicht ist normal.",
+      "level": "A1"
+    },
+    {
+      "de": "nur",
+      "example": "Ich möchte nur ein Glas Wasser.",
+      "level": "A1"
+    },
+    {
+      "de": "oben",
+      "example": "Ich wohne oben.",
+      "level": "A1"
+    },
+    {
+      "de": "oder",
+      "example": "Wann können Sie kommen – heute oder morgen?",
+      "level": "A1"
+    },
+    {
+      "de": "öffnen",
+      "example": "Ich öffne die Tür.",
+      "level": "A1"
+    },
+    {
+      "de": "geöffnet",
+      "example": "Der Laden ist samstags bis 16.00 Uhr geöffnet.",
+      "level": "A1"
+    },
+    {
+      "de": "oft",
+      "example": "Petra treffe ich oft.",
+      "level": "A1"
+    },
+    {
+      "de": "ohne",
+      "example": "Ohne Geld kann er nichts kaufen.",
+      "level": "A1"
+    },
+    {
+      "de": "pünktlich",
+      "example": "Der Bus fährt pünktlich um acht Uhr.",
+      "level": "A1"
+    },
+    {
+      "de": "Rad fahren",
+      "example": "Das Kind kann schon Rad fahren.",
+      "level": "A1"
+    },
+    {
+      "de": "rauchen",
+      "example": "Ich rauche nicht.",
+      "level": "A1"
+    },
+    {
+      "de": "rechts",
+      "example": "Die Schillerstraße ist hier rechts.",
+      "level": "A1"
+    },
+    {
+      "de": "regnen",
+      "example": "Heute regnet es.",
+      "level": "A1"
+    },
+    {
+      "de": "reisen",
+      "example": "Ich reise gern.",
+      "level": "A1"
+    },
+    {
+      "de": "reparieren",
+      "example": "Er hat das Fahrrad repariert.",
+      "level": "A1"
+    },
+    {
+      "de": "richtig",
+      "example": "Habe ich das richtig verstanden?",
+      "level": "A1"
+    },
+    {
+      "de": "riechen",
+      "example": "Dieser Wein riecht gut.",
+      "level": "A1"
+    },
+    {
+      "de": "ruhig",
+      "example": "Ich möchte ein ruhiges Zimmer.",
+      "level": "A1"
+    },
+    {
+      "de": "sagen",
+      "example": "Sag mal, wie geht es dir denn?",
+      "level": "A1"
+    },
+    {
+      "de": "Satz, -ä",
+      "example": "Dieser Satz ist sehr einfach.",
+      "level": "A1"
+    },
+    {
+      "de": "scheinen",
+      "example": "Die Sonne scheint.",
+      "level": "A1"
+    },
+    {
+      "de": "schicken",
+      "example": "Bitte schicken Sie mir eine E-Mail.",
+      "level": "A1"
+    },
+    {
+      "de": "schlafen",
+      "example": "Ich schlafe meistens acht Stunden.",
+      "level": "A1"
+    },
+    {
+      "de": "schlecht",
+      "example": "Mir ist schlecht!",
+      "level": "A1"
+    },
+    {
+      "de": "schließen",
+      "example": "Bitte, schließen Sie die Tür.",
+      "level": "A1"
+    },
+    {
+      "de": "geschlossen",
+      "example": "Die Bank hat am Samstag geschlossen.",
+      "level": "A1"
+    },
+    {
+      "de": "schmecken",
+      "example": "Schmeckt das gut?",
+      "level": "A1"
+    },
+    {
+      "de": "schnell",
+      "example": "Er fährt schnell.",
+      "level": "A1"
+    },
+    {
+      "de": "schon",
+      "example": "Ist das Essen schon fertig?",
+      "level": "A1"
+    },
+    {
+      "de": "schön",
+      "example": "Schönen Urlaub!",
+      "level": "A1"
+    },
+    {
+      "de": "schreiben",
+      "example": "Er schreibt jeden Tag fünfzig E-Mails.",
+      "level": "A1"
+    },
+    {
+      "de": "schwer",
+      "example": "Ist Ihr Gepäck sehr schwer?",
+      "level": "A1"
+    },
+    {
+      "de": "schwimmen",
+      "example": "Ich schwimme jeden Tag einen Kilometer.",
+      "level": "A1"
+    },
+    {
+      "de": "sehen",
+      "example": "Ich kann dich nicht sehen.",
+      "level": "A1"
+    },
+    {
+      "de": "sehr",
+      "example": "Danke sehr!",
+      "level": "A1"
+    },
+    {
+      "de": "sein",
+      "example": "Herr Müller ist in seinem Zimmer.",
+      "level": "A1"
+    },
+    {
+      "de": "weg sein",
+      "example": "Herr Meier ist schon weg.",
+      "level": "A1"
+    },
+    {
+      "de": "zu sein",
+      "example": "Die Tür ist zu.",
+      "level": "A1"
+    },
+    {
+      "de": "seit",
+      "example": "Ich wohne seit drei Jahren in Köln.",
+      "level": "A1"
+    },
+    {
+      "de": "selbstständig",
+      "example": "Er ist selbstständig.",
+      "level": "A1"
+    },
+    {
+      "de": "sie",
+      "example": "Wie heißt sie?",
+      "level": "A1"
+    },
+    {
+      "de": "sitzen",
+      "example": "Wo sitzen Sie?",
+      "level": "A1"
+    },
+    {
+      "de": "so",
+      "example": "Sie müssen das so machen!",
+      "level": "A1"
+    },
+    {
+      "de": "sofort",
+      "example": "Bitte antworten Sie sofort.",
+      "level": "A1"
+    },
+    {
+      "de": "sollen",
+      "example": "Soll ich kommen?",
+      "level": "A1"
+    },
+    {
+      "de": "spät",
+      "example": "Es ist schon spät, ich muss gehen.",
+      "level": "A1"
+    },
+    {
+      "de": "später",
+      "example": "Das können wir später machen.",
+      "level": "A1"
+    },
+    {
+      "de": "spielen",
+      "example": "Die Kinder spielen draußen.",
+      "level": "A1"
+    },
+    {
+      "de": "sprechen",
+      "example": "Kann ich (mit) Herrn Klein sprechen?",
+      "level": "A1"
+    },
+    {
+      "de": "stehen",
+      "example": "Ich glaube es nicht, aber es steht in der Zeitung.",
+      "level": "A1"
+    },
+    {
+      "de": "stellen",
+      "example": "Stell die Tasche rechts in die Ecke!",
+      "level": "A1"
+    },
+    {
+      "de": "studieren",
+      "example": "Ich studiere in Mainz.",
+      "level": "A1"
+    },
+    {
+      "de": "suchen",
+      "example": "Suchst du etwas?",
+      "level": "A1"
+    },
+    {
+      "de": "tanzen",
+      "example": "Tanzen Sie gern?",
+      "level": "A1"
+    },
+    {
+      "de": "telefonieren",
+      "example": "Darf ich mal telefonieren?",
+      "level": "A1"
+    },
+    {
+      "de": "teuer",
+      "example": "Das ist mir zu teuer.",
+      "level": "A1"
+    },
+    {
+      "de": "tot",
+      "example": "Sein Vater ist schon lange tot.",
+      "level": "A1"
+    },
+    {
+      "de": "trinken",
+      "example": "Möchtest du etwas trinken?",
+      "level": "A1"
+    },
+    {
+      "de": "tschüss",
+      "example": "Junge Leute sagen meistens „tschüss!“ und nicht",
+      "level": "A1"
+    },
+    {
+      "de": "tun",
+      "example": "Ich habe noch etwas zu tun.",
+      "level": "A1"
+    },
+    {
+      "de": "über",
+      "example": "Gehen Sie hier über die Straße.",
+      "level": "A1"
+    },
+    {
+      "de": "übernachten",
+      "example": "Du kannst bei mir übernachten.",
+      "level": "A1"
+    },
+    {
+      "de": "überweisen",
+      "example": "Sie können das Geld auch überweisen.",
+      "level": "A1"
+    },
+    {
+      "de": "um",
+      "example": "Er kommt um sieben Uhr.",
+      "level": "A1"
+    },
+    {
+      "de": "umziehen",
+      "example": "Nächsten Monat ziehen wir um.",
+      "level": "A1"
+    },
+    {
+      "de": "und",
+      "example": "Peter und Helmut sind meine Söhne.",
+      "level": "A1"
+    },
+    {
+      "de": "unser-",
+      "example": "Das ist unsere Lehrerin.",
+      "level": "A1"
+    },
+    {
+      "de": "unten",
+      "example": "Er wohnt ganz unten im Haus.",
+      "level": "A1"
+    },
+    {
+      "de": "unter",
+      "example": "Unter uns wohnt eine Familie mit drei Kindern.",
+      "level": "A1"
+    },
+    {
+      "de": "unterschreiben",
+      "example": "Wo muss ich unterschreiben?",
+      "level": "A1"
+    },
+    {
+      "de": "verboten",
+      "example": "Hier ist Rauchen verboten.",
+      "level": "A1"
+    },
+    {
+      "de": "verdienen",
+      "example": "Ich verdiene 1.500 Euro im Monat.",
+      "level": "A1"
+    },
+    {
+      "de": "verheiratet",
+      "example": "Ich bin verheiratet und habe drei Kinder.",
+      "level": "A1"
+    },
+    {
+      "de": "verkaufen",
+      "example": "Er verkauft sein altes Auto.",
+      "level": "A1"
+    },
+    {
+      "de": "vermieten",
+      "example": "Die Wohnung ist schon vermietet.",
+      "level": "A1"
+    },
+    {
+      "de": "verstehen",
+      "example": "Können Sie mich verstehen?",
+      "level": "A1"
+    },
+    {
+      "de": "viel",
+      "example": "Hier regnet es viel.",
+      "level": "A1"
+    },
+    {
+      "de": "vielleicht",
+      "example": "Ich komme vielleicht mit dem Bus.",
+      "level": "A1"
+    },
+    {
+      "de": "von",
+      "example": "Das Auto von Felix ist kaputt.",
+      "level": "A1"
+    },
+    {
+      "de": "vor",
+      "example": "Der Termin war vor einer Stunde.",
+      "level": "A1"
+    },
+    {
+      "de": "wandern",
+      "example": "Wir wandern um den Chiemsee.",
+      "level": "A1"
+    },
+    {
+      "de": "wann",
+      "example": "Wann bist du fertig?",
+      "level": "A1"
+    },
+    {
+      "de": "warten",
+      "example": "Können Sie ein paar Minuten warten?",
+      "level": "A1"
+    },
+    {
+      "de": "warum",
+      "example": "Warum kommt er nicht?",
+      "level": "A1"
+    },
+    {
+      "de": "was",
+      "example": "Was ist das?",
+      "level": "A1"
+    },
+    {
+      "de": "weh tun",
+      "example": "Ich muss zum Arzt. Mein Bein tut weh.",
+      "level": "A1"
+    },
+    {
+      "de": "weiblich",
+      "example": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+      "level": "A1"
+    },
+    {
+      "de": "weit",
+      "example": "Zum Bahnhof ist es nicht weit.",
+      "level": "A1"
+    },
+    {
+      "de": "weiter",
+      "example": "Der Bus fährt nicht weiter.",
+      "level": "A1"
+    },
+    {
+      "de": "welch-",
+      "example": "Welches Buch möchtest du?",
+      "level": "A1"
+    },
+    {
+      "de": "wenig",
+      "example": "Ich habe leider nur wenig verstanden.",
+      "level": "A1"
+    },
+    {
+      "de": "wer",
+      "example": "Wer ist das?",
+      "level": "A1"
+    },
+    {
+      "de": "werden",
+      "example": "Mein Sohn will Arzt werden.",
+      "level": "A1"
+    },
+    {
+      "de": "wichtig",
+      "example": "Dieses Formular ist sehr wichtig.",
+      "level": "A1"
+    },
+    {
+      "de": "wie",
+      "example": "Wie heißt du?",
+      "level": "A1"
+    },
+    {
+      "de": "wiederholen",
+      "example": "Können Sie das bitte wiederholen?",
+      "level": "A1"
+    },
+    {
+      "de": "willkommen",
+      "example": "Herzlich willkommen!",
+      "level": "A1"
+    },
+    {
+      "de": "wir",
+      "example": "Wir lernen Deutsch.",
+      "level": "A1"
+    },
+    {
+      "de": "wissen",
+      "example": "Weißt du, wie er heißt?",
+      "level": "A1"
+    },
+    {
+      "de": "wo",
+      "example": "Wo waren Sie im Urlaub?",
+      "level": "A1"
+    },
+    {
+      "de": "woher",
+      "example": "Woher kommen Sie?",
+      "level": "A1"
+    },
+    {
+      "de": "wohin",
+      "example": "Wohin fährt dieser Bus?",
+      "level": "A1"
+    },
+    {
+      "de": "wohnen",
+      "example": "Ich wohne in München.",
+      "level": "A1"
+    },
+    {
+      "de": "wollen",
+      "example": "Wollen Sie einen Kaffee trinken?",
+      "level": "A1"
+    },
+    {
+      "de": "wunderbar",
+      "example": "Das Essen schmeckt wunderbar.",
+      "level": "A1"
+    },
+    {
+      "de": "zahlen",
+      "example": "Zahlen, bitte!",
+      "level": "A1"
+    },
+    {
+      "de": "zurzeit",
+      "example": "Zurzeit habe ich sehr viel zu tun.",
+      "level": "A1"
+    },
+    {
+      "de": "zufrieden",
+      "example": "Ich bin mit der Wohnung zufrieden.",
+      "level": "A1"
+    },
+    {
+      "de": "zurück",
+      "example": "Einmal Frankfurt und zurück.",
+      "level": "A1"
+    },
+    {
+      "de": "zusammen",
+      "example": "Sollen wir zusammen essen gehen?",
+      "level": "A1"
+    },
+    {
+      "de": "zwischen",
+      "example": "Heidelberg liegt zwischen Frankfurt und Stuttgart.",
+      "level": "A1"
+    }
+  ],
+  "a2": [
+    {
+      "de": "angeboten Er",
+      "example": "hat mir eine Stelle als Verkäuferin angeboten.",
+      "level": "A2"
+    },
+    {
+      "de": "Angebot, -e Heute",
+      "example": "sind Bananen im Angebot.",
+      "level": "A2"
+    },
+    {
+      "de": "Stellenangebote",
+      "example": "finden Sie in der Zeitung oder im",
+      "level": "A2"
+    },
+    {
+      "de": "ab Ab",
+      "example": "morgen muss ich wieder arbeiten.",
+      "level": "A2"
+    },
+    {
+      "de": "Willst",
+      "example": "du diesen Mantel? – Nein, ich möchte den",
+      "level": "A2"
+    },
+    {
+      "de": "aber Heute",
+      "example": "kann ich nicht kommen, aber morgen habe",
+      "level": "A2"
+    },
+    {
+      "de": "Die",
+      "example": "anderen sind schon nach Hause gegangen.",
+      "level": "A2"
+    },
+    {
+      "de": "Wir",
+      "example": "haben nur eine kleine Wohnung, sind aber",
+      "level": "A2"
+    },
+    {
+      "de": "Bitte",
+      "example": "nicht alle auf einmal! Einer nach dem anderen.",
+      "level": "A2"
+    },
+    {
+      "de": "damit",
+      "example": "zufrieden.",
+      "level": "A2"
+    },
+    {
+      "de": "Es",
+      "example": "war sehr schön. Jetzt muss ich aber gehen. ändern,",
+      "level": "A2"
+    },
+    {
+      "de": "ändert",
+      "example": "Wetter hat sich geändert.",
+      "level": "A2"
+    },
+    {
+      "de": "geändert Wie",
+      "example": "kann ich mein Passwort ändern?",
+      "level": "A2"
+    },
+    {
+      "de": "Das",
+      "example": "ist aber nett von dir.",
+      "level": "A2"
+    },
+    {
+      "de": "Anders",
+      "example": "geht das leider nicht.",
+      "level": "A2"
+    },
+    {
+      "de": "abgeben",
+      "example": "muss meinen Schlüssel an der Rezeption",
+      "level": "A2"
+    },
+    {
+      "de": "Oliver",
+      "example": "ist anders als seine Freunde.",
+      "level": "A2"
+    },
+    {
+      "de": "Hier",
+      "example": "fängt die Bahnhofstraße an.",
+      "level": "A2"
+    },
+    {
+      "de": "abholen, holt ab,",
+      "example": "kann ich die Sachen bei dir abholen?",
+      "level": "A2"
+    },
+    {
+      "de": "angefangen Würden",
+      "example": "Sie bitte anfangen?",
+      "level": "A2"
+    },
+    {
+      "de": "Ich",
+      "example": "fange im Herbst meine Ausbildung an.",
+      "level": "A2"
+    },
+    {
+      "de": "abschließen",
+      "example": "du die Tür abgeschlossen?",
+      "level": "A2"
+    },
+    {
+      "de": "schließt ab",
+      "example": "schließe dieses Jahr mein Studium/ der",
+      "level": "A2"
+    },
+    {
+      "de": "Anfang, ¨-e Sie",
+      "example": "wohnt am Anfang der Straße.",
+      "level": "A2"
+    },
+    {
+      "de": "Angst, ¨-e Hab",
+      "example": "keine Angst!",
+      "level": "A2"
+    },
+    {
+      "de": "Achtung (Sg.) Achtung",
+      "example": "an Gleis drei: Die Türen schließen. Der Zug",
+      "level": "A2"
+    },
+    {
+      "de": "Achtung!",
+      "example": "Pass auf! Der Verkehr ist hier gefährlich. ankommen,",
+      "level": "A2"
+    },
+    {
+      "de": "Wann",
+      "example": "kommt dieser Zug in Hamburg an?",
+      "level": "A2"
+    },
+    {
+      "de": "Mach",
+      "example": "bitte das Licht an!",
+      "level": "A2"
+    },
+    {
+      "de": "Wie",
+      "example": "spät ist es? - Ich habe keine Ahnung.",
+      "level": "A2"
+    },
+    {
+      "de": "aktiv Peter",
+      "example": "ist sehr aktiv und macht viel Sport.",
+      "level": "A2"
+    },
+    {
+      "de": "aktuell Das",
+      "example": "ist das aktuelle Kinoprogramm.",
+      "level": "A2"
+    },
+    {
+      "de": "(sich)",
+      "example": "kann ich mich anmelden?",
+      "level": "A2"
+    },
+    {
+      "de": "all- Ich",
+      "example": "wünsche dir alles Gute!",
+      "level": "A2"
+    },
+    {
+      "de": "Hast",
+      "example": "du alles?",
+      "level": "A2"
+    },
+    {
+      "de": "Möchten",
+      "example": "Sie noch etwas? - Nein, danke. Das ist",
+      "level": "A2"
+    },
+    {
+      "de": "Anmeldung,-en Wo",
+      "example": "bekomme ich das Formular für die Anmeldung?",
+      "level": "A2"
+    },
+    {
+      "de": "Anruf- Wir",
+      "example": "sind im Moment nicht da. Sprechen Sie bitte auf",
+      "level": "A2"
+    },
+    {
+      "de": "Alle",
+      "example": "Freunde kommen. beantworter,",
+      "level": "A2"
+    },
+    {
+      "de": "- den",
+      "example": "Anrufbeantworter.",
+      "level": "A2"
+    },
+    {
+      "de": "allein Kommt",
+      "example": "seine Freundin mit? - Nein, er kommt allein. anrufen,",
+      "level": "A2"
+    },
+    {
+      "de": "ruft an",
+      "example": "ich Sie heute Abend anrufen?",
+      "level": "A2"
+    },
+    {
+      "de": "Soll",
+      "example": "ich Ihnen/dir helfen? - Nein danke, ich schaffe hat",
+      "level": "A2"
+    },
+    {
+      "de": "angerufen Juan",
+      "example": "ruft seine Freundin an.",
+      "level": "A2"
+    },
+    {
+      "de": "Anruf, -e Eva",
+      "example": "bekommt viele Anrufe von ihrem Freund Juan.",
+      "level": "A2"
+    },
+    {
+      "de": "als Hector",
+      "example": "ist jünger als seine Schwester. der",
+      "level": "A2"
+    },
+    {
+      "de": "Anschluss, ¨-e In",
+      "example": "Mannheim haben Sie Anschluss nach",
+      "level": "A2"
+    },
+    {
+      "de": "Sie",
+      "example": "arbeitet als Krankenschwester.",
+      "level": "A2"
+    },
+    {
+      "de": "also Also,",
+      "example": "die Sache ist so: …",
+      "level": "A2"
+    },
+    {
+      "de": "In",
+      "example": "Stuttgart erreichen Sie alle Anschlüsse. Auch der",
+      "level": "A2"
+    },
+    {
+      "de": "Er",
+      "example": "hat Zeit, also kann er uns helfen.",
+      "level": "A2"
+    },
+    {
+      "de": "Zug",
+      "example": "nach Paris wartet.",
+      "level": "A2"
+    },
+    {
+      "de": "alt Wie",
+      "example": "alt sind Sie?",
+      "level": "A2"
+    },
+    {
+      "de": "Mein",
+      "example": "Computer ist schon sehr alt.",
+      "level": "A2"
+    },
+    {
+      "de": "sieht an",
+      "example": "ich eure Urlaubsfotos ansehen?",
+      "level": "A2"
+    },
+    {
+      "de": "Köln",
+      "example": "ist eine alte Stadt. hat",
+      "level": "A2"
+    },
+    {
+      "de": "angesehen Ich",
+      "example": "sehe (mir) diese Sendung jeden Tag an.",
+      "level": "A2"
+    },
+    {
+      "de": "Nach",
+      "example": "der Ampel musst du nach links fahren. hat",
+      "level": "A2"
+    },
+    {
+      "de": "Antwort, -en Er",
+      "example": "gibt leider keine Antwort.",
+      "level": "A2"
+    },
+    {
+      "de": "an Fahren",
+      "example": "Sie an der nächsten Kreuzung nach rechts.",
+      "level": "A2"
+    },
+    {
+      "de": "Anzeige, -n Ich",
+      "example": "habe Ihre Anzeige in der Zeitung gelesen.",
+      "level": "A2"
+    },
+    {
+      "de": "Am",
+      "example": "nächsten Montag geht es leider nicht. der",
+      "level": "A2"
+    },
+    {
+      "de": "Anzug, ¨-e Mein",
+      "example": "Mann muss sich einen neuen Anzug kaufen.",
+      "level": "A2"
+    },
+    {
+      "de": "Apfel, ¨- Ein",
+      "example": "Kilo Äpfel, bitte.",
+      "level": "A2"
+    },
+    {
+      "de": "anbieten",
+      "example": "ich Ihnen/dir ein Stück Kuchen anbieten? die",
+      "level": "A2"
+    },
+    {
+      "de": "Apotheke, -n Das",
+      "example": "Medikament bekommen Sie in der Apotheke.",
+      "level": "A2"
+    },
+    {
+      "de": "der Apparat",
+      "example": "machen wir mit deinem alten Apparat? aus",
+      "level": "A2"
+    },
+    {
+      "de": "Michele",
+      "example": "kommt aus Brasilien.",
+      "level": "A2"
+    },
+    {
+      "de": "Frau",
+      "example": "Müller geht immer um acht Uhr aus dem Haus.",
+      "level": "A2"
+    },
+    {
+      "de": "arbeiten, arbeitet",
+      "example": "arbeiten Sie?",
+      "level": "A2"
+    },
+    {
+      "de": "Ausbildung,-en Ich",
+      "example": "möchte eine Ausbildung zum Krankenpfleger",
+      "level": "A2"
+    },
+    {
+      "de": "Ausflug, ¨-e Morgen",
+      "example": "machen wir einen Ausflug nach Heidelberg/",
+      "level": "A2"
+    },
+    {
+      "de": "arbeitslos Seit",
+      "example": "wann ist er schon arbeitslos?",
+      "level": "A2"
+    },
+    {
+      "de": "Füllen",
+      "example": "Sie/Füll bitte dieses Formular aus!",
+      "level": "A2"
+    },
+    {
+      "de": "ärgern (sich)",
+      "example": "ärgerst du dich? - Ich ärgere mich, weil das",
+      "level": "A2"
+    },
+    {
+      "de": "ärgert",
+      "example": "schlecht ist.",
+      "level": "A2"
+    },
+    {
+      "de": "Ausgang, ¨-e Entschuldigung,",
+      "example": "wo ist der Ausgang?",
+      "level": "A2"
+    },
+    {
+      "de": "Agata",
+      "example": "gibt viel Geld für Bücher aus.",
+      "level": "A2"
+    },
+    {
+      "de": "arm Sie",
+      "example": "haben nicht viel Geld, sie sind arm.",
+      "level": "A2"
+    },
+    {
+      "de": "Gehen",
+      "example": "wir am Freitag zusammen aus?",
+      "level": "A2"
+    },
+    {
+      "de": "auch Ich",
+      "example": "bin auch Spanier.",
+      "level": "A2"
+    },
+    {
+      "de": "Auskunft, ¨-e Wo",
+      "example": "ist die Auskunft?",
+      "level": "A2"
+    },
+    {
+      "de": "Maria",
+      "example": "muss auch am Wochenende arbeiten.",
+      "level": "A2"
+    },
+    {
+      "de": "Können",
+      "example": "Sie mir bitte eine Auskunft geben?",
+      "level": "A2"
+    },
+    {
+      "de": "auf Das",
+      "example": "Wörterbuch liegt auf dem Tisch.",
+      "level": "A2"
+    },
+    {
+      "de": "Ausland (Sg.) Fahren",
+      "example": "Sie ins Ausland?",
+      "level": "A2"
+    },
+    {
+      "de": "Meine",
+      "example": "Eltern wohnen auf dem Land.",
+      "level": "A2"
+    },
+    {
+      "de": "Packst",
+      "example": "du bitte den Koffer aus?",
+      "level": "A2"
+    },
+    {
+      "de": "keinen Fall Film",
+      "example": "sehen. - Wirklich? Ich finde James-Bond-Filme hat",
+      "level": "A2"
+    },
+    {
+      "de": "langweilig.",
+      "example": "Ich sehe ihn auf keinen Fall an!",
+      "level": "A2"
+    },
+    {
+      "de": "aufhören",
+      "example": "hört ihr mit der Arbeit auf? sieht",
+      "level": "A2"
+    },
+    {
+      "de": "hört auf",
+      "example": "du bitte damit aufhören? Ich muss jetzt hat",
+      "level": "A2"
+    },
+    {
+      "de": "ausgesehen Das",
+      "example": "Kleid sieht hübsch aus.",
+      "level": "A2"
+    },
+    {
+      "de": "Außer",
+      "example": "Lisa möchte niemand den Film sehen.",
+      "level": "A2"
+    },
+    {
+      "de": "aufmachen",
+      "example": "du bitte die Tür aufmachen?",
+      "level": "A2"
+    },
+    {
+      "de": "macht auf,",
+      "example": "außerdem",
+      "level": "A2"
+    },
+    {
+      "de": "Vier",
+      "example": "Brötchen, möchten Sie außerdem noch etwas?",
+      "level": "A2"
+    },
+    {
+      "de": "aufpassen",
+      "example": "auf, der Teller fällt gleich auf den Boden!",
+      "level": "A2"
+    },
+    {
+      "de": "passt auf",
+      "example": "Babysitter passt heute Abend auf die Kinder",
+      "level": "A2"
+    },
+    {
+      "de": "aufräumen",
+      "example": "Kinder müssen ihr Zimmer aufräumen.",
+      "level": "A2"
+    },
+    {
+      "de": "Wo",
+      "example": "müssen wir aussteigen? –An der nächsten",
+      "level": "A2"
+    },
+    {
+      "de": "aufregend Die",
+      "example": "letzte Woche war sehr aufregend.",
+      "level": "A2"
+    },
+    {
+      "de": "Ausstellung,-en Gehen",
+      "example": "wir morgen zusammen in die Ausstellung?",
+      "level": "A2"
+    },
+    {
+      "de": "aufstehen",
+      "example": "stehe jeden Morgen um sieben Uhr auf.",
+      "level": "A2"
+    },
+    {
+      "de": "Ausweis, -e Darf",
+      "example": "ich bitte mal Ihren Ausweis sehen? –Hier ist",
+      "level": "A2"
+    },
+    {
+      "de": "Auto, -s Er",
+      "example": "fährt mit dem Auto.",
+      "level": "A2"
+    },
+    {
+      "de": "Autobahn, -en Darf",
+      "example": "ich mit dem Motorroller auf der Autobahn",
+      "level": "A2"
+    },
+    {
+      "de": "Du",
+      "example": "musst deine Ausbildung auf jeden Fall beenden.",
+      "level": "A2"
+    },
+    {
+      "de": "automatisch Achtung,",
+      "example": "die Türen schließen automatisch! beginnen,",
+      "level": "A2"
+    },
+    {
+      "de": "Familie",
+      "example": "mit vier Kindern.",
+      "level": "A2"
+    },
+    {
+      "de": "Offenbach",
+      "example": "liegt bei Frankfurt.",
+      "level": "A2"
+    },
+    {
+      "de": "backen",
+      "example": "du kommst, backe ich einen Kuchen.",
+      "level": "A2"
+    },
+    {
+      "de": "Bei",
+      "example": "uns ist das anders als hier.",
+      "level": "A2"
+    },
+    {
+      "de": "Im",
+      "example": "Winter nehme ich gern ein warmes Bad.",
+      "level": "A2"
+    },
+    {
+      "de": "Welche",
+      "example": "Bluse möchten Sie, die rote oder die grüne?",
+      "level": "A2"
+    },
+    {
+      "de": "baden, badet",
+      "example": "bade nicht so gern, ich dusche lieber.",
+      "level": "A2"
+    },
+    {
+      "de": "Bein, -e Mein",
+      "example": "rechtes Bein tut weh.",
+      "level": "A2"
+    },
+    {
+      "de": "Picasso",
+      "example": "ist sehr bekannt. Er ist ein bekannter Maler.",
+      "level": "A2"
+    },
+    {
+      "de": "Ein",
+      "example": "Bekannter von mir heißt Klaus.",
+      "level": "A2"
+    },
+    {
+      "de": "Aspirin",
+      "example": "bekommen Sie in der Apotheke.",
+      "level": "A2"
+    },
+    {
+      "de": "bald Ich",
+      "example": "komme bald.",
+      "level": "A2"
+    },
+    {
+      "de": "Fußball",
+      "example": "ist bei vielen Menschen beliebt.",
+      "level": "A2"
+    },
+    {
+      "de": "berät",
+      "example": "Sekretärin berät Sie gern, wenn Sie",
+      "level": "A2"
+    },
+    {
+      "de": "bar Muss",
+      "example": "ich bar zahlen oder geht‘s auch mit Karte?",
+      "level": "A2"
+    },
+    {
+      "de": "Berg, -e Die",
+      "example": "Zugspitze ist der höchste Berg in Deutschland.",
+      "level": "A2"
+    },
+    {
+      "de": "basteln, bastelt",
+      "example": "Kinder haben etwas gebastelt.",
+      "level": "A2"
+    },
+    {
+      "de": "bauen, baut",
+      "example": "Nachbarn bauen ein neues Haus.",
+      "level": "A2"
+    },
+    {
+      "de": "Beruf, -e Was",
+      "example": "bist du von Beruf?",
+      "level": "A2"
+    },
+    {
+      "de": "Thomas",
+      "example": "Müller ist ein berühmter Fußballspieler.",
+      "level": "A2"
+    },
+    {
+      "de": "Bescheid Kann",
+      "example": "Lisa in Heidelberg studieren? - Sie weiß es",
+      "level": "A2"
+    },
+    {
+      "de": "noch",
+      "example": "nicht. Sie bekommt erst nächste Woche",
+      "level": "A2"
+    },
+    {
+      "de": "beantworten",
+      "example": "Sie meine Frage bitte beantworten?",
+      "level": "A2"
+    },
+    {
+      "de": "Kannst",
+      "example": "du mir bis morgen Bescheid geben?",
+      "level": "A2"
+    },
+    {
+      "de": "beantwortet",
+      "example": "du die Mail schon beantwortet?",
+      "level": "A2"
+    },
+    {
+      "de": "bedanken (sich)",
+      "example": "möchte mich noch einmal sehr herzlich für Ihre beschreiben,",
+      "level": "A2"
+    },
+    {
+      "de": "bedankt",
+      "example": "bedanken.",
+      "level": "A2"
+    },
+    {
+      "de": "bedeuten",
+      "example": "bedeutet das Wort? beschweren",
+      "level": "A2"
+    },
+    {
+      "de": "beschwert Kinder,",
+      "example": "wenn sie im Garten spielen.",
+      "level": "A2"
+    },
+    {
+      "de": "beeilen (sich)",
+      "example": "du dich bitte beeilen? Der Bus fährt besetzt",
+      "level": "A2"
+    },
+    {
+      "de": "besichtigen",
+      "example": "möchte gern das Schloss besichtigen. bleiben,",
+      "level": "A2"
+    },
+    {
+      "de": "besichtigt",
+      "example": "können die Wohnung am Mittwochabend bleibt,",
+      "level": "A2"
+    },
+    {
+      "de": "geblieben Oh",
+      "example": "nein, meine Uhr ist stehen geblieben. Wie spät",
+      "level": "A2"
+    },
+    {
+      "de": "besonders Dieses",
+      "example": "Angebot ist besonders günstig.",
+      "level": "A2"
+    },
+    {
+      "de": "Bleistift, -e Hast",
+      "example": "du einen Bleistift?",
+      "level": "A2"
+    },
+    {
+      "de": "bestätigen",
+      "example": "kann bestätigen, dass er hier war. blöd",
+      "level": "A2"
+    },
+    {
+      "de": "Blog, -s Ich",
+      "example": "schreibe einen Blog über Mode.",
+      "level": "A2"
+    },
+    {
+      "de": "Lisa",
+      "example": "hat blonde Haare.",
+      "level": "A2"
+    },
+    {
+      "de": "bestehen",
+      "example": "habe die Prüfung bestanden!",
+      "level": "A2"
+    },
+    {
+      "de": "Blume, -n Gefallen",
+      "example": "dir die Blumen?",
+      "level": "A2"
+    },
+    {
+      "de": "besteht",
+      "example": "Prüfung besteht aus vier Teilen: Hören, Lesen,",
+      "level": "A2"
+    },
+    {
+      "de": "Bluse, -n Ich",
+      "example": "suche eine weiße Bluse.",
+      "level": "A2"
+    },
+    {
+      "de": "bestellen",
+      "example": "möchten bitte bestellen. die",
+      "level": "A2"
+    },
+    {
+      "de": "Bohne, -n Hans",
+      "example": "isst nicht gern Bohnen.",
+      "level": "A2"
+    },
+    {
+      "de": "bestellt",
+      "example": "Buch haben wir nicht da. Sollen wir es für böse",
+      "level": "A2"
+    },
+    {
+      "de": "mir",
+      "example": "nicht böse.",
+      "level": "A2"
+    },
+    {
+      "de": "Braten",
+      "example": "Sie das Fleisch in etwas Öl!",
+      "level": "A2"
+    },
+    {
+      "de": "besuchen",
+      "example": "ich dich mal besuchen?",
+      "level": "A2"
+    },
+    {
+      "de": "besucht",
+      "example": "du mich in den Ferien besuchen? hat",
+      "level": "A2"
+    },
+    {
+      "de": "Brauchst",
+      "example": "du die Zeitung noch oder kann ich sie",
+      "level": "A2"
+    },
+    {
+      "de": "bewerben (sich)",
+      "example": "möchte mich um diese Stelle bewerben.",
+      "level": "A2"
+    },
+    {
+      "de": "bewirbt",
+      "example": "du mir bei meiner Bewerbung helfen?",
+      "level": "A2"
+    },
+    {
+      "de": "Brief, -e Haben",
+      "example": "Sie einen Brief für mich?",
+      "level": "A2"
+    },
+    {
+      "de": "Briefmarke, -n Bitte",
+      "example": "die Briefmarke nicht vergessen!",
+      "level": "A2"
+    },
+    {
+      "de": "bewölkt Heute",
+      "example": "ist es bewölkt. die",
+      "level": "A2"
+    },
+    {
+      "de": "Brille, -n Wo",
+      "example": "ist meine Brille?",
+      "level": "A2"
+    },
+    {
+      "de": "Mit",
+      "example": "dieser Brille kann ich nicht mehr gut sehen.",
+      "level": "A2"
+    },
+    {
+      "de": "bezahlen",
+      "example": "kann ich bezahlen?",
+      "level": "A2"
+    },
+    {
+      "de": "Bringen",
+      "example": "Sie mir bitte noch einen Kaffee!",
+      "level": "A2"
+    },
+    {
+      "de": "Brot, -e Nimm",
+      "example": "doch noch ein Brot für das Abendessen.",
+      "level": "A2"
+    },
+    {
+      "de": "Brötchen, - Möchtest",
+      "example": "du Brot oder Brötchen zum Frühstück?",
+      "level": "A2"
+    },
+    {
+      "de": "Brücke, -n Fahren",
+      "example": "Sie über die nächste Brücke und dann",
+      "level": "A2"
+    },
+    {
+      "de": "billig Das",
+      "example": "Wörterbuch kostet nur fünf Euro. - Fünf Euro?",
+      "level": "A2"
+    },
+    {
+      "de": "Buch, ¨-er Was",
+      "example": "kostet das Buch, bitte?",
+      "level": "A2"
+    },
+    {
+      "de": "bis Ich",
+      "example": "fahre nur bis Stuttgart.",
+      "level": "A2"
+    },
+    {
+      "de": "Tschüss,",
+      "example": "bis gleich! buchen,",
+      "level": "A2"
+    },
+    {
+      "de": "Morgen",
+      "example": "buche ich unsere Urlaubsreise.",
+      "level": "A2"
+    },
+    {
+      "de": "bisschen Können",
+      "example": "Sie bitte ein bisschen lauter sprechen?",
+      "level": "A2"
+    },
+    {
+      "de": "Buchstabe, -n Diesen",
+      "example": "Buchstaben gibt es in meiner Sprache nicht.",
+      "level": "A2"
+    },
+    {
+      "de": "Würden",
+      "example": "Sie bitte Ihren Namen buchstabieren?",
+      "level": "A2"
+    },
+    {
+      "de": "Anna",
+      "example": "trägt gern bunte Kleider.",
+      "level": "A2"
+    },
+    {
+      "de": "bitten",
+      "example": "ich Sie um etwas bitten?",
+      "level": "A2"
+    },
+    {
+      "de": "rot,",
+      "example": "die Küche grün und das Bad blau.",
+      "level": "A2"
+    },
+    {
+      "de": "Büro, -s Ich",
+      "example": "arbeite in einem Büro.",
+      "level": "A2"
+    },
+    {
+      "de": "bitter Kaffee",
+      "example": "ohne Zucker schmeckt bitter.",
+      "level": "A2"
+    },
+    {
+      "de": "Unser",
+      "example": "Büro ist bis Dienstag geschlossen.",
+      "level": "A2"
+    },
+    {
+      "de": "Bus, -se Wann",
+      "example": "kommt der nächste Bus?",
+      "level": "A2"
+    },
+    {
+      "de": "Butter (Sg.) Möchtest",
+      "example": "du Butter aufs Brot oder nur Käse?",
+      "level": "A2"
+    },
+    {
+      "de": "Datum, -en Bitte",
+      "example": "Datum und Unterschrift nicht vergessen!",
+      "level": "A2"
+    },
+    {
+      "de": "Welches",
+      "example": "Datum haben wir heute?",
+      "level": "A2"
+    },
+    {
+      "de": "Kaffee",
+      "example": "trinken.",
+      "level": "A2"
+    },
+    {
+      "de": "dauert",
+      "example": "lange dauert die Pause? - Eine halbe Stunde.",
+      "level": "A2"
+    },
+    {
+      "de": "chatten",
+      "example": "chattet gern mit seinen Freunden im Internet. denken,",
+      "level": "A2"
+    },
+    {
+      "de": "denkt",
+      "example": "denke, du hast recht.",
+      "level": "A2"
+    },
+    {
+      "de": "gedacht Ich",
+      "example": "denke oft an meine Freundin.",
+      "level": "A2"
+    },
+    {
+      "de": "Was",
+      "example": "denktst du? Sollen wir heute Abend ins Kino",
+      "level": "A2"
+    },
+    {
+      "de": "Klub, -s Ich",
+      "example": "möchte gern tanzen gehen. Wo gibt es hier",
+      "level": "A2"
+    },
+    {
+      "de": "einen",
+      "example": "Club/Klub mit guter Musik? deutlich",
+      "level": "A2"
+    },
+    {
+      "de": "Sprechen",
+      "example": "Sie bitte deutlich!",
+      "level": "A2"
+    },
+    {
+      "de": "der/das Comic",
+      "example": "Sohn liest immer nur Comics.",
+      "level": "A2"
+    },
+    {
+      "de": "Ding, -e Gib",
+      "example": "mir bitte mal das Ding da drüben!",
+      "level": "A2"
+    },
+    {
+      "de": "–Das",
+      "example": "ist eine Buttercreme mit viel Schokolade.",
+      "level": "A2"
+    },
+    {
+      "de": "man",
+      "example": "Flaschen öffnen.",
+      "level": "A2"
+    },
+    {
+      "de": "da Welche",
+      "example": "Bluse nehmen Sie? - Die da.",
+      "level": "A2"
+    },
+    {
+      "de": "da(r) (Bsp. darauf,",
+      "example": "fällt mir keine Antwort ein.",
+      "level": "A2"
+    },
+    {
+      "de": "Disco, -s /",
+      "example": "gehen heute Abend in die Disco/Disko.",
+      "level": "A2"
+    },
+    {
+      "de": "darüber) Darüber",
+      "example": "spreche ich nicht gern.",
+      "level": "A2"
+    },
+    {
+      "de": "dabei (sein)",
+      "example": "du einen Stift dabei?",
+      "level": "A2"
+    },
+    {
+      "de": "dafür/dagegen sein,",
+      "example": "Ich bin dafür/dagegen.",
+      "level": "A2"
+    },
+    {
+      "de": "Geh",
+      "example": "doch mal wieder ins Kino!",
+      "level": "A2"
+    },
+    {
+      "de": "Doppelzimmer",
+      "example": "Möchten Sie ein Doppelzimmer oder ein",
+      "level": "A2"
+    },
+    {
+      "de": "damals Als",
+      "example": "Student hatte ich viel Zeit und wollte reisen.",
+      "level": "A2"
+    },
+    {
+      "de": "Dorf, ¨-er Unser",
+      "example": "Dorf liegt direkt an der Autobahn.",
+      "level": "A2"
+    },
+    {
+      "de": "Sehr",
+      "example": "geehrte Damen und Herren,",
+      "level": "A2"
+    },
+    {
+      "de": "-her, -hin Wir",
+      "example": "treffen uns vor dem Kino. - Gut, ich bin in fünf",
+      "level": "A2"
+    },
+    {
+      "de": "daneben Du",
+      "example": "weißt doch, wo die Post ist. Daneben ist die",
+      "level": "A2"
+    },
+    {
+      "de": "Dort",
+      "example": "ist unser Haus.",
+      "level": "A2"
+    },
+    {
+      "de": "Deine",
+      "example": "Tasche kannst du dorthin stellen.",
+      "level": "A2"
+    },
+    {
+      "de": "Kommst",
+      "example": "du mit in die Stadt? - Nein, ich komme",
+      "level": "A2"
+    },
+    {
+      "de": "danke Soll",
+      "example": "ich Ihnen helfen? - Sehr freundlich, ja danke!",
+      "level": "A2"
+    },
+    {
+      "de": "gerade",
+      "example": "dorther/von dort.",
+      "level": "A2"
+    },
+    {
+      "de": "Guten",
+      "example": "Appetit! - Danke gleichfalls.",
+      "level": "A2"
+    },
+    {
+      "de": "Hunde",
+      "example": "müssen draußen bleiben.",
+      "level": "A2"
+    },
+    {
+      "de": "danken, dankt",
+      "example": "danke Ihnen für die Einladung.",
+      "level": "A2"
+    },
+    {
+      "de": "dann Ich",
+      "example": "muss noch schnell zur Post, dann komme ich. drinnen",
+      "level": "A2"
+    },
+    {
+      "de": "Wollen",
+      "example": "Sie drinnen oder draußen sitzen?",
+      "level": "A2"
+    },
+    {
+      "de": "616002_30_etsiltroW_2A Wenn",
+      "example": "es nicht regnet, dann kommen wir.",
+      "level": "A2"
+    },
+    {
+      "de": "dass Rico",
+      "example": "hat gesagt, dass er auch zur Party kommt.",
+      "level": "A2"
+    },
+    {
+      "de": "drückt",
+      "example": "dieser Tür musst du drücken, nicht ziehen,",
+      "level": "A2"
+    },
+    {
+      "de": "gedrückt dann",
+      "example": "geht sie auf.",
+      "level": "A2"
+    },
+    {
+      "de": "Drücken",
+      "example": "Sie „Bestätigen“!",
+      "level": "A2"
+    },
+    {
+      "de": "drucken, druckt",
+      "example": "einfach „Datei drucken“! das",
+      "level": "A2"
+    },
+    {
+      "de": "Einkaufs- Kommst",
+      "example": "du morgen mit ins Einkaufszentrum?",
+      "level": "A2"
+    },
+    {
+      "de": "Darf",
+      "example": "ich Sie zu einem Kaffee einladen?",
+      "level": "A2"
+    },
+    {
+      "de": "dumm Ich",
+      "example": "finde den Film dumm.",
+      "level": "A2"
+    },
+    {
+      "de": "Entschuldigung,",
+      "example": "das war dumm von mir.",
+      "level": "A2"
+    },
+    {
+      "de": "Einladung, -en Danke",
+      "example": "für die Einladung zu deinem Geburtstag!",
+      "level": "A2"
+    },
+    {
+      "de": "dunkel Um",
+      "example": "sechs Uhr ist es schon dunkel. einmal",
+      "level": "A2"
+    },
+    {
+      "de": "Rufen",
+      "example": "Sie/Ruf mich bitte morgen noch einmal an.",
+      "level": "A2"
+    },
+    {
+      "de": "Diese",
+      "example": "Prüfung mache ich nicht noch einmal.",
+      "level": "A2"
+    },
+    {
+      "de": "Warst",
+      "example": "du schon einmal in Paris?",
+      "level": "A2"
+    },
+    {
+      "de": "dünn Das",
+      "example": "Buch ist sehr dünn. Es hat nur 40 Seiten. einpacken,",
+      "level": "A2"
+    },
+    {
+      "de": "Pack",
+      "example": "bitte die Handtücher ein!",
+      "level": "A2"
+    },
+    {
+      "de": "schwer,",
+      "example": "er ist zu dünn. hat",
+      "level": "A2"
+    },
+    {
+      "de": "durch Am",
+      "example": "besten gehen Sie durch die Tengstraße. einsteigen,",
+      "level": "A2"
+    },
+    {
+      "de": "Schnell,",
+      "example": "steig ein, der Zug fährt gleich ab.",
+      "level": "A2"
+    },
+    {
+      "de": "dürfen, darf",
+      "example": "dürfen hier nicht parken. ist",
+      "level": "A2"
+    },
+    {
+      "de": "durfte",
+      "example": "wir heute länger fernsehen? eintragen",
+      "level": "A2"
+    },
+    {
+      "de": "Eintritt, -e Der",
+      "example": "Eintritt kostet fünf Euro.",
+      "level": "A2"
+    },
+    {
+      "de": "duschen (sich)",
+      "example": "bade nicht so gern, ich dusche lieber.",
+      "level": "A2"
+    },
+    {
+      "de": "duscht",
+      "example": "Sie sich duschen? Das Badezimmer ist dort",
+      "level": "A2"
+    },
+    {
+      "de": "bin)",
+      "example": "einverstanden.",
+      "level": "A2"
+    },
+    {
+      "de": "einverstanden,",
+      "example": "Bist du einverstanden, wenn wir bald nach Hause",
+      "level": "A2"
+    },
+    {
+      "de": "Nicht",
+      "example": "alle zusammen. Könnt ihr bitte einzeln",
+      "level": "A2"
+    },
+    {
+      "de": "echt Ist",
+      "example": "das Bild ein echter Picasso?",
+      "level": "A2"
+    },
+    {
+      "de": "Florian",
+      "example": "ist ein Einzelkind. Er hat keine Geschwister.",
+      "level": "A2"
+    },
+    {
+      "de": "kommen",
+      "example": "Sie zur Apotheke. einziehen,",
+      "level": "A2"
+    },
+    {
+      "de": "egal Das",
+      "example": "ist mir egal.",
+      "level": "A2"
+    },
+    {
+      "de": "Eis (Sg.) Möchtest",
+      "example": "du auch ein Eis?",
+      "level": "A2"
+    },
+    {
+      "de": "(E-)Mail, -s Ich",
+      "example": "schreibe Ihnen/dir eine E-Mail.",
+      "level": "A2"
+    },
+    {
+      "de": "Empfänger, – Auf",
+      "example": "dem Brief steht dein Name, also bist du der",
+      "level": "A2"
+    },
+    {
+      "de": "Welchen",
+      "example": "Wein können Sie mir empfehlen?",
+      "level": "A2"
+    },
+    {
+      "de": "eigen- Nicht",
+      "example": "alle Kinder haben ein eigenes Zimmer. empfiehlt,",
+      "level": "A2"
+    },
+    {
+      "de": "eigentlich Wir",
+      "example": "wollten eigentlich Freunde besuchen, aber dann",
+      "level": "A2"
+    },
+    {
+      "de": "Ende, -n Sie",
+      "example": "wohnt am Ende der Straße.",
+      "level": "A2"
+    },
+    {
+      "de": "Kennst",
+      "example": "du eigentlich Susanne?",
+      "level": "A2"
+    },
+    {
+      "de": "eilig Hast",
+      "example": "du es eilig? enden,",
+      "level": "A2"
+    },
+    {
+      "de": "endet",
+      "example": "Straße endet hier.",
+      "level": "A2"
+    },
+    {
+      "de": "einfach Die",
+      "example": "Prüfung ist ganz einfach. hat",
+      "level": "A2"
+    },
+    {
+      "de": "geendet Der",
+      "example": "Kurs endet in einer Woche.",
+      "level": "A2"
+    },
+    {
+      "de": "Endlich",
+      "example": "bist du da!",
+      "level": "A2"
+    },
+    {
+      "de": "Hin",
+      "example": "und zurück? – Nein, bitte nur eine einfache",
+      "level": "A2"
+    },
+    {
+      "de": "Fahrt",
+      "example": "nach Berlin.",
+      "level": "A2"
+    },
+    {
+      "de": "Entschuldigen",
+      "example": "Sie bitte!",
+      "level": "A2"
+    },
+    {
+      "de": "einig- In",
+      "example": "diesem Text sind einige Fehler.",
+      "level": "A2"
+    },
+    {
+      "de": "einkaufen",
+      "example": "muss noch für morgen einkaufen.",
+      "level": "A2"
+    },
+    {
+      "de": "Entschuldi- Oh,",
+      "example": "Entschuldigung! – Macht nichts. Kein Problem.",
+      "level": "A2"
+    },
+    {
+      "de": "falsch",
+      "example": "Die Lösung ist falsch.",
+      "level": "A2"
+    },
+    {
+      "de": "erinnern (sich),",
+      "example": "Erinnerst du dich an José? - Nein, ich erinnere mich",
+      "level": "A2"
+    },
+    {
+      "de": "erinnert,",
+      "example": "nicht an ihn, tut mir leid.",
+      "level": "A2"
+    },
+    {
+      "de": "erkältet sein,",
+      "example": "Lisa ist erkältet. Sie kann heute nicht zur Schule",
+      "level": "A2"
+    },
+    {
+      "de": "fantastisch",
+      "example": "Dein neues Kleid sieht fantastisch aus!",
+      "level": "A2"
+    },
+    {
+      "de": "erklären, erklärt,",
+      "example": "Ich verstehe das nicht. Kannst du mir das erklären?",
+      "level": "A2"
+    },
+    {
+      "de": "erlauben, erlaubt,",
+      "example": "Meine Kinder dürfen diesen Film sehen. Ich habe es",
+      "level": "A2"
+    },
+    {
+      "de": "fast",
+      "example": "Der Film ist fast zu Ende.",
+      "level": "A2"
+    },
+    {
+      "de": "erlaubt sein,",
+      "example": "Parken ist hier nicht erlaubt.",
+      "level": "A2"
+    },
+    {
+      "de": "faul",
+      "example": "Heute sind wir faul: Wir machen keine Hausauf-",
+      "level": "A2"
+    },
+    {
+      "de": "fehlen, fehlt,",
+      "example": "Herr Müller ist nicht da, er fehlt schon seit drei",
+      "level": "A2"
+    },
+    {
+      "de": "erreichen,",
+      "example": "Wenn wir uns beeilen, erreichen wir noch den Zug",
+      "level": "A2"
+    },
+    {
+      "de": "(z. B. Feierabend,",
+      "example": "Am ersten Mai ist ein Feiertag.",
+      "level": "A2"
+    },
+    {
+      "de": "erreicht,",
+      "example": "um acht Uhr.",
+      "level": "A2"
+    },
+    {
+      "de": "feiern, feiert,",
+      "example": "Wir feiern heute meinen Geburtstag.",
+      "level": "A2"
+    },
+    {
+      "de": "erst",
+      "example": "Wir können erst morgen kommen.",
+      "level": "A2"
+    },
+    {
+      "de": "erzählen, erzählt,",
+      "example": "Wir müssen euch etwas erzählen!",
+      "level": "A2"
+    },
+    {
+      "de": "fernsehen,",
+      "example": "Lass uns heute Abend mal fernsehen.",
+      "level": "A2"
+    },
+    {
+      "de": "essen, isst,",
+      "example": "Was gibt es zu essen?",
+      "level": "A2"
+    },
+    {
+      "de": "fertig sein,",
+      "example": "Das Essen ist gleich fertig. Kommst du?",
+      "level": "A2"
+    },
+    {
+      "de": "etwas",
+      "example": "Ich muss dir etwas erzählen!",
+      "level": "A2"
+    },
+    {
+      "de": "fett",
+      "example": "Die Wurst ist mir zu fett.",
+      "level": "A2"
+    },
+    {
+      "de": "(ab)fahren,",
+      "example": "Ich fahre mit dem Auto zur Arbeit.",
+      "level": "A2"
+    },
+    {
+      "de": "finden, findet,",
+      "example": "Wir müssen den Schlüssel finden.",
+      "level": "A2"
+    },
+    {
+      "de": "fit sein",
+      "example": "Tom will fit sein. Er geht jeden Tag ins Fitness-",
+      "level": "A2"
+    },
+    {
+      "de": "fallen, fällt,",
+      "example": "Pass auf, das Glas fällt gleich vom Tisch.",
+      "level": "A2"
+    },
+    {
+      "de": "Früher",
+      "example": "habe ich in Berlin gewohnt.",
+      "level": "A2"
+    },
+    {
+      "de": "Frühstück (Sg.) Möchtest",
+      "example": "du ein Ei zum Frühstück?",
+      "level": "A2"
+    },
+    {
+      "de": "fleißig Ibrahim",
+      "example": "ist sehr fleißig. Er macht immer seine",
+      "level": "A2"
+    },
+    {
+      "de": "Hausaufgaben.",
+      "example": "frühstücken,",
+      "level": "A2"
+    },
+    {
+      "de": "(ab)fliegen",
+      "example": "fliege nicht gern; ich fahre lieber mit dem Zug.",
+      "level": "A2"
+    },
+    {
+      "de": "fliegt (ab)",
+      "example": "fliege in den Ferien nach Spanien. hat",
+      "level": "A2"
+    },
+    {
+      "de": "Diesen",
+      "example": "Hut habe ich auf dem Flohmarkt gekauft. der",
+      "level": "A2"
+    },
+    {
+      "de": "Führer- Hast",
+      "example": "du den Führerschein?",
+      "level": "A2"
+    },
+    {
+      "de": "-e Sie",
+      "example": "hat die Führerscheinprüfung bestanden.",
+      "level": "A2"
+    },
+    {
+      "de": "Führung, -en Die",
+      "example": "nächste Führung beginnt um 15 Uhr.",
+      "level": "A2"
+    },
+    {
+      "de": "um",
+      "example": "21:00 Uhr.",
+      "level": "A2"
+    },
+    {
+      "de": "Fundsachen Haben",
+      "example": "Sie meinen Schirm gefunden? - Sie können",
+      "level": "A2"
+    },
+    {
+      "de": "müssen",
+      "example": "uns beeilen.",
+      "level": "A2"
+    },
+    {
+      "de": "zur",
+      "example": "Arbeit gehen!",
+      "level": "A2"
+    },
+    {
+      "de": "Fuß, ¨-e Der",
+      "example": "linke Fuß tut mir weh.",
+      "level": "A2"
+    },
+    {
+      "de": "fotografieren",
+      "example": "fotografiere gern.",
+      "level": "A2"
+    },
+    {
+      "de": "Gabel, -n Kann",
+      "example": "ich bitte eine Gabel haben?",
+      "level": "A2"
+    },
+    {
+      "de": "fragen, fragt",
+      "example": "fragt, wann er kommen kann.",
+      "level": "A2"
+    },
+    {
+      "de": "Oh",
+      "example": "nein! Was ist passiert? Ist deine Brille jetzt",
+      "level": "A2"
+    },
+    {
+      "de": "kaputt?",
+      "example": "- Nein, zum Glück ist sie noch ganz!",
+      "level": "A2"
+    },
+    {
+      "de": "frei Entschuldigung,",
+      "example": "ist dieser Platz noch frei?",
+      "level": "A2"
+    },
+    {
+      "de": "freiwillig Manchmal",
+      "example": "bleibe ich freiwillig länger im Büro.",
+      "level": "A2"
+    },
+    {
+      "de": "Garage, -n Hier",
+      "example": "ist eine Garage für dein Auto.",
+      "level": "A2"
+    },
+    {
+      "de": "Garten, ¨ Wir",
+      "example": "haben leider keinen Garten.",
+      "level": "A2"
+    },
+    {
+      "de": "fremd Das",
+      "example": "weiß ich nicht; ich bin fremd hier.",
+      "level": "A2"
+    },
+    {
+      "de": "Gast, ¨-e Heute",
+      "example": "Abend haben wir Gäste.",
+      "level": "A2"
+    },
+    {
+      "de": "gibt",
+      "example": "du mir mal deinen Stift geben?",
+      "level": "A2"
+    },
+    {
+      "de": "freuen (sich)",
+      "example": "Geburtstag habe ich ein interessantes Buch",
+      "level": "A2"
+    },
+    {
+      "de": "gegeben Es",
+      "example": "gibt keine Karten mehr für das Konzert.",
+      "level": "A2"
+    },
+    {
+      "de": "bekommen.",
+      "example": "Ich freue mich sehr über das Geschenk.",
+      "level": "A2"
+    },
+    {
+      "de": "freut",
+      "example": "Kinder freuen sich schon auf die Ferien.",
+      "level": "A2"
+    },
+    {
+      "de": "Es/Das",
+      "example": "freut mich! (jahr,",
+      "level": "A2"
+    },
+    {
+      "de": "ort, tag)",
+      "example": "tragen Sie Ihren Geburtsort noch ein.",
+      "level": "A2"
+    },
+    {
+      "de": "freundlich Er",
+      "example": "ist immer sehr freundlich zu mir.",
+      "level": "A2"
+    },
+    {
+      "de": "frisch Das",
+      "example": "Brot ist noch ganz frisch. Ich habe es gerade gefallen,",
+      "level": "A2"
+    },
+    {
+      "de": "gefällt",
+      "example": "Bild gefällt mir.",
+      "level": "A2"
+    },
+    {
+      "de": "gefallen Wie",
+      "example": "gefällt es Ihnen in Berlin?",
+      "level": "A2"
+    },
+    {
+      "de": "Fahr",
+      "example": "nicht gegen den Baum!",
+      "level": "A2"
+    },
+    {
+      "de": "froh Ich",
+      "example": "bin froh, dass du kommen kannst.",
+      "level": "A2"
+    },
+    {
+      "de": "Wer",
+      "example": "spielt gegen wen? - Bayern gegen Dortmund.",
+      "level": "A2"
+    },
+    {
+      "de": "früh Geht",
+      "example": "es auch später? Sechs Uhr ist mir zu früh.",
+      "level": "A2"
+    },
+    {
+      "de": "gewinnen,",
+      "example": "Unsere Mannschaft hat gewonnen.",
+      "level": "A2"
+    },
+    {
+      "de": "gewinnt,",
+      "example": "Mein Sohn will bei diesem Spiel immer gewinnen.",
+      "level": "A2"
+    },
+    {
+      "de": "gegenüber",
+      "example": "Die Post ist gegenüber vom Bahnhof.",
+      "level": "A2"
+    },
+    {
+      "de": "glauben, glaubt,",
+      "example": "Sie können mir glauben, es ist so.",
+      "level": "A2"
+    },
+    {
+      "de": "gleich",
+      "example": "Ich komme gleich.",
+      "level": "A2"
+    },
+    {
+      "de": "gehören, gehört,",
+      "example": "Gehört der Stift dir?",
+      "level": "A2"
+    },
+    {
+      "de": "glücklich",
+      "example": "Meine Tochter ist glücklich verheiratet.",
+      "level": "A2"
+    },
+    {
+      "de": "genau",
+      "example": "Sind Sie sicher, dass die Prüfung am 15. Juni ist? -",
+      "level": "A2"
+    },
+    {
+      "de": "gratulieren,",
+      "example": "Ich gratuliere dir!",
+      "level": "A2"
+    },
+    {
+      "de": "genug",
+      "example": "Es ist noch genug Pizza da. Möchtest du noch",
+      "level": "A2"
+    },
+    {
+      "de": "grillen, grillt,",
+      "example": "Heute grillen wir im Garten.",
+      "level": "A2"
+    },
+    {
+      "de": "groß",
+      "example": "Mein Bruder und ich sind gleich groß.",
+      "level": "A2"
+    },
+    {
+      "de": "geradeaus",
+      "example": "Gehen Sie immer geradeaus!",
+      "level": "A2"
+    },
+    {
+      "de": "gern, lieber,",
+      "example": "Ich helfe Ihnen gern.",
+      "level": "A2"
+    },
+    {
+      "de": "gültig sein,",
+      "example": "Der Pass ist nicht mehr gültig.",
+      "level": "A2"
+    },
+    {
+      "de": "günstig",
+      "example": "In diesem Laden gibt es immer günstige Angebote.",
+      "level": "A2"
+    },
+    {
+      "de": "gut, besser,",
+      "example": "Das finde ich gut.",
+      "level": "A2"
+    },
+    {
+      "de": "gestern",
+      "example": "Gestern wollte ich dich anrufen.",
+      "level": "A2"
+    },
+    {
+      "de": "gesund",
+      "example": "Ich hatte Grippe. Jetzt bin ich wieder gesund.",
+      "level": "A2"
+    },
+    {
+      "de": "haben, hat,",
+      "example": "Ich habe ein neues Auto.",
+      "level": "A2"
+    },
+    {
+      "de": "hatte, hat gehabt",
+      "example": "Hast du kurz Zeit?",
+      "level": "A2"
+    },
+    {
+      "de": "Herein!",
+      "example": "Die Tür ist offen.",
+      "level": "A2"
+    },
+    {
+      "de": "Möchtest",
+      "example": "du nicht reinkommen? Ich kann uns",
+      "level": "A2"
+    },
+    {
+      "de": "hallo Hallo",
+      "example": "Inge! Wie geht’s?",
+      "level": "A2"
+    },
+    {
+      "de": "Herd, -e In",
+      "example": "der neuen Küche fehlt noch der Herd.",
+      "level": "A2"
+    },
+    {
+      "de": "Herr, -en Guten",
+      "example": "Tag, Herr Sommer!",
+      "level": "A2"
+    },
+    {
+      "de": "halten, hält",
+      "example": "Zug hält nicht in Rüdesheim. herstellen,",
+      "level": "A2"
+    },
+    {
+      "de": "Herzlichen",
+      "example": "Glückwunsch!",
+      "level": "A2"
+    },
+    {
+      "de": "Heute",
+      "example": "ist ein schöner Tag.",
+      "level": "A2"
+    },
+    {
+      "de": "hängen, hängt",
+      "example": "Museum hängen moderne Bilder.",
+      "level": "A2"
+    },
+    {
+      "de": "Elektro",
+      "example": "Bauer, guten Tag. Hier ist Pamela Linke.",
+      "level": "A2"
+    },
+    {
+      "de": "Unterschreiben",
+      "example": "Sie bitte hier!",
+      "level": "A2"
+    },
+    {
+      "de": "Hilfe (Sg.) Hilfe!",
+      "example": "Bitte helfen Sie mir!",
+      "level": "A2"
+    },
+    {
+      "de": "hart Ich",
+      "example": "finde das Bett zu hart.",
+      "level": "A2"
+    },
+    {
+      "de": "Himmel (Sg.) Heute",
+      "example": "ist so tolles Wetter: Der Himmel ist blau und",
+      "level": "A2"
+    },
+    {
+      "de": "hässlich Ich",
+      "example": "finde das Kleid hässlich. Es gefällt mir nicht.",
+      "level": "A2"
+    },
+    {
+      "de": "Wohin",
+      "example": "ist Paul gegangen? –Ich glaube dorthin.",
+      "level": "A2"
+    },
+    {
+      "de": "Paul",
+      "example": "ist nicht zu Hause.",
+      "level": "A2"
+    },
+    {
+      "de": "und",
+      "example": "ich machen den Haushalt zusammen:",
+      "level": "A2"
+    },
+    {
+      "de": "Hinter",
+      "example": "dem Haus haben wir einen Garten.",
+      "level": "A2"
+    },
+    {
+      "de": "Hobby, -s Meine",
+      "example": "Hobbys sind Joggen und Schwimmen.",
+      "level": "A2"
+    },
+    {
+      "de": "Jetzt",
+      "example": "lebe ich in Deutschland, das ist meine neue",
+      "level": "A2"
+    },
+    {
+      "de": "Hochzeit, -en Zu",
+      "example": "seiner Hochzeit kommen mehr als einhundert",
+      "level": "A2"
+    },
+    {
+      "de": "heiraten, heiratet",
+      "example": "Schwester heiratet nächsten Monat.",
+      "level": "A2"
+    },
+    {
+      "de": "hofft",
+      "example": "hoffe, dass es dir gut geht.",
+      "level": "A2"
+    },
+    {
+      "de": "heiß Vorsicht,",
+      "example": "der Tee ist heiß!",
+      "level": "A2"
+    },
+    {
+      "de": "Hoffentlich",
+      "example": "hat unser Zug keine Verspätung.",
+      "level": "A2"
+    },
+    {
+      "de": "holt",
+      "example": "ich uns etwas zu trinken holen?",
+      "level": "A2"
+    },
+    {
+      "de": "heißen, heißt",
+      "example": "heiße Charlotte Meier.",
+      "level": "A2"
+    },
+    {
+      "de": "Homepage, -s Auf",
+      "example": "der Homepage von Freiburg gibt es alle",
+      "level": "A2"
+    },
+    {
+      "de": "wichtigen",
+      "example": "Informationen über die Stadt.",
+      "level": "A2"
+    },
+    {
+      "de": "helfen, hilft",
+      "example": "Sie mir bitte helfen?",
+      "level": "A2"
+    },
+    {
+      "de": "hell Im",
+      "example": "Sommer ist es bis 21 Uhr hell.",
+      "level": "A2"
+    },
+    {
+      "de": "gehört Ich",
+      "example": "habe das Lied schon mal gehört.",
+      "level": "A2"
+    },
+    {
+      "de": "Hose, -n Kann",
+      "example": "ich die Hose waschen?",
+      "level": "A2"
+    },
+    {
+      "de": "Hotel, -s Im",
+      "example": "Urlaub sind wir in einem Hotel am Meer.",
+      "level": "A2"
+    },
+    {
+      "de": "her/her-/-her Komm",
+      "example": "bitte mal her! der",
+      "level": "A2"
+    },
+    {
+      "de": "Hund, -e Magst",
+      "example": "du Hunde?",
+      "level": "A2"
+    },
+    {
+      "de": "Woher",
+      "example": "kommen Sie? der",
+      "level": "A2"
+    },
+    {
+      "de": "Hunger (Sg.) Ich",
+      "example": "habe Hunger! Wann können wir endlich essen?",
+      "level": "A2"
+    },
+    {
+      "de": "heraus/raus Möchtet",
+      "example": "ihr nicht rauskommen? Das Wetter ist husten,",
+      "level": "A2"
+    },
+    {
+      "de": "hustet",
+      "example": "hustet seit zwei Tagen. Sie ist krank.",
+      "level": "A2"
+    },
+    {
+      "de": "so",
+      "example": "schön. hat",
+      "level": "A2"
+    },
+    {
+      "de": "jung",
+      "example": "Claudia ist 21. – Was? Noch so jung?",
+      "level": "A2"
+    },
+    {
+      "de": "immer",
+      "example": "Frau Bast kommt immer zu spät.",
+      "level": "A2"
+    },
+    {
+      "de": "informieren",
+      "example": "Ich möchte mich vor der Reise über das Land",
+      "level": "A2"
+    },
+    {
+      "de": "kalt",
+      "example": "Heute ist es sehr kalt.",
+      "level": "A2"
+    },
+    {
+      "de": "informiert,",
+      "example": "Hast du dich über die Prüfung informiert?",
+      "level": "A2"
+    },
+    {
+      "de": "kaputt",
+      "example": "Unsere Waschmaschine ist kaputt.",
+      "level": "A2"
+    },
+    {
+      "de": "intelligent",
+      "example": "Einstein war sehr intelligent.",
+      "level": "A2"
+    },
+    {
+      "de": "interessieren (sich)",
+      "example": "interessiere mich für Fußball.",
+      "level": "A2"
+    },
+    {
+      "de": "interessiert,",
+      "example": "Den Artikel über Brasilien finde ich sehr",
+      "level": "A2"
+    },
+    {
+      "de": "interessant",
+      "example": "Ich lese gerade ein interessantes Buch.",
+      "level": "A2"
+    },
+    {
+      "de": "international",
+      "example": "Unser Deutschkurs ist international: Silvana kommt",
+      "level": "A2"
+    },
+    {
+      "de": "kaufen, kauft,",
+      "example": "Tim kauft sich ein neues Auto.",
+      "level": "A2"
+    },
+    {
+      "de": "kein",
+      "example": "Hast du keinen Hunger?",
+      "level": "A2"
+    },
+    {
+      "de": "ja",
+      "example": "Sind Sie Herr Watanabe? – Ja.",
+      "level": "A2"
+    },
+    {
+      "de": "jeder, e",
+      "example": "Das Restaurant hat jeden Tag geöffnet.",
+      "level": "A2"
+    },
+    {
+      "de": "kennen, kennt,",
+      "example": "Kennen Sie diese Frau? – Nein, leider nicht.",
+      "level": "A2"
+    },
+    {
+      "de": "jemand",
+      "example": "Hat jemand meinen Stift?",
+      "level": "A2"
+    },
+    {
+      "de": "kennenlernen,",
+      "example": "Wo habt ihr euch kennengelernt? –Wir haben uns",
+      "level": "A2"
+    },
+    {
+      "de": "lernt kennen,",
+      "example": "in München kennengelernt.",
+      "level": "A2"
+    },
+    {
+      "de": "joggen, joggt,",
+      "example": "Ich jogge gern im Park.",
+      "level": "A2"
+    },
+    {
+      "de": "der/die",
+      "example": "Viele Jugendliche hören den ganzen Tag Musik.",
+      "level": "A2"
+    },
+    {
+      "de": "Jugendliche",
+      "example": "Der Eintritt für Kinder und Jugendliche bis 16 Jahre",
+      "level": "A2"
+    },
+    {
+      "de": "krank",
+      "example": "und liege im Bett.",
+      "level": "A2"
+    },
+    {
+      "de": "klappen, klappt",
+      "example": "wir uns heute Mittag treffen? –Ja, das",
+      "level": "A2"
+    },
+    {
+      "de": "Kranken- Meine",
+      "example": "Tante ist im Krankenhaus.",
+      "level": "A2"
+    },
+    {
+      "de": "¨-er Er",
+      "example": "hat sich verletzt und muss ins Krankenhaus.",
+      "level": "A2"
+    },
+    {
+      "de": "klar Kommst",
+      "example": "du mit? – Klar! kasse,",
+      "level": "A2"
+    },
+    {
+      "de": "Krankheit, -en Welche",
+      "example": "Krankheit hat Herr Brandner?",
+      "level": "A2"
+    },
+    {
+      "de": "Kredit, -e Ich",
+      "example": "brauche einen Kredit von der Bank.",
+      "level": "A2"
+    },
+    {
+      "de": "Kreuzung, -en Fahren",
+      "example": "Sie an der nächsten Kreuzung rechts.",
+      "level": "A2"
+    },
+    {
+      "de": "kriegt",
+      "example": "kriege 15 Euro pro Stunde für meinen Job.",
+      "level": "A2"
+    },
+    {
+      "de": "gekriegt Auch",
+      "example": "wenn du schnell läufst: Ich kriege dich.",
+      "level": "A2"
+    },
+    {
+      "de": "klein Unsere",
+      "example": "Wohnung ist sehr klein.",
+      "level": "A2"
+    },
+    {
+      "de": "Unsere",
+      "example": "Tochter ist noch klein. Sie ist erst zwei",
+      "level": "A2"
+    },
+    {
+      "de": "Krimi, -s Miriam",
+      "example": "liest gern spannende Krimis.",
+      "level": "A2"
+    },
+    {
+      "de": "Schauen",
+      "example": "wir am Sonntag zusammen den Tatort?",
+      "level": "A2"
+    },
+    {
+      "de": "–Nein,",
+      "example": "ich mag keine Krimis.",
+      "level": "A2"
+    },
+    {
+      "de": "klug Molly",
+      "example": "ist ein kluges Mädchen.",
+      "level": "A2"
+    },
+    {
+      "de": "Küche, -n Ich",
+      "example": "suche eine neue Wohnung mit drei Zimmern,",
+      "level": "A2"
+    },
+    {
+      "de": "Kuchen, - Er",
+      "example": "ißt sonntags ein Stück Kuchen.",
+      "level": "A2"
+    },
+    {
+      "de": "kochen, kocht",
+      "example": "Georgi kann gut kochen.",
+      "level": "A2"
+    },
+    {
+      "de": "Schokoladenkuchen",
+      "example": "schmeckt mir am besten.",
+      "level": "A2"
+    },
+    {
+      "de": "Kühl- Haben",
+      "example": "wir noch Milch? – Ja, im Kühlschrank.",
+      "level": "A2"
+    },
+    {
+      "de": "Kultur, -en Ich",
+      "example": "finde fremde Länder und Kulturen sehr",
+      "level": "A2"
+    },
+    {
+      "de": "komisch Der",
+      "example": "Film war sehr komisch. Wir haben viel gelacht.",
+      "level": "A2"
+    },
+    {
+      "de": "Eine",
+      "example": "grüne Hose und gelbe Schuhe? Das sieht",
+      "level": "A2"
+    },
+    {
+      "de": "Jana",
+      "example": "interessiert sich sehr für Kultur. Sie geht jede",
+      "level": "A2"
+    },
+    {
+      "de": "Woche",
+      "example": "ins Theater oder ins Museum.",
+      "level": "A2"
+    },
+    {
+      "de": "Tochter",
+      "example": "kümmern.",
+      "level": "A2"
+    },
+    {
+      "de": "gekümmert Ich",
+      "example": "habe jetzt keine Zeit. Ich muss mich um das",
+      "level": "A2"
+    },
+    {
+      "de": "Kunde, -n /",
+      "example": "Moment, bitte. Ich habe eine Kundin.",
+      "level": "A2"
+    },
+    {
+      "de": "kündigt",
+      "example": "Arbeit gefällt mir nicht mehr. Ich habe heute",
+      "level": "A2"
+    },
+    {
+      "de": "Kann",
+      "example": "ich jetzt nach Hause gehen?",
+      "level": "A2"
+    },
+    {
+      "de": "Kunst, ¨-e Ich",
+      "example": "verstehe nichts von moderner Kunst.",
+      "level": "A2"
+    },
+    {
+      "de": "Kurs, -e Der",
+      "example": "Deutschkurs dauert zwei Monate.",
+      "level": "A2"
+    },
+    {
+      "de": "Ricardo",
+      "example": "hat kurze Haare.",
+      "level": "A2"
+    },
+    {
+      "de": "kontrollieren",
+      "example": "Sie bei meinem Auto bitte das Öl",
+      "level": "A2"
+    },
+    {
+      "de": "lacht",
+      "example": "Kinder lachen über den Witz.",
+      "level": "A2"
+    },
+    {
+      "de": "Gepäck",
+      "example": "kontrollieren.",
+      "level": "A2"
+    },
+    {
+      "de": "gelacht Lachen",
+      "example": "ist gesund.",
+      "level": "A2"
+    },
+    {
+      "de": "Laden, ¨- Ich",
+      "example": "kaufe meine Kleider immer in einem kleinen",
+      "level": "A2"
+    },
+    {
+      "de": "Lampe, -n Mach",
+      "example": "bitte die Lampe an. Es ist so dunkel.",
+      "level": "A2"
+    },
+    {
+      "de": "tun,",
+      "example": "z. B. schwimmen oder Fahrrad fahren.",
+      "level": "A2"
+    },
+    {
+      "de": "Land, ¨-er Deutschland",
+      "example": "ist ein schönes Land.",
+      "level": "A2"
+    },
+    {
+      "de": "Landschaft, -en Die",
+      "example": "Landschaft ist sehr schön.",
+      "level": "A2"
+    },
+    {
+      "de": "lang Die",
+      "example": "Hose ist zu lang. Können Sie sie ändern? der",
+      "level": "A2"
+    },
+    {
+      "de": "Link, -s Ich",
+      "example": "schicke dir einen Link zu Deutschübungen.",
+      "level": "A2"
+    },
+    {
+      "de": "lange Wie",
+      "example": "lange fährt der Zug von Hamburg nach Berlin? links",
+      "level": "A2"
+    },
+    {
+      "de": "langsam Könnten",
+      "example": "Sie bitte etwas langsamer sprechen? der",
+      "level": "A2"
+    },
+    {
+      "de": "Löffel, - Bitte",
+      "example": "bringen Sie mir einen Löffel.",
+      "level": "A2"
+    },
+    {
+      "de": "langweilig Mir",
+      "example": "ist langweilig. das",
+      "level": "A2"
+    },
+    {
+      "de": "Lokal, -e Gibt",
+      "example": "es hier in der Nähe ein gutes Lokal?",
+      "level": "A2"
+    },
+    {
+      "de": "Lüge, -n Das",
+      "example": "stimmt nicht! Das ist eine Lüge!",
+      "level": "A2"
+    },
+    {
+      "de": "lügt",
+      "example": "sollst nicht lügen.",
+      "level": "A2"
+    },
+    {
+      "de": "lassen, lässt",
+      "example": "mich in Ruhe! hat",
+      "level": "A2"
+    },
+    {
+      "de": "gelogen Glaub",
+      "example": "ihm nicht, er lügt.",
+      "level": "A2"
+    },
+    {
+      "de": "Lust (Sg.) Gehen",
+      "example": "wir heute Abend ins Kino? - Nein, ich habe",
+      "level": "A2"
+    },
+    {
+      "de": "laufen, läuft",
+      "example": "gehe jeden Morgen laufen.",
+      "level": "A2"
+    },
+    {
+      "de": "Warum",
+      "example": "lacht ihr? Was ist so lustig?",
+      "level": "A2"
+    },
+    {
+      "de": "laut Nicht",
+      "example": "so laut! Das Baby schläft.",
+      "level": "A2"
+    },
+    {
+      "de": "leben, lebt",
+      "example": "lebt bei ihrer Schwester. hat",
+      "level": "A2"
+    },
+    {
+      "de": "gemacht Ich",
+      "example": "muss jetzt das Essen machen.",
+      "level": "A2"
+    },
+    {
+      "de": "Entschuldigung!",
+      "example": "- Das macht doch nichts.",
+      "level": "A2"
+    },
+    {
+      "de": "Mädchen, - Familie",
+      "example": "Kurz bekommt ein Baby. – Junge oder",
+      "level": "A2"
+    },
+    {
+      "de": "leer Die",
+      "example": "Kanne ist fast leer. Ich mache neuen Tee. der",
+      "level": "A2"
+    },
+    {
+      "de": "Magen, ¨- Mein",
+      "example": "Magen tut weh.",
+      "level": "A2"
+    },
+    {
+      "de": "legen, legt",
+      "example": "Sie das Buch auf den Tisch. die",
+      "level": "A2"
+    },
+    {
+      "de": "Mailbox, -en Hier",
+      "example": "ist die Mailbox von Susanne König.",
+      "level": "A2"
+    },
+    {
+      "de": "leicht Das",
+      "example": "Paket ist leicht, es wiegt nur ein Kilo. mal",
+      "level": "A2"
+    },
+    {
+      "de": "/ das Mal",
+      "example": "mal, wie gefällt dir mein neues Kleid?",
+      "level": "A2"
+    },
+    {
+      "de": "leider Leider",
+      "example": "kann ich nicht kommen. Ich muss zum Arzt.",
+      "level": "A2"
+    },
+    {
+      "de": "leidtun/leid tun",
+      "example": "tut mir leid, dass ich nicht kommen kann. malen,",
+      "level": "A2"
+    },
+    {
+      "de": "malt",
+      "example": "Sohn kann gut malen.",
+      "level": "A2"
+    },
+    {
+      "de": "leihen, leiht",
+      "example": "du mir fünf Euro leihen?",
+      "level": "A2"
+    },
+    {
+      "de": "Manche",
+      "example": "Nachbarn sind unfreundlich.",
+      "level": "A2"
+    },
+    {
+      "de": "leise Seid",
+      "example": "leise. Die anderen schlafen schon. manchmal",
+      "level": "A2"
+    },
+    {
+      "de": "Manchmal",
+      "example": "essen wir im Restaurant.",
+      "level": "A2"
+    },
+    {
+      "de": "Rauchen",
+      "example": "Sie? - Manchmal.",
+      "level": "A2"
+    },
+    {
+      "de": "lernen, lernt",
+      "example": "lange lernen Sie schon Deutsch?",
+      "level": "A2"
+    },
+    {
+      "de": "Mann, ¨-er Mein",
+      "example": "Mann ist Polizist.",
+      "level": "A2"
+    },
+    {
+      "de": "lesen, liest",
+      "example": "der Schule lesen wir ein Buch von Goethe. männlich",
+      "level": "A2"
+    },
+    {
+      "de": "Mannschaft",
+      "example": "Lieblingsmannschaft hat 1:0 verloren.",
+      "level": "A2"
+    },
+    {
+      "de": "letzt- Morgen",
+      "example": "ist der letzte Kurstag.",
+      "level": "A2"
+    },
+    {
+      "de": "Mantel, ¨- Es",
+      "example": "ist kalt. Zieh deinen Mantel an!",
+      "level": "A2"
+    },
+    {
+      "de": "Markt, ¨-e Ich",
+      "example": "gehe heute auf den Markt.",
+      "level": "A2"
+    },
+    {
+      "de": "Samstags",
+      "example": "ist hier Markt.",
+      "level": "A2"
+    },
+    {
+      "de": "Maschine, -n Die",
+      "example": "Waschmaschine funktioniert sehr gut.",
+      "level": "A2"
+    },
+    {
+      "de": "lieb- Liebe",
+      "example": "Susanne, lieber Hans,",
+      "level": "A2"
+    },
+    {
+      "de": "Medikament,-e Nehmen",
+      "example": "Sie dieses Medikament dreimal pro Tag!",
+      "level": "A2"
+    },
+    {
+      "de": "Meer, -e Wir",
+      "example": "machen Urlaub am Meer.",
+      "level": "A2"
+    },
+    {
+      "de": "Dieses",
+      "example": "Auto kostet 1.000 Euro mehr als das andere.",
+      "level": "A2"
+    },
+    {
+      "de": "lieben, liebt",
+      "example": "liebe dich!",
+      "level": "A2"
+    },
+    {
+      "de": "Mehr",
+      "example": "kann ich nicht essen!",
+      "level": "A2"
+    },
+    {
+      "de": "Lieblings- Meine",
+      "example": "Lieblingsfarbe ist Blau.",
+      "level": "A2"
+    },
+    {
+      "de": "meint",
+      "example": "meinst du das? Erklär mir das bitte genauer!",
+      "level": "A2"
+    },
+    {
+      "de": "gemeint Der",
+      "example": "Film ist gut. Was meinst du?",
+      "level": "A2"
+    },
+    {
+      "de": "liefern, liefert",
+      "example": "liefern Ihnen den Schrank nach Hause. die",
+      "level": "A2"
+    },
+    {
+      "de": "Meinung, -en Meine",
+      "example": "Meinung zu dem Thema ist: …",
+      "level": "A2"
+    },
+    {
+      "de": "liegen, liegt",
+      "example": "Zeitung liegt auf dem Tisch.",
+      "level": "A2"
+    },
+    {
+      "de": "hat/ist gelegen Judith",
+      "example": "liegt noch im Bett. meist-",
+      "level": "A2"
+    },
+    {
+      "de": "Frankfurt",
+      "example": "liegt am Main.",
+      "level": "A2"
+    },
+    {
+      "de": "kenne",
+      "example": "ich noch nicht.",
+      "level": "A2"
+    },
+    {
+      "de": "meistens Meistens",
+      "example": "trinke ich zum Frühstück nur einen Kaffee. der",
+      "level": "A2"
+    },
+    {
+      "de": "Moment, -e Einen",
+      "example": "Moment, bitte.",
+      "level": "A2"
+    },
+    {
+      "de": "Warten",
+      "example": "Sie bitte einen Moment.",
+      "level": "A2"
+    },
+    {
+      "de": "Motor, -en Der",
+      "example": "Motor ist kaputt. Das Auto fährt nicht mehr.",
+      "level": "A2"
+    },
+    {
+      "de": "merken, merkt",
+      "example": "kann mir keine Zahlen merken. Ich vergesse sie der",
+      "level": "A2"
+    },
+    {
+      "de": "Motorroller, - Oskar",
+      "example": "fährt mit dem Motorroller zur Arbeit.",
+      "level": "A2"
+    },
+    {
+      "de": "Merkst",
+      "example": "du, dass es wärmer wird?",
+      "level": "A2"
+    },
+    {
+      "de": "Müll (Sg.) Bringst",
+      "example": "du bitte den Müll raus?",
+      "level": "A2"
+    },
+    {
+      "de": "alt.",
+      "example": "Bring/Wirf sie bitte in den Müll!",
+      "level": "A2"
+    },
+    {
+      "de": "Mund, ¨-er Öffnen",
+      "example": "Sie bitte den Mund. Ich möchte in Ihren",
+      "level": "A2"
+    },
+    {
+      "de": "Museum, -een Im",
+      "example": "Kunstmuseum gibt es eine neue Ausstellung.",
+      "level": "A2"
+    },
+    {
+      "de": "mieten, mietet",
+      "example": "möchte ein Auto mieten.",
+      "level": "A2"
+    },
+    {
+      "de": "Musik (Sg.) Wie",
+      "example": "findest du die Musik?",
+      "level": "A2"
+    },
+    {
+      "de": "Spanische",
+      "example": "Musik gefällt mir gut.",
+      "level": "A2"
+    },
+    {
+      "de": "muss",
+      "example": "muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.",
+      "level": "A2"
+    },
+    {
+      "de": "mindestens Bitte",
+      "example": "kommen Sie mindestens zwei Stunden vor musste",
+      "level": "A2"
+    },
+    {
+      "de": "Ihrem",
+      "example": "Flug zum Flughafen.",
+      "level": "A2"
+    },
+    {
+      "de": "Mütze, -n Haben",
+      "example": "Sie rote Mützen?",
+      "level": "A2"
+    },
+    {
+      "de": "Schreiben",
+      "example": "Sie mindestens sieben Sätze!",
+      "level": "A2"
+    },
+    {
+      "de": "-kommen/-machen/Fahren",
+      "example": "wir mit dem Auto oder mit dem Zug nach",
+      "level": "A2"
+    },
+    {
+      "de": "Nachbar, -n",
+      "example": "Nachbar kommt aus Brasilien und meine",
+      "level": "A2"
+    },
+    {
+      "de": "Nachbarin,-nen Nachbarin",
+      "example": "ist Italienerin.",
+      "level": "A2"
+    },
+    {
+      "de": "Nachricht, -en Ich",
+      "example": "sehe abends immer die Nachrichten im",
+      "level": "A2"
+    },
+    {
+      "de": "-er, -es Sehen",
+      "example": "wir uns nächste Woche?",
+      "level": "A2"
+    },
+    {
+      "de": "Ihr",
+      "example": "nächster Termin ist in einem Monat.",
+      "level": "A2"
+    },
+    {
+      "de": "Nähe (Sg.) Die",
+      "example": "Post ist in der Nähe vom Bahnhof.",
+      "level": "A2"
+    },
+    {
+      "de": "Name, -n Wie",
+      "example": "ist Ihr Name?",
+      "level": "A2"
+    },
+    {
+      "de": "Natur (Sg.) Ich",
+      "example": "bin gern draußen in der Natur.",
+      "level": "A2"
+    },
+    {
+      "de": "Natürlich",
+      "example": "helfen wir dir.",
+      "level": "A2"
+    },
+    {
+      "de": "Neben",
+      "example": "mir ist noch ein Platz frei.",
+      "level": "A2"
+    },
+    {
+      "de": "mögen, mag",
+      "example": "du Schokolade? - Nein, ich mag keine",
+      "level": "A2"
+    },
+    {
+      "de": "nimmt",
+      "example": "Sie die Tabletten vor dem Essen!",
+      "level": "A2"
+    },
+    {
+      "de": "möglich Kann",
+      "example": "ich bitte sofort einen Termin haben? - Das ist",
+      "level": "A2"
+    },
+    {
+      "de": "nein Möchten",
+      "example": "Sie ein Stück Kuchen? –Nein, danke. öffnen,",
+      "level": "A2"
+    },
+    {
+      "de": "öffnet",
+      "example": "öffne die Tür.",
+      "level": "A2"
+    },
+    {
+      "de": "Fährst",
+      "example": "du auch nach München? – Nein, ich habe hat",
+      "level": "A2"
+    },
+    {
+      "de": "geöffnet Der",
+      "example": "Laden ist samstags bis 16.00 Uhr geöffnet.",
+      "level": "A2"
+    },
+    {
+      "de": "nennen, nennt",
+      "example": "Freund heißt Alexander, aber alle nennen ohne",
+      "level": "A2"
+    },
+    {
+      "de": "Schaffst",
+      "example": "du das auch ohne mich oder soll ich dir",
+      "level": "A2"
+    },
+    {
+      "de": "nervös Bei",
+      "example": "Prüfungen bin ich immer sehr nervös.",
+      "level": "A2"
+    },
+    {
+      "de": "nett Ich",
+      "example": "habe viele nette Kollegen. das",
+      "level": "A2"
+    },
+    {
+      "de": "Ohr, -en Ich",
+      "example": "habe Ohrenschmerzen.",
+      "level": "A2"
+    },
+    {
+      "de": "Vielen",
+      "example": "Dank! Das ist sehr nett von dir.",
+      "level": "A2"
+    },
+    {
+      "de": "Öl, -e Machen",
+      "example": "wir den Salat mit Öl?",
+      "level": "A2"
+    },
+    {
+      "de": "neu Ich",
+      "example": "bin der neue Mitarbeiter.",
+      "level": "A2"
+    },
+    {
+      "de": "Zeig",
+      "example": "mal! Ist das dein neues Handy?",
+      "level": "A2"
+    },
+    {
+      "de": "Abend",
+      "example": "wieder online.",
+      "level": "A2"
+    },
+    {
+      "de": "nichts Das",
+      "example": "macht nichts. die",
+      "level": "A2"
+    },
+    {
+      "de": "Orange, -n Ich",
+      "example": "esse gern Orangen.",
+      "level": "A2"
+    },
+    {
+      "de": "Ordnung, -en Er",
+      "example": "hat seine Hausaufgabe gut gemacht. Das ist alles",
+      "level": "A2"
+    },
+    {
+      "de": "nie Er",
+      "example": "kommt nie pünktlich.",
+      "level": "A2"
+    },
+    {
+      "de": "niemand Hier",
+      "example": "ist niemand.",
+      "level": "A2"
+    },
+    {
+      "de": "nirgends Hier",
+      "example": "kann man nirgends parken.",
+      "level": "A2"
+    },
+    {
+      "de": "normal Das",
+      "example": "ist doch ganz normal.",
+      "level": "A2"
+    },
+    {
+      "de": "Paar, -e Romeo",
+      "example": "und Julia sind ein Paar.",
+      "level": "A2"
+    },
+    {
+      "de": "notieren, notiert",
+      "example": "Sie bitte alle wichtigen Informationen.",
+      "level": "A2"
+    },
+    {
+      "de": "notwendig Muss",
+      "example": "ich noch einmal kommen? –Nein, das ist packen,",
+      "level": "A2"
+    },
+    {
+      "de": "packt",
+      "example": "muss noch meinen Koffer packen.",
+      "level": "A2"
+    },
+    {
+      "de": "Paket, -e Bringst",
+      "example": "du bitte das Paket zur Post?",
+      "level": "A2"
+    },
+    {
+      "de": "–Lieber",
+      "example": "Nudeln, bitte. das",
+      "level": "A2"
+    },
+    {
+      "de": "Papier, -e Hier",
+      "example": "sind Papier und Bleistift.",
+      "level": "A2"
+    },
+    {
+      "de": "Papiere (Pl.) Haben",
+      "example": "Sie Ihre Papiere dabei?",
+      "level": "A2"
+    },
+    {
+      "de": "Parfüm, -s Ich",
+      "example": "suche ein Parfum als Geschenk für meine Frau.",
+      "level": "A2"
+    },
+    {
+      "de": "Park, -s Ich",
+      "example": "gehe gern im Park spazieren.",
+      "level": "A2"
+    },
+    {
+      "de": "parkt",
+      "example": "ich hier parken?",
+      "level": "A2"
+    },
+    {
+      "de": "nur Ich",
+      "example": "möchte nur ein Glas Wasser.",
+      "level": "A2"
+    },
+    {
+      "de": "geparkt Hier",
+      "example": "ist Parken verboten.",
+      "level": "A2"
+    },
+    {
+      "de": "Partner, - Veronika",
+      "example": "ist meine Partnerin.",
+      "level": "A2"
+    },
+    {
+      "de": "nützlich Danke",
+      "example": "für den Tipp. Er war sehr nützlich.",
+      "level": "A2"
+    },
+    {
+      "de": "Party, -s Heute",
+      "example": "Abend machen wir eine Party.",
+      "level": "A2"
+    },
+    {
+      "de": "Pass, ¨-e Am",
+      "example": "Flughafen brauchst du deinen Pass.",
+      "level": "A2"
+    },
+    {
+      "de": "oben Ich",
+      "example": "wohne oben im 4. Stock.",
+      "level": "A2"
+    },
+    {
+      "de": "gepasst Welches",
+      "example": "Wort passt? Wählen Sie.",
+      "level": "A2"
+    },
+    {
+      "de": "oder Wann",
+      "example": "können Sie kommen – heute oder morgen?",
+      "level": "A2"
+    },
+    {
+      "de": "Entweder",
+      "example": "fahren wir mit dem Bus oder wir gehen",
+      "level": "A2"
+    },
+    {
+      "de": "Projekt, -e Wir",
+      "example": "machen ein Projekt über Sehenswürdigkeiten in",
+      "level": "A2"
+    },
+    {
+      "de": "Prospekt, -e Bitte",
+      "example": "schicken Sie mir einen Prospekt von Ihrem",
+      "level": "A2"
+    },
+    {
+      "de": "prüft",
+      "example": "prüfen Sie die Rechnung sofort.",
+      "level": "A2"
+    },
+    {
+      "de": "Prüfung, -en Ich",
+      "example": "habe die Prüfung bestanden.",
+      "level": "A2"
+    },
+    {
+      "de": "kümmern?",
+      "example": "Wir sind nächste Woche im Urlaub. der",
+      "level": "A2"
+    },
+    {
+      "de": "Pullover, - Ich",
+      "example": "muss mir einen Pullover kaufen.",
+      "level": "A2"
+    },
+    {
+      "de": "putzt",
+      "example": "muss heute noch das Bad putzen.",
+      "level": "A2"
+    },
+    {
+      "de": "„Essen",
+      "example": "und Trinken“. hat",
+      "level": "A2"
+    },
+    {
+      "de": "planen, plant",
+      "example": "sollen zusammen eine Klassenparty planen. Q",
+      "level": "A2"
+    },
+    {
+      "de": "Qualität, -en Dieser",
+      "example": "Fernseher hat eine gute Qualität.",
+      "level": "A2"
+    },
+    {
+      "de": "Quiz (Sg.) Er",
+      "example": "schaut gern Quizsendungen an.",
+      "level": "A2"
+    },
+    {
+      "de": "plötzlich Plötzlich",
+      "example": "war das Licht aus.",
+      "level": "A2"
+    },
+    {
+      "de": "Radio, -s Ich",
+      "example": "höre im Auto gern Radio.",
+      "level": "A2"
+    },
+    {
+      "de": "rät",
+      "example": "weiß nicht, welches Handy ich kaufen soll. Was",
+      "level": "A2"
+    },
+    {
+      "de": "geraten raten",
+      "example": "Sie mir?",
+      "level": "A2"
+    },
+    {
+      "de": "Rate",
+      "example": "mal, wen ich heute gesehen habe! Deinen",
+      "level": "A2"
+    },
+    {
+      "de": "Rathaus, ¨-er Das",
+      "example": "Formular bekommen Sie im Rathaus.",
+      "level": "A2"
+    },
+    {
+      "de": "Rätsel, - Das",
+      "example": "Rätsel ist schwierig! Ich weiß die Antwort nicht.",
+      "level": "A2"
+    },
+    {
+      "de": "raucht",
+      "example": "es Sie, wenn ich rauche?",
+      "level": "A2"
+    },
+    {
+      "de": "geraucht Rauchen",
+      "example": "ist hier verboten!",
+      "level": "A2"
+    },
+    {
+      "de": "Raum, ¨-e Der",
+      "example": "Unterricht findet heute in Raum 332 statt.",
+      "level": "A2"
+    },
+    {
+      "de": "praktisch Mit",
+      "example": "meinem neuen Handy kann ich auch im Internet rechnen,",
+      "level": "A2"
+    },
+    {
+      "de": "rechnet",
+      "example": "kann gut rechnen.",
+      "level": "A2"
+    },
+    {
+      "de": "surfen",
+      "example": "und Fotos machen. Das finde ich sehr hat",
+      "level": "A2"
+    },
+    {
+      "de": "Rechnung, -en Schicken",
+      "example": "Sie die Rechnung an mich.",
+      "level": "A2"
+    },
+    {
+      "de": "Weiß",
+      "example": "hat ab neun Uhr Sprechstunde.",
+      "level": "A2"
+    },
+    {
+      "de": "preiswert Die",
+      "example": "Jacke ist sehr preiswert. Sie kostet nur 15 Euro.",
+      "level": "A2"
+    },
+    {
+      "de": "privat Das",
+      "example": "ist meine Nummer im Büro und das ist meine",
+      "level": "A2"
+    },
+    {
+      "de": "private",
+      "example": "Handynummer. rechts",
+      "level": "A2"
+    },
+    {
+      "de": "Dieser",
+      "example": "Strand ist privat. Wir dürfen hier nicht reden,",
+      "level": "A2"
+    },
+    {
+      "de": "redet",
+      "example": "meiner Freundin kann ich über alles reden.",
+      "level": "A2"
+    },
+    {
+      "de": "schwimmen",
+      "example": "gehen. hat",
+      "level": "A2"
+    },
+    {
+      "de": "geredet Rede",
+      "example": "nicht so viel!",
+      "level": "A2"
+    },
+    {
+      "de": "Hey,",
+      "example": "du darfst die Mail nicht lesen! Sie ist privat. der",
+      "level": "A2"
+    },
+    {
+      "de": "Regen (Sg.) Bei",
+      "example": "Regen gehe ich nicht aus dem Haus.",
+      "level": "A2"
+    },
+    {
+      "de": "pro Das",
+      "example": "Zimmer kostet 100 Euro pro Nacht.",
+      "level": "A2"
+    },
+    {
+      "de": "regnet",
+      "example": "es regnet, bleiben wir zu Hause.",
+      "level": "A2"
+    },
+    {
+      "de": "probieren",
+      "example": "Sie den Käse probieren? hat",
+      "level": "A2"
+    },
+    {
+      "de": "probiert",
+      "example": "Tür geht schwer auf. Probier mal!",
+      "level": "A2"
+    },
+    {
+      "de": "Lotte",
+      "example": "ist reich. Sie hat sehr viel Geld.",
+      "level": "A2"
+    },
+    {
+      "de": "Reifen, - Ich",
+      "example": "brauche neue Reifen für mein Auto.",
+      "level": "A2"
+    },
+    {
+      "de": "Reihe, -n Ich",
+      "example": "habe Karten für das Konzert. Wir sitzen in der",
+      "level": "A2"
+    },
+    {
+      "de": "Reinigung, -en Bringst",
+      "example": "du bitte die Bluse in die Reinigung? Man",
+      "level": "A2"
+    },
+    {
+      "de": "Rundgang, ¨-e Der",
+      "example": "Rundgang durch das Schloss beginnt in wenigen",
+      "level": "A2"
+    },
+    {
+      "de": "Sache, -n Ihr",
+      "example": "könnt eure Sachen im Hotel lassen.",
+      "level": "A2"
+    },
+    {
+      "de": "Nimm",
+      "example": "deine Sachen und komm!",
+      "level": "A2"
+    },
+    {
+      "de": "reisen, reist",
+      "example": "reise gern.",
+      "level": "A2"
+    },
+    {
+      "de": "Saft, ¨-e Möchtest",
+      "example": "du einen Apfelsaft?",
+      "level": "A2"
+    },
+    {
+      "de": "reiten, reitet",
+      "example": "du reiten lernen? sagen,",
+      "level": "A2"
+    },
+    {
+      "de": "sagt, Entschuldigung,",
+      "example": "was haben Sie gesagt?",
+      "level": "A2"
+    },
+    {
+      "de": "gesagt Wie",
+      "example": "sagt man „sorry“ auf Deutsch?",
+      "level": "A2"
+    },
+    {
+      "de": "renovieren",
+      "example": "renovieren das ganze Haus.",
+      "level": "A2"
+    },
+    {
+      "de": "Sag",
+      "example": "mal, wie geht es dir denn?",
+      "level": "A2"
+    },
+    {
+      "de": "Salat, -e Wie",
+      "example": "schmeckt dir der Salat?",
+      "level": "A2"
+    },
+    {
+      "de": "de Rentner",
+      "example": "Onkel arbeitet nicht mehr. Er ist Rentner.",
+      "level": "A2"
+    },
+    {
+      "de": "Salz, -e Entschuldigung,",
+      "example": "kann ich bitte Salz haben?",
+      "level": "A2"
+    },
+    {
+      "de": "Peter",
+      "example": "sammelt Briefmarken.",
+      "level": "A2"
+    },
+    {
+      "de": "reparieren",
+      "example": "muss den Motor reparieren. hat",
+      "level": "A2"
+    },
+    {
+      "de": "Satz, ¨-e Den",
+      "example": "letzten Satz verstehe ich nicht.",
+      "level": "A2"
+    },
+    {
+      "de": "reservieren",
+      "example": "Sie bitte ein Doppelzimmer.",
+      "level": "A2"
+    },
+    {
+      "de": "Zitronen",
+      "example": "sind mir zu sauer.",
+      "level": "A2"
+    },
+    {
+      "de": "reserviert",
+      "example": "möchte gern einen Tisch für fünf Personen",
+      "level": "A2"
+    },
+    {
+      "de": "Freunden",
+      "example": "ins Kino gehen.",
+      "level": "A2"
+    },
+    {
+      "de": "Schade,",
+      "example": "dass du nicht kommen kannst.",
+      "level": "A2"
+    },
+    {
+      "de": "schafft",
+      "example": "du mir bitte helfen? Ich schaffe das nicht",
+      "level": "A2"
+    },
+    {
+      "de": "Geschafft!",
+      "example": "Das Projekt ist endlich fertig.",
+      "level": "A2"
+    },
+    {
+      "de": "Schalter, - Gehen",
+      "example": "Sie bitte zum Schalter drei!",
+      "level": "A2"
+    },
+    {
+      "de": "richtig Habe",
+      "example": "ich das richtig verstanden?",
+      "level": "A2"
+    },
+    {
+      "de": "riechen, riecht",
+      "example": "Blumen riechen gut.",
+      "level": "A2"
+    },
+    {
+      "de": "scheint",
+      "example": "Sonne scheint.",
+      "level": "A2"
+    },
+    {
+      "de": "romantisch Dieser",
+      "example": "Film ist sehr romantisch. die",
+      "level": "A2"
+    },
+    {
+      "de": "Schere, -n Die",
+      "example": "Schere schneidet nicht gut. Hast du eine",
+      "level": "A2"
+    },
+    {
+      "de": "schickt",
+      "example": "schicken Sie mir eine E-Mail.",
+      "level": "A2"
+    },
+    {
+      "de": "geschickt Ich",
+      "example": "schicke dir den Brief nach Hause.",
+      "level": "A2"
+    },
+    {
+      "de": "Schiff, -e Wir",
+      "example": "fahren mit dem Schiff von Basel nach Köln.",
+      "level": "A2"
+    },
+    {
+      "de": "Schild, -er Haben",
+      "example": "Sie das Schild nicht gesehen?",
+      "level": "A2"
+    },
+    {
+      "de": "mich",
+      "example": "über mein Auto.",
+      "level": "A2"
+    },
+    {
+      "de": "geschimpft Alle",
+      "example": "schimpfen über/auf das Wetter.",
+      "level": "A2"
+    },
+    {
+      "de": "Schirm Nimm",
+      "example": "den Schirm mit, es regnet.",
+      "level": "A2"
+    },
+    {
+      "de": "schläft",
+      "example": "schlafe meistens acht Stunden.",
+      "level": "A2"
+    },
+    {
+      "de": "geschlafen Haben",
+      "example": "Sie gut geschlafen?",
+      "level": "A2"
+    },
+    {
+      "de": "ruhig Ich",
+      "example": "möchte ein ruhiges Zimmer.",
+      "level": "A2"
+    },
+    {
+      "de": "Gute",
+      "example": "Nacht! Schlaf gut und träum süß!",
+      "level": "A2"
+    },
+    {
+      "de": "Schüler, - /",
+      "example": "meinem Kurs sind acht Schülerinnen und fünf",
+      "level": "A2"
+    },
+    {
+      "de": "schlecht Das",
+      "example": "Wetter ist schlecht. Wir haben schon seit einer",
+      "level": "A2"
+    },
+    {
+      "de": "schließen",
+      "example": "schließen Sie die Tür. schwanger",
+      "level": "A2"
+    },
+    {
+      "de": "Lena",
+      "example": "ist schwanger. Sie bekommt im Juli ein Kind.",
+      "level": "A2"
+    },
+    {
+      "de": "Schwein, -e Ich",
+      "example": "esse kein Schweinefleisch.",
+      "level": "A2"
+    },
+    {
+      "de": "schlimm Kein",
+      "example": "Problem, das ist nicht so schlimm.",
+      "level": "A2"
+    },
+    {
+      "de": "Schwimm- Kommst",
+      "example": "du mit ins Schwimmbad?",
+      "level": "A2"
+    },
+    {
+      "de": "See, -n Morgen",
+      "example": "fahren wir mal an einen See schwimmen.",
+      "level": "A2"
+    },
+    {
+      "de": "schmecken",
+      "example": "dir die Suppe?",
+      "level": "A2"
+    },
+    {
+      "de": "Komm,",
+      "example": "wir fahren an den Bodensee.",
+      "level": "A2"
+    },
+    {
+      "de": "schmeckt",
+      "example": "es Ihnen geschmeckt?",
+      "level": "A2"
+    },
+    {
+      "de": "gesehen Möchtest",
+      "example": "du einen Film sehen?",
+      "level": "A2"
+    },
+    {
+      "de": "schmutzig Das",
+      "example": "Handtuch ist schmutzig.",
+      "level": "A2"
+    },
+    {
+      "de": "schneiden (sich)",
+      "example": "Messer schneidet nicht gut. die",
+      "level": "A2"
+    },
+    {
+      "de": "Sehens- Welche",
+      "example": "Sehenswürdigkeiten gibt es in Frankfurt?",
+      "level": "A2"
+    },
+    {
+      "de": "schneidet",
+      "example": "schneidet dir die Haare? würdigkeit,",
+      "level": "A2"
+    },
+    {
+      "de": "schneien",
+      "example": "schneit es.",
+      "level": "A2"
+    },
+    {
+      "de": "Seife, -n Hier",
+      "example": "gibt es keine Seife.",
+      "level": "A2"
+    },
+    {
+      "de": "ist, war",
+      "example": "sind meine Kollegen.",
+      "level": "A2"
+    },
+    {
+      "de": "gewesen Ich",
+      "example": "bin Mechaniker.",
+      "level": "A2"
+    },
+    {
+      "de": "schon Ist",
+      "example": "das Essen schon fertig?",
+      "level": "A2"
+    },
+    {
+      "de": "sein / aus",
+      "example": "Licht ist noch an/schon aus.",
+      "level": "A2"
+    },
+    {
+      "de": "Schön,",
+      "example": "dass du kommst. auf",
+      "level": "A2"
+    },
+    {
+      "de": "Legst",
+      "example": "du bitte die Handtücher in den Schrank?",
+      "level": "A2"
+    },
+    {
+      "de": "schrecklich Ich",
+      "example": "finde ihren Rock schrecklich. Er sieht furchtbar",
+      "level": "A2"
+    },
+    {
+      "de": "Seite, -n Öffnen",
+      "example": "Sie das Kursbuch auf Seite 20.",
+      "level": "A2"
+    },
+    {
+      "de": "Sendung, -en Welche",
+      "example": "Sendungen schaust du gern an? –Ich mag",
+      "level": "A2"
+    },
+    {
+      "de": "schriftlich Sie",
+      "example": "müssen sich schriftlich anmelden.",
+      "level": "A2"
+    },
+    {
+      "de": "Service (Sg.) Ich",
+      "example": "bin mit dem Service in der Werkstatt sehr",
+      "level": "A2"
+    },
+    {
+      "de": "Rufst",
+      "example": "du beim Pizza-Service an?",
+      "level": "A2"
+    },
+    {
+      "de": "sicher Dieses",
+      "example": "Auto ist besonders sicher. spielen,",
+      "level": "A2"
+    },
+    {
+      "de": "Spielen",
+      "example": "Sie Karten?",
+      "level": "A2"
+    },
+    {
+      "de": "gespielt Jakob",
+      "example": "spielt Klavier.",
+      "level": "A2"
+    },
+    {
+      "de": "singen, singt",
+      "example": "singt gern. der",
+      "level": "A2"
+    },
+    {
+      "de": "Sport (Sg.) Ich",
+      "example": "mache viel Sport.",
+      "level": "A2"
+    },
+    {
+      "de": "Tom",
+      "example": "ist sehr sportlich.",
+      "level": "A2"
+    },
+    {
+      "de": "Sportplatz, ¨-e Das",
+      "example": "Fußballtraining ist um 17 Uhr auf dem",
+      "level": "A2"
+    },
+    {
+      "de": "Sprache, -n Welche",
+      "example": "Sprachen sprichst du? –Ich spreche",
+      "level": "A2"
+    },
+    {
+      "de": "Englisch",
+      "example": "und Spanisch.",
+      "level": "A2"
+    },
+    {
+      "de": "sitzen, sitzt",
+      "example": "möchten Sie sitzen? –Bitte ganz hinten.",
+      "level": "A2"
+    },
+    {
+      "de": "Sprech- Frau",
+      "example": "Doktor Weiß hat von 9:00 bis 12:30 Uhr",
+      "level": "A2"
+    },
+    {
+      "de": "Fahren",
+      "example": "Sie bitte nicht so schnell!",
+      "level": "A2"
+    },
+    {
+      "de": "Stadt, ¨-e Heidelberg",
+      "example": "ist eine alte Stadt.",
+      "level": "A2"
+    },
+    {
+      "de": "Stadtplan, ¨-e Haben",
+      "example": "Sie einen Stadtplan von Salzburg?",
+      "level": "A2"
+    },
+    {
+      "de": "Star, -s Diese",
+      "example": "Sängerin ist ein Star in Deutschland.",
+      "level": "A2"
+    },
+    {
+      "de": "sofort Bitte",
+      "example": "antworten Sie sofort. stark",
+      "level": "A2"
+    },
+    {
+      "de": "sogar Heute",
+      "example": "ist es sehr kalt. In den Bergen schneit es",
+      "level": "A2"
+    },
+    {
+      "de": "sogar.",
+      "example": "stattfinden,",
+      "level": "A2"
+    },
+    {
+      "de": "Zu",
+      "example": "meiner Hochzeit kommen viele Gäste. Sogar findet",
+      "level": "A2"
+    },
+    {
+      "de": "sollen, soll",
+      "example": "soll ich kommen und was soll ich mitbringen? stehen,",
+      "level": "A2"
+    },
+    {
+      "de": "steht",
+      "example": "Bus steht schon an der Haltestelle.",
+      "level": "A2"
+    },
+    {
+      "de": "sollte Und,",
+      "example": "was hat der Arzt gesagt? –Ich soll drei Tage hat/ist",
+      "level": "A2"
+    },
+    {
+      "de": "gestanden Ich",
+      "example": "bin Verkäuferin. In meinem Beruf muss ich",
+      "level": "A2"
+    },
+    {
+      "de": "Stelle, -n Ich",
+      "example": "habe eine neue Stelle. Ich arbeite jetzt bei",
+      "level": "A2"
+    },
+    {
+      "de": "sonnig Morgen",
+      "example": "ist das Wetter wieder warm und sonnig.",
+      "level": "A2"
+    },
+    {
+      "de": "sonst Haben",
+      "example": "Sie sonst noch einen Wunsch? –Nein danke,",
+      "level": "A2"
+    },
+    {
+      "de": "stellt",
+      "example": "die Milch bitte in den Kühlschrank!",
+      "level": "A2"
+    },
+    {
+      "de": "Beeil",
+      "example": "dich, sonst kommen wir zu spät!",
+      "level": "A2"
+    },
+    {
+      "de": "spannend Ich",
+      "example": "finde den Film sehr spannend.",
+      "level": "A2"
+    },
+    {
+      "de": "stirbt",
+      "example": "Müller kommt heute nicht. Sein Vater ist",
+      "level": "A2"
+    },
+    {
+      "de": "sparen, spart",
+      "example": "neues Auto ist sehr teuer. Ich muss sparen.",
+      "level": "A2"
+    },
+    {
+      "de": "gestorben gestern",
+      "example": "gestorben.",
+      "level": "A2"
+    },
+    {
+      "de": "Stiefel, - Wie",
+      "example": "viel kosten die roten Stiefel?",
+      "level": "A2"
+    },
+    {
+      "de": "Stift, -e Kannst",
+      "example": "du mir bitte einen Stift geben? - Was",
+      "level": "A2"
+    },
+    {
+      "de": "Stipen- Wenn",
+      "example": "ich ein gutes Zeugnis habe, bekomme ich",
+      "level": "A2"
+    },
+    {
+      "de": "spät Es",
+      "example": "ist schon spät, ich muss gehen.",
+      "level": "A2"
+    },
+    {
+      "de": "-en ein",
+      "example": "Stipendium.",
+      "level": "A2"
+    },
+    {
+      "de": "später Das",
+      "example": "können wir später machen.",
+      "level": "A2"
+    },
+    {
+      "de": "Stock, ¨-e; Unsere",
+      "example": "Wohnung liegt im ersten Stock.",
+      "level": "A2"
+    },
+    {
+      "de": "spazieren gehen",
+      "example": "gehen sonntags immer spazieren.",
+      "level": "A2"
+    },
+    {
+      "de": "Stockwerk, -e Das",
+      "example": "Gebäude hat zwanzig Stockwerke.",
+      "level": "A2"
+    },
+    {
+      "de": "gestört Darf",
+      "example": "ich Sie kurz stören?",
+      "level": "A2"
+    },
+    {
+      "de": "Strand, ¨-e Im",
+      "example": "Urlaub bin ich am liebsten am Strand.",
+      "level": "A2"
+    },
+    {
+      "de": "speichern",
+      "example": "müssen die Datei speichern.",
+      "level": "A2"
+    },
+    {
+      "de": "Straße, -n In",
+      "example": "welcher Straße wohnen Sie?",
+      "level": "A2"
+    },
+    {
+      "de": "Straßen- Fahren",
+      "example": "wir mit der Straßenbahn oder mit der",
+      "level": "A2"
+    },
+    {
+      "de": "Speisekarte.",
+      "example": "streiten",
+      "level": "A2"
+    },
+    {
+      "de": "Monopoly",
+      "example": "ist ein sehr bekanntes Spiel. hat",
+      "level": "A2"
+    },
+    {
+      "de": "streng Der",
+      "example": "Lehrer von meiner Tochter ist sehr streng. hat",
+      "level": "A2"
+    },
+    {
+      "de": "geteilt Mein",
+      "example": "Mann und ich teilen uns die Arbeit.",
+      "level": "A2"
+    },
+    {
+      "de": "stressig Meine",
+      "example": "Arbeit ist stressig.",
+      "level": "A2"
+    },
+    {
+      "de": "Telefon, -e Darf",
+      "example": "ich bitte Ihr Telefon benutzen?",
+      "level": "A2"
+    },
+    {
+      "de": "„Romeo",
+      "example": "und Julia“. telefonieren,",
+      "level": "A2"
+    },
+    {
+      "de": "Teller, - Stell",
+      "example": "die Teller bitte auf den Tisch!",
+      "level": "A2"
+    },
+    {
+      "de": "studieren",
+      "example": "studiere in Mainz.",
+      "level": "A2"
+    },
+    {
+      "de": "Tennis (Sg.) Steffi",
+      "example": "spielt sehr gut Tennis.",
+      "level": "A2"
+    },
+    {
+      "de": "Termin, -e Am",
+      "example": "besten machen wir sofort einen Termin.",
+      "level": "A2"
+    },
+    {
+      "de": "suchen, sucht",
+      "example": "du etwas?",
+      "level": "A2"
+    },
+    {
+      "de": "Text, -e Lesen",
+      "example": "Sie bitte den Text.",
+      "level": "A2"
+    },
+    {
+      "de": "Theater, - Ich",
+      "example": "gehe nicht gern ins Theater.",
+      "level": "A2"
+    },
+    {
+      "de": "super Der",
+      "example": "Film ist super.",
+      "level": "A2"
+    },
+    {
+      "de": "Thema, -en Heute",
+      "example": "heißt unser Thema: „Essen und Trinken“.",
+      "level": "A2"
+    },
+    {
+      "de": "Ticket, -s Wie",
+      "example": "viel kostet das Ticket?",
+      "level": "A2"
+    },
+    {
+      "de": "Vorsicht,",
+      "example": "das Wasser ist tief!",
+      "level": "A2"
+    },
+    {
+      "de": "Tier, -e Wir",
+      "example": "dürfen keine Tiere in der Wohnung haben.",
+      "level": "A2"
+    },
+    {
+      "de": "Tipp, -s Kannst",
+      "example": "du mir einen guten Tipp geben?",
+      "level": "A2"
+    },
+    {
+      "de": "süß Ich",
+      "example": "finde die Torte zu süß.",
+      "level": "A2"
+    },
+    {
+      "de": "Tisch, -e Das",
+      "example": "Essen steht schon auf dem Tisch.",
+      "level": "A2"
+    },
+    {
+      "de": "Titel, - Wie",
+      "example": "heißt der Film? - Ich weiß den Titel nicht mehr.",
+      "level": "A2"
+    },
+    {
+      "de": "Toilette, -n Wo",
+      "example": "ist die Toilette, bitte?",
+      "level": "A2"
+    },
+    {
+      "de": "(Pl.) -",
+      "example": "Schokolade und Eis.",
+      "level": "A2"
+    },
+    {
+      "de": "sympathisch Der",
+      "example": "neue Chef ist sehr sympathisch. toll",
+      "level": "A2"
+    },
+    {
+      "de": "Tomate, -n Die",
+      "example": "Tomate ist noch grün.",
+      "level": "A2"
+    },
+    {
+      "de": "Topf, ¨-e Hast",
+      "example": "du keinen größeren Topf? Ich möchte",
+      "level": "A2"
+    },
+    {
+      "de": "Torte, -n Zum",
+      "example": "Geburtstag backe ich dir eine Torte.",
+      "level": "A2"
+    },
+    {
+      "de": "Tour, -en Wo",
+      "example": "kann ich eine Stadttour buchen?",
+      "level": "A2"
+    },
+    {
+      "de": "tanzen, tanzt",
+      "example": "Sie gern?",
+      "level": "A2"
+    },
+    {
+      "de": "Tourist, -en",
+      "example": "Sommer kommen viele Touristen in diese Stadt.",
+      "level": "A2"
+    },
+    {
+      "de": "trägt",
+      "example": "kann den Koffer nicht tragen, er ist zu schwer.",
+      "level": "A2"
+    },
+    {
+      "de": "getragen Er",
+      "example": "trägt heute einen blauen Anzug.",
+      "level": "A2"
+    },
+    {
+      "de": "(aus)tauschen",
+      "example": "wir bitte die Plätze tauschen?",
+      "level": "A2"
+    },
+    {
+      "de": "tauscht (aus)",
+      "example": "wir unsere Adressen austauschen? das",
+      "level": "A2"
+    },
+    {
+      "de": "Training, -s Das",
+      "example": "Training ist immer dienstags.",
+      "level": "A2"
+    },
+    {
+      "de": "Traum, ¨-e Ich",
+      "example": "möchte eine eigene Firma, das ist mein Traum.",
+      "level": "A2"
+    },
+    {
+      "de": "teilen, teilt",
+      "example": "wir die Pizza teilen?",
+      "level": "A2"
+    },
+    {
+      "de": "trifft,",
+      "example": "Wir treffen uns immer freitags.",
+      "level": "A2"
+    },
+    {
+      "de": "unbedingt",
+      "example": "Ich muss unbedingt mit dir sprechen.",
+      "level": "A2"
+    },
+    {
+      "de": "trinken, trinkt,",
+      "example": "Möchtest du etwas trinken?",
+      "level": "A2"
+    },
+    {
+      "de": "unten",
+      "example": "Er wohnt ganz unten im Haus.",
+      "level": "A2"
+    },
+    {
+      "de": "trocken",
+      "example": "Die Wäsche ist bald trocken.",
+      "level": "A2"
+    },
+    {
+      "de": "unter",
+      "example": "Unter uns wohnt eine Familie mit drei Kindern.",
+      "level": "A2"
+    },
+    {
+      "de": "tschüs",
+      "example": "Tschüs, bis morgen!",
+      "level": "A2"
+    },
+    {
+      "de": "unterhalten (sich),",
+      "example": "Andreas und Nessrin unterhalten sich.",
+      "level": "A2"
+    },
+    {
+      "de": "unterhält,",
+      "example": "Wir haben uns über das Fußballspiel unterhalten.",
+      "level": "A2"
+    },
+    {
+      "de": "unternehmen,",
+      "example": "Wollen wir heute Abend etwas unternehmen?",
+      "level": "A2"
+    },
+    {
+      "de": "typisch",
+      "example": "Diese Musik ist typisch für dieses Land.",
+      "level": "A2"
+    },
+    {
+      "de": "üben, übt,",
+      "example": "Ich lerne gerade Gitarre spielen. Ich übe jeden Tag",
+      "level": "A2"
+    },
+    {
+      "de": "über",
+      "example": "Gehen Sie lieber hier über die Straße.",
+      "level": "A2"
+    },
+    {
+      "de": "überall",
+      "example": "Ich habe überall gesucht, aber ich kann meine Brille",
+      "level": "A2"
+    },
+    {
+      "de": "untersuchen,",
+      "example": "Der Arzt hat mich untersucht.",
+      "level": "A2"
+    },
+    {
+      "de": "untersucht,",
+      "example": "Der Arzt muss dein Bein untersuchen.",
+      "level": "A2"
+    },
+    {
+      "de": "übermorgen",
+      "example": "Morgen habe ich frei. Ich komme übermorgen",
+      "level": "A2"
+    },
+    {
+      "de": "unterwegs sein,",
+      "example": "Warte bitte auf mich. Ich bin unterwegs und",
+      "level": "A2"
+    },
+    {
+      "de": "übernachten,",
+      "example": "Du kannst bei mir übernachten.",
+      "level": "A2"
+    },
+    {
+      "de": "übersetzen,",
+      "example": "Können Sie mir den Brief bitte übersetzen?",
+      "level": "A2"
+    },
+    {
+      "de": "verabredet sein,",
+      "example": "Ich bin mit meiner Freundin verabredet.",
+      "level": "A2"
+    },
+    {
+      "de": "überweisen,",
+      "example": "Sie können das Geld auch überweisen.",
+      "level": "A2"
+    },
+    {
+      "de": "überweist,",
+      "example": "Ich überweise dir das Geld.",
+      "level": "A2"
+    },
+    {
+      "de": "tung",
+      "example": "haben eine Veranstaltung.",
+      "level": "A2"
+    },
+    {
+      "de": "verbieten /",
+      "example": "Hier ist Rauchen verboten.",
+      "level": "A2"
+    },
+    {
+      "de": "verdienen,",
+      "example": "Ich verdiene 1.500 Euro im Monat.",
+      "level": "A2"
+    },
+    {
+      "de": "umsteigen,",
+      "example": "Sie müssen in Mannheim umsteigen.",
+      "level": "A2"
+    },
+    {
+      "de": "umziehen,",
+      "example": "Nächsten Monat ziehen wir um.",
+      "level": "A2"
+    },
+    {
+      "de": "vereinbaren,",
+      "example": "Können wir einen Termin vereinbaren?",
+      "level": "A2"
+    },
+    {
+      "de": "sich umziehen,",
+      "example": "Warte bitte, ich muss mich noch umziehen.",
+      "level": "A2"
+    },
+    {
+      "de": "vergessen,",
+      "example": "Ich habe meine Hausaufgaben vergessen.",
+      "level": "A2"
+    },
+    {
+      "de": "vergisst,",
+      "example": "Vergiss deinen Arzttermin nicht!",
+      "level": "A2"
+    },
+    {
+      "de": "vergleichen",
+      "example": "Sie die Angebote! der",
+      "level": "A2"
+    },
+    {
+      "de": "Volleyball, ¨-e Ich",
+      "example": "spiele gern Volleyball.",
+      "level": "A2"
+    },
+    {
+      "de": "vergleicht",
+      "example": "wir die Antworten vergleichen?",
+      "level": "A2"
+    },
+    {
+      "de": "verkaufen",
+      "example": "verkauft sein altes Auto.",
+      "level": "A2"
+    },
+    {
+      "de": "mittel",
+      "example": "vorbereiten,",
+      "level": "A2"
+    },
+    {
+      "de": "verletzen (sich)",
+      "example": "Sie verletzt? –Ja, am Bein. bereitet",
+      "level": "A2"
+    },
+    {
+      "de": "verletzt",
+      "example": "Sie sich verletzt? hat",
+      "level": "A2"
+    },
+    {
+      "de": "vorbereitet Ich",
+      "example": "muss mich auf meine Prüfung vorbereiten.",
+      "level": "A2"
+    },
+    {
+      "de": "verlieben (sich)",
+      "example": "bin total verliebt.",
+      "level": "A2"
+    },
+    {
+      "de": "verlieren",
+      "example": "habe meinen Schlüssel verloren.",
+      "level": "A2"
+    },
+    {
+      "de": "Vorname, -n Ich",
+      "example": "heiße Müller, mein Vorname ist Eva.",
+      "level": "A2"
+    },
+    {
+      "de": "verliert",
+      "example": "hat seine Arbeit verloren.",
+      "level": "A2"
+    },
+    {
+      "de": "Vorschlag, ¨-e Was",
+      "example": "machen wir am Wochenende? Hast du einen",
+      "level": "A2"
+    },
+    {
+      "de": "vermieten",
+      "example": "Wohnung ist schon vermietet.",
+      "level": "A2"
+    },
+    {
+      "de": "Sei",
+      "example": "vorsichtig!",
+      "level": "A2"
+    },
+    {
+      "de": "verpassen",
+      "example": "habe den Zug verpasst.",
+      "level": "A2"
+    },
+    {
+      "de": "vorgestellt Darf",
+      "example": "ich Ihnen meine Frau vorstellen?",
+      "level": "A2"
+    },
+    {
+      "de": "verreisen",
+      "example": "ihr in den Ferien?",
+      "level": "A2"
+    },
+    {
+      "de": "verreist",
+      "example": "Doktor Müller ist zur Zeit verreist. Sie kommt",
+      "level": "A2"
+    },
+    {
+      "de": "verschieben",
+      "example": "muss ich den Termin verschieben. wach",
+      "level": "A2"
+    },
+    {
+      "de": "Bist",
+      "example": "du schon lange wach?",
+      "level": "A2"
+    },
+    {
+      "de": "Wagen, – Wo",
+      "example": "steht Ihr Wagen?",
+      "level": "A2"
+    },
+    {
+      "de": "verschieden Unsere",
+      "example": "beiden Kinder sind sehr verschieden.",
+      "level": "A2"
+    },
+    {
+      "de": "wählt",
+      "example": "müssen erst eine Null wählen.",
+      "level": "A2"
+    },
+    {
+      "de": "gewählt Wählen",
+      "example": "Sie bitte ein Getränk.",
+      "level": "A2"
+    },
+    {
+      "de": "verstehen",
+      "example": "Sie mich verstehen?",
+      "level": "A2"
+    },
+    {
+      "de": "versteht",
+      "example": "verstehe diese Aufgabe nicht.",
+      "level": "A2"
+    },
+    {
+      "de": "Wahrscheinlich",
+      "example": "mache ich im Herbst einen",
+      "level": "A2"
+    },
+    {
+      "de": "versuchen",
+      "example": "ich es auch einmal versuchen?",
+      "level": "A2"
+    },
+    {
+      "de": "versucht",
+      "example": "Sie es schon einmal mit diesem Mittel",
+      "level": "A2"
+    },
+    {
+      "de": "Wald, ¨-er Im",
+      "example": "Wald ist es ruhig.",
+      "level": "A2"
+    },
+    {
+      "de": "viel, e Ich",
+      "example": "habe leider nicht viel Zeit. wandert,",
+      "level": "A2"
+    },
+    {
+      "de": "vielleicht Vielleicht",
+      "example": "bekomme ich diesen Job.",
+      "level": "A2"
+    },
+    {
+      "de": "Mittags",
+      "example": "esse ich oft ein warmes Essen.",
+      "level": "A2"
+    },
+    {
+      "de": "Morgens",
+      "example": "singen die Vögel immer laut.",
+      "level": "A2"
+    },
+    {
+      "de": "voll Morgens",
+      "example": "und abends sind die Züge immer sehr voll.",
+      "level": "A2"
+    },
+    {
+      "de": "Wenn",
+      "example": "ich nicht arbeiten muss, komme ich.",
+      "level": "A2"
+    },
+    {
+      "de": "(wen, wem) Wer",
+      "example": "ist das?",
+      "level": "A2"
+    },
+    {
+      "de": "wird",
+      "example": "Sohn will Arzt werden.",
+      "level": "A2"
+    },
+    {
+      "de": "waschen (sich)",
+      "example": "kann ich mir die Hände waschen? ist",
+      "level": "A2"
+    },
+    {
+      "de": "geworden Das",
+      "example": "Wetter am Wochenende wird gut. Das haben",
+      "level": "A2"
+    },
+    {
+      "de": "Werkstatt, ¨-en Mein",
+      "example": "Auto ist kaputt. Es ist in der Werkstatt.",
+      "level": "A2"
+    },
+    {
+      "de": "Wettbewerb",
+      "example": "Sohn hat bei einem Wettbewerb gewonnen.",
+      "level": "A2"
+    },
+    {
+      "de": "Wetter (Sg.) Heute",
+      "example": "ist das Wetter gut: Es ist sonnig und warm.",
+      "level": "A2"
+    },
+    {
+      "de": "wechseln",
+      "example": "müssen den Reifen wechseln.",
+      "level": "A2"
+    },
+    {
+      "de": "wechselt",
+      "example": "Sie mir zehn Dollar wechseln?",
+      "level": "A2"
+    },
+    {
+      "de": "wecken",
+      "example": "wecken Sie mich morgen früh um fünf.",
+      "level": "A2"
+    },
+    {
+      "de": "weg/weg- Meine",
+      "example": "Brille ist weg. Ich finde sie nicht mehr.",
+      "level": "A2"
+    },
+    {
+      "de": "(wegbringen/ Bringst",
+      "example": "du bitte den Müll weg?",
+      "level": "A2"
+    },
+    {
+      "de": "-fahren/-gehen/ Können",
+      "example": "Sie Ihr Auto bitte wegfahren?",
+      "level": "A2"
+    },
+    {
+      "de": "-laufen/-machen/ Ich",
+      "example": "gehe jetzt weg.",
+      "level": "A2"
+    },
+    {
+      "de": "-nehmen/-werfen) Unser",
+      "example": "Hund ist weggelaufen.",
+      "level": "A2"
+    },
+    {
+      "de": "Stefan",
+      "example": "kann wieder zum Fußballtraining kommen.",
+      "level": "A2"
+    },
+    {
+      "de": "wegen Wegen",
+      "example": "seiner Arbeit kann er leider nicht kommen.",
+      "level": "A2"
+    },
+    {
+      "de": "Wiederhören, - Wir",
+      "example": "müssen jetzt Schluss machen. Also auf",
+      "level": "A2"
+    },
+    {
+      "de": "wehtun",
+      "example": "tut es weh?",
+      "level": "A2"
+    },
+    {
+      "de": "tut weh",
+      "example": "will dir nicht wehtun.",
+      "level": "A2"
+    },
+    {
+      "de": "Wiedersehen, - Auf",
+      "example": "Wiedersehen!",
+      "level": "A2"
+    },
+    {
+      "de": "Herzlich",
+      "example": "willkommen in Berlin!",
+      "level": "A2"
+    },
+    {
+      "de": "weiblich Wählen",
+      "example": "Sie bitte: „weiblich“ oder „männlich“.",
+      "level": "A2"
+    },
+    {
+      "de": "Wind, -e Der",
+      "example": "Wind ist kalt.",
+      "level": "A2"
+    },
+    {
+      "de": "weich Ich",
+      "example": "möchte zum Frühstück ein weiches Ei.",
+      "level": "A2"
+    },
+    {
+      "de": "weil Ich",
+      "example": "kann nicht kommen, weil ich arbeiten muss.",
+      "level": "A2"
+    },
+    {
+      "de": "gewusst Woher",
+      "example": "wissen Sie das?",
+      "level": "A2"
+    },
+    {
+      "de": "weinen, weint",
+      "example": "weint das Baby?",
+      "level": "A2"
+    },
+    {
+      "de": "Witz, -e Wir",
+      "example": "haben Witze erzählt und viel gelacht.",
+      "level": "A2"
+    },
+    {
+      "de": "weit Zum",
+      "example": "Bahnhof ist es nicht weit. witzig",
+      "level": "A2"
+    },
+    {
+      "de": "weiter Der",
+      "example": "Bus fährt nicht weiter.",
+      "level": "A2"
+    },
+    {
+      "de": "machen/-helfen) Entschuldigung,",
+      "example": "können Sie mir bitte weiterhelfen?",
+      "level": "A2"
+    },
+    {
+      "de": "welcher, -e",
+      "example": "Tag ist heute?",
+      "level": "A2"
+    },
+    {
+      "de": "wohnt",
+      "example": "wohne in Kiel.",
+      "level": "A2"
+    },
+    {
+      "de": "Wohnung, -en Haben",
+      "example": "Sie schon eine neue Wohnung gefunden?",
+      "level": "A2"
+    },
+    {
+      "de": "wenig, -e Ich",
+      "example": "habe leider nur wenig verstanden.",
+      "level": "A2"
+    },
+    {
+      "de": "Wohnzimmer, - Die",
+      "example": "Kinder sitzen im Wohnzimmer und sehen fern.",
+      "level": "A2"
+    },
+    {
+      "de": "wenigstens Ich",
+      "example": "habe keinen Hunger. - Ach, essen Sie",
+      "level": "A2"
+    },
+    {
+      "de": "Zimmer, - Das",
+      "example": "Zimmer ist am größten.",
+      "level": "A2"
+    },
+    {
+      "de": "Zirkus, -se Heute",
+      "example": "gehen wir mit den Kindern in den Zirkus.",
+      "level": "A2"
+    },
+    {
+      "de": "Zitrone, -n Ich",
+      "example": "trinke den Tee mit Zitrone.",
+      "level": "A2"
+    },
+    {
+      "de": "Lucia",
+      "example": "mag Zitroneneis.",
+      "level": "A2"
+    },
+    {
+      "de": "Zoo, -s Am",
+      "example": "Sonntag gehen wir in den Zoo.",
+      "level": "A2"
+    },
+    {
+      "de": "wunderbar Diese",
+      "example": "Schokolade schmeckt wunderbar.",
+      "level": "A2"
+    },
+    {
+      "de": "Zucker (Sg.) Trinken",
+      "example": "Sie den Tee mit oder ohne Zucker?",
+      "level": "A2"
+    },
+    {
+      "de": "Zuerst",
+      "example": "müsst ihr die Hausaufgaben machen, dann",
+      "level": "A2"
+    },
+    {
+      "de": "könnt",
+      "example": "ihr spielen.",
+      "level": "A2"
+    },
+    {
+      "de": "wünschen Ich",
+      "example": "wünsche mir eine Kamera zum Geburtstag.",
+      "level": "A2"
+    },
+    {
+      "de": "zahlen, zahlt, Entschuldigung,",
+      "example": "zahlen bitte!",
+      "level": "A2"
+    },
+    {
+      "de": "Beispiel Mein",
+      "example": "Freund hat viele Hobbys, zum Beispiel",
+      "level": "A2"
+    },
+    {
+      "de": "zeichnen",
+      "example": "kann gut zeichnen. Sieh mal das Bild hier.",
+      "level": "A2"
+    },
+    {
+      "de": "Machst",
+      "example": "du bitte das Fenster zu?",
+      "level": "A2"
+    },
+    {
+      "de": "zeigen, zeigt",
+      "example": "Sie mir bitte den Weg zum Bahnhof zeigen?",
+      "level": "A2"
+    },
+    {
+      "de": "geben",
+      "example": "muss ich das Buch zurückgeben?",
+      "level": "A2"
+    },
+    {
+      "de": "Wohnst",
+      "example": "du im Zentrum? - Nein, ich wohne nicht zusammen",
+      "level": "A2"
+    },
+    {
+      "de": "direkt",
+      "example": "in der Stadt.",
+      "level": "A2"
+    },
+    {
+      "de": "notieren.",
+      "example": "zwischen",
+      "level": "A2"
+    },
+    {
+      "de": "Heidelberg",
+      "example": "liegt zwischen Frankfurt und Stuttgart.",
+      "level": "A2"
+    },
+    {
+      "de": "Zwischen",
+      "example": "acht und zehn Uhr bin ich zu Hause.",
+      "level": "A2"
+    },
+    {
+      "de": "(an-)/(aus)ziehen",
+      "example": "ziehe (mir) eine Jacke an.",
+      "level": "A2"
+    },
+    {
+      "de": "zieht (an/aus)",
+      "example": "hat sein T-Shirt ausgezogen und ein Hemd",
+      "level": "A2"
+    },
+    {
+      "de": "(an/aus)gezogen Die",
+      "example": "Nachbarn sind am Wochenende ausgezogen.",
+      "level": "A2"
+    }
+  ]
+}

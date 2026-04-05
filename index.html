@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Almanca A1/A2 — Kelime Öğrenme</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- TOP NAVBAR (desktop) -->
+<nav class="navbar">
+  <span class="navbar-brand">🇩🇪 <span>Almanca</span> A1/A2</span>
+  <button class="nav-btn" data-screen="dashboard" onclick="showScreen('dashboard')">🏠 Ana Sayfa</button>
+  <button class="nav-btn" data-screen="categories" onclick="showScreen('categories')">📂 Kategoriler</button>
+  <button class="nav-btn" data-screen="grammar" onclick="showScreen('grammar')">📖 Gramer</button>
+  <button class="nav-btn" data-screen="words" onclick="showScreen('words')">📋 Kelimeler</button>
+  <button class="nav-btn" data-screen="speak" onclick="showScreen('speak')">🗣️ Konuşma</button>
+  <button class="nav-btn" data-screen="games" onclick="showScreen('games')">🎮 Oyunlar</button>
+  <button class="nav-btn" data-screen="progress" onclick="showScreen('progress')">📊 İlerleme</button>
+</nav>
+
+<!-- BOTTOM NAV (mobile) -->
+<nav class="bottom-nav">
+  <div class="bottom-nav-inner">
+    <button class="bottom-nav-btn" data-screen="dashboard" onclick="showScreen('dashboard')">
+      <span class="bnav-icon">🏠</span>Ana Sayfa
+    </button>
+    <button class="bottom-nav-btn" data-screen="categories" onclick="showScreen('categories')">
+      <span class="bnav-icon">📂</span>Kategoriler
+    </button>
+    <button class="bottom-nav-btn" data-screen="grammar" onclick="showScreen('grammar')">
+      <span class="bnav-icon">📖</span>Gramer
+    </button>
+    <button class="bottom-nav-btn" data-screen="words" onclick="showScreen('words')">
+      <span class="bnav-icon">📋</span>Kelimeler
+    </button>
+    <button class="bottom-nav-btn" data-screen="speak" onclick="showScreen('speak')">
+      <span class="bnav-icon">🗣️</span>Konuşma
+    </button>
+    <button class="bottom-nav-btn" data-screen="games" onclick="showScreen('games')">
+      <span class="bnav-icon">🎮</span>Oyunlar
+    </button>
+    <button class="bottom-nav-btn" data-screen="progress" onclick="showScreen('progress')">
+      <span class="bnav-icon">📊</span>İlerleme
+    </button>
+  </div>
+</nav>
+
+<!-- ==================== PLACEMENT TEST ==================== -->
+<div class="screen" id="screen-placement">
+
+  <!-- Header -->
+  <div class="pl-header">
+    <div class="pl-header-top">
+      <div>
+        <div class="pl-title">Seviye Belirleme Sınavı</div>
+        <div class="pl-subtitle">Her kelimeyi gör, bilip bilmediğine karar ver</div>
+      </div>
+      <span id="pl-counter" class="pl-counter">1 / 25</span>
+    </div>
+    <div class="pl-progress-outer">
+      <div class="pl-progress-inner" id="pl-progress-bar" style="width:0%"></div>
+    </div>
+  </div>
+
+  <!-- Word card -->
+  <div id="pl-card" class="pl-card">
+    <span id="pl-level" class="pl-level-badge pl-level-A1">A1</span>
+    <div id="pl-word" class="pl-word">die Mutter</div>
+    <div class="pl-question">Bu kelimeyi biliyor musun?</div>
+
+    <!-- Reveal button -->
+    <button id="pl-btn-reveal" class="btn btn-outline" onclick="revealPlacement()" style="margin-top:20px">
+      👁 Çeviriyi Gör
+    </button>
+
+    <!-- Translation (hidden until reveal) -->
+    <div id="pl-translation-wrap" class="pl-translation-wrap" style="display:none">
+      <div id="pl-translation" class="pl-translation">anne</div>
+      <div id="pl-example" class="pl-example-text"></div>
+    </div>
+
+    <!-- Answer buttons -->
+    <div id="pl-answer-btns" class="pl-answer-btns" style="display:none">
+      <button class="pl-btn-no" onclick="answerPlacement(false)">
+        <span class="pl-btn-icon">❌</span>
+        <span>Bilmiyorum</span>
+      </button>
+      <button class="pl-btn-yes" onclick="answerPlacement(true)">
+        <span class="pl-btn-icon">✅</span>
+        <span>Biliyorum</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- Result screen -->
+  <div id="pl-result" class="pl-result" style="display:none">
+    <div class="pl-result-emoji">🎯</div>
+    <div class="pl-result-title">Sınav Tamamlandı!</div>
+    <div class="pl-result-level-badge" id="pl-result-level">A1</div>
+    <div class="pl-result-msg" id="pl-result-msg">A1'den başlamak en doğrusu.</div>
+
+    <div class="pl-result-stats">
+      <div class="pl-result-stat pl-stat-known">
+        <span class="pl-stat-num" id="pl-result-known">0</span>
+        <span class="pl-stat-lbl">✅ Biliyor</span>
+      </div>
+      <div class="pl-result-stat pl-stat-pct">
+        <span class="pl-stat-num" id="pl-result-pct">0%</span>
+        <span class="pl-stat-lbl">Başarı</span>
+      </div>
+      <div class="pl-result-stat pl-stat-unknown">
+        <span class="pl-stat-num" id="pl-result-unknown">0</span>
+        <span class="pl-stat-lbl">❌ Bilmiyor</span>
+      </div>
+    </div>
+
+    <div style="display:flex;flex-direction:column;gap:10px;width:100%">
+      <button id="pl-btn-study-unknown" class="btn btn-primary btn-full" onclick="studyUnknownWords()">
+        📚 Bilmediğin kelimeleri şimdi çalış
+      </button>
+      <button class="btn btn-outline btn-full" onclick="finishPlacement()">
+        Ana Sayfaya Git →
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== DASHBOARD ==================== -->
+<div class="screen" id="screen-dashboard">
+
+  <!-- Daily Task Hero -->
+  <div class="daily-task-card">
+    <h2>📅 Günlük Görev</h2>
+    <p id="daily-task-status">Yükleniyor...</p>
+    <div class="task-progress-row">
+      <div class="progress-bar-outer" style="flex:1">
+        <div class="progress-bar-inner" id="goal-progress-bar" style="width:0%"></div>
+      </div>
+      <span class="task-progress-text" id="goal-progress-text">0 / 20</span>
+    </div>
+    <button class="btn btn-white btn-large" id="btn-daily-study"
+      onclick="startFlashSession(getDailyWords(appData))">
+      ▶ Günlük Çalışmaya Başla
+    </button>
+  </div>
+
+  <!-- Stats grid -->
+  <div class="dashboard-header">
+    <div class="stat-card">
+      <span class="stat-number" id="stat-known">0</span>
+      <span class="stat-label">✅ Öğrenilen</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-number" id="stat-learning">0</span>
+      <span class="stat-label">🔄 Öğreniliyor</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-number" id="stat-new">600</span>
+      <span class="stat-label">🆕 Yeni</span>
+    </div>
+    <div class="stat-card">
+      <span class="streak-fire" id="streak-display">🌱</span>
+      <span class="stat-label">🔥 Seri: <strong id="stat-streak">0</strong></span>
+    </div>
+  </div>
+
+  <!-- Goal progress -->
+  <div class="card">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px">
+      <strong style="font-size:0.9rem">🎯 2 Aylık Hedef: 600 Kelime</strong>
+      <span style="font-size:0.8rem;color:var(--text-muted)" id="main-progress-text">0/600</span>
+    </div>
+    <div class="progress-bar-outer">
+      <div class="progress-bar-inner" id="main-progress-bar" style="width:0%"></div>
+    </div>
+  </div>
+
+  <!-- Quick Actions -->
+  <div class="section-label">⚡ Hızlı Başlat</div>
+  <div class="quick-actions">
+    <div class="quick-action-btn" onclick="startFlashSession(getDailyWords(appData))">
+      <span class="quick-action-icon">📚</span>
+      <span class="quick-action-label">Günlük</span>
+    </div>
+    <div class="quick-action-btn" onclick="startFlashSession(WORDS.filter(w => (appData.wordStatus[w.id]||'new')==='learning').slice(0,20))">
+      <span class="quick-action-icon">🔄</span>
+      <span class="quick-action-label">Tekrar Et</span>
+    </div>
+    <div class="quick-action-btn" onclick="startQuizMode(WORDS.filter(w => (appData.wordStatus[w.id]||'new')!=='new'))">
+      <span class="quick-action-icon">🧠</span>
+      <span class="quick-action-label">Quiz Yap</span>
+    </div>
+    <div class="quick-action-btn" onclick="startFlashSession(WORDS.filter(w=>w.level==='A1').slice(0,20))">
+      <span class="quick-action-icon">🔤</span>
+      <span class="quick-action-label">A1 Kelimeler</span>
+    </div>
+    <div class="quick-action-btn" onclick="startFlashSession(WORDS.filter(w=>w.level==='A2').slice(0,20))">
+      <span class="quick-action-icon">📗</span>
+      <span class="quick-action-label">A2 Kelimeler</span>
+    </div>
+    <div class="quick-action-btn" onclick="showScreen('grammar')">
+      <span class="quick-action-icon">📖</span>
+      <span class="quick-action-label">Gramer</span>
+    </div>
+    <div class="quick-action-btn" onclick="showScreen('speak')">
+      <span class="quick-action-icon">🗣️</span>
+      <span class="quick-action-label">Konuşma</span>
+    </div>
+    <div class="quick-action-btn" onclick="showScreen('games')">
+      <span class="quick-action-icon">🎮</span>
+      <span class="quick-action-label">Oyunlar</span>
+    </div>
+  </div>
+
+  <div style="text-align:right;margin-top:8px">
+    <button class="btn btn-outline" id="btn-reset" style="font-size:0.8rem;padding:7px 14px">
+      🗑️ Sıfırla
+    </button>
+  </div>
+</div>
+
+<!-- ==================== FLASHCARD SCREEN ==================== -->
+<div class="screen" id="screen-flashcard">
+  <div class="screen-header">
+    <button class="back-btn" onclick="showScreen('dashboard')">← Geri</button>
+    <span class="screen-title">Kelime Kartları</span>
+    <span id="card-counter" style="margin-left:auto;color:var(--text-muted);font-size:0.875rem">1/20</span>
+  </div>
+
+  <!-- Session dots -->
+  <div id="session-dots" class="session-bar"></div>
+
+  <!-- Flashcard -->
+  <div class="flashcard-container" onclick="flipCard()">
+    <div class="flashcard" id="flashcard">
+      <!-- FRONT -->
+      <div class="flashcard-face flashcard-front">
+        <span class="card-level-badge" id="card-level">A1</span>
+        <span class="card-category-badge" id="card-category">Aile</span>
+        <div class="card-emoji" id="card-emoji">👩</div>
+        <div class="card-word" id="card-word">die Mutter</div>
+        <div class="card-hint">Türkçesini düşün →</div>
+      </div>
+      <!-- BACK -->
+      <div class="flashcard-face flashcard-back">
+        <div class="card-translation" id="card-translation">anne</div>
+        <div class="card-example" id="card-example">Meine Mutter kocht sehr gut.</div>
+        <!-- 5 example sentences -->
+        <div class="card-sentences" id="card-sentences">
+          <div class="card-sentences-title">📝 A1 Örnek Cümleler</div>
+          <div id="sentences-list"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <p id="card-flip-hint" class="keyboard-hint">
+    Tıkla veya <kbd>Space</kbd> — kartı çevir
+  </p>
+
+  <!-- Rating buttons -->
+  <div id="rating-buttons" class="rating-buttons" style="opacity:0;pointer-events:none;margin-top:16px">
+    <button class="rating-btn unknown" onclick="rateCard('unknown')">❌ Bilmiyorum <kbd>1</kbd></button>
+    <button class="rating-btn partial" onclick="rateCard('partial')">😐 Az Biliyorum <kbd>2</kbd></button>
+    <button class="rating-btn known" onclick="rateCard('known')">✅ Biliyorum <kbd>3</kbd></button>
+  </div>
+
+  <p class="keyboard-hint" style="margin-top:12px">Çevirdikten sonra: <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd></p>
+</div>
+
+<!-- ==================== QUIZ SCREEN ==================== -->
+<div class="screen" id="screen-quiz">
+  <div class="screen-header">
+    <button class="back-btn" onclick="showScreen('dashboard')">← Geri</button>
+    <span class="screen-title">Quiz Modu</span>
+    <span id="quiz-score" style="margin-left:auto;color:var(--accent);font-weight:700">Puan: 0</span>
+  </div>
+
+  <div class="quiz-question-card">
+    <div id="quiz-counter" style="font-size:0.82rem;color:var(--text-muted);margin-bottom:10px">Soru 1/10</div>
+    <div class="quiz-question-word" id="quiz-word">kaufen</div>
+    <div class="quiz-question-hint">Bu kelimenin Türkçesi nedir?</div>
+  </div>
+
+  <div class="quiz-options" id="quiz-options"></div>
+</div>
+
+<!-- ==================== CATEGORIES SCREEN ==================== -->
+<div class="screen" id="screen-categories">
+  <div class="screen-header">
+    <span class="screen-title">📂 Kategoriler</span>
+  </div>
+  <div class="categories-grid" id="categories-grid"></div>
+</div>
+
+<!-- ==================== CATEGORY DETAIL ==================== -->
+<div class="screen" id="screen-category-detail">
+  <div class="screen-header">
+    <button class="back-btn" onclick="showScreen('categories')">← Geri</button>
+    <span class="screen-title" id="cat-detail-title">Kategori</span>
+    <span id="cat-detail-count" style="margin-left:auto;color:var(--text-muted);font-size:0.85rem"></span>
+  </div>
+
+  <div style="display:flex;gap:10px;margin-bottom:16px;flex-wrap:wrap">
+    <button class="btn btn-primary" id="btn-cat-study">📚 Çalış</button>
+    <button class="btn btn-outline" id="btn-cat-quiz">🧠 Quiz Yap</button>
+  </div>
+
+  <div class="card word-table-wrap">
+    <table class="word-table">
+      <thead>
+        <tr><th>Almanca</th><th>Türkçe</th><th>Seviye</th><th>Durum</th></tr>
+      </thead>
+      <tbody id="cat-word-list"></tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ==================== GRAMMAR SCREEN ==================== -->
+<div class="screen" id="screen-grammar">
+  <div class="screen-header">
+    <span class="screen-title">📖 Gramer Konuları</span>
+  </div>
+  <p style="color:var(--text-muted);font-size:0.875rem;margin-bottom:16px">
+    Her konuya tıklayarak kural açıklamaları ve mini quiz'e ulaşabilirsin.
+  </p>
+  <div class="grammar-grid" id="grammar-grid"></div>
+</div>
+
+<!-- ==================== GRAMMAR DETAIL ==================== -->
+<div class="screen" id="screen-grammar-detail">
+  <div class="screen-header">
+    <button class="back-btn" onclick="showScreen('grammar')">← Geri</button>
+    <span class="screen-title" id="grammar-detail-title">Gramer Konusu</span>
+    <span id="grammar-detail-level" class="grammar-card-level" style="margin-left:auto">A1</span>
+  </div>
+
+  <div class="card">
+    <p id="grammar-detail-desc" style="color:var(--text-secondary);line-height:1.65;margin-bottom:16px;font-size:0.9rem"></p>
+    <div id="grammar-rules"></div>
+  </div>
+
+  <div id="grammar-tips-section">
+    <div class="section-label">💡 İpuçları</div>
+    <div id="grammar-tips"></div>
+  </div>
+
+  <div id="grammar-examples-section" style="margin-top:16px">
+    <div class="section-label">📝 Örnek Cümleler</div>
+    <div class="card" id="grammar-examples"></div>
+  </div>
+
+  <div style="margin-top:20px">
+    <div class="section-label">🎯 Mini Quiz</div>
+    <div id="grammar-quiz-container"></div>
+  </div>
+</div>
+
+<!-- ==================== WORDS SCREEN ==================== -->
+<div class="screen" id="screen-words">
+  <div class="screen-header">
+    <span class="screen-title">📋 Tüm Kelimeler</span>
+    <span id="word-list-count" style="margin-left:auto;color:var(--text-muted);font-size:0.85rem"></span>
+  </div>
+
+  <div class="word-list-search">
+    <input type="text" class="search-input" id="word-search" placeholder="🔍 Kelime ara..." />
+    <select class="filter-select" id="filter-category">
+      <option value="">Tüm Kategoriler</option>
+    </select>
+    <select class="filter-select" id="filter-level">
+      <option value="">Tüm Seviyeler</option>
+      <option value="A1">A1</option>
+      <option value="A2">A2</option>
+    </select>
+  </div>
+
+  <div class="card word-table-wrap">
+    <table class="word-table">
+      <thead>
+        <tr>
+          <th>Almanca</th>
+          <th>Türkçe</th>
+          <th>Örnek</th>
+          <th>Seviye</th>
+          <th>Kategori</th>
+          <th>Durum</th>
+        </tr>
+      </thead>
+      <tbody id="word-list-body"></tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ==================== PROGRESS SCREEN ==================== -->
+<div class="screen" id="screen-progress">
+  <div class="screen-header">
+    <span class="screen-title">📊 İlerleme Durumum</span>
+  </div>
+
+  <div class="progress-stats">
+    <div class="stat-card">
+      <span class="stat-number" id="prog-known">0</span>
+      <span class="stat-label">✅ Öğrenildi</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-number" id="prog-learning">0</span>
+      <span class="stat-label">🔄 Öğreniliyor</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-number" id="prog-streak">0</span>
+      <span class="stat-label">🔥 Günlük Seri</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-number" id="prog-total">0</span>
+      <span class="stat-label">📚 Toplam</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px">
+      <strong style="font-size:0.9rem">🎯 2 Aylık Hedef: 600 Kelime</strong>
+      <span style="font-size:0.8rem;color:var(--text-muted)" id="prog-bar-text">0/600</span>
+    </div>
+    <div class="progress-bar-outer">
+      <div class="progress-bar-inner" id="prog-bar" style="width:0%"></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="section-label" style="margin-bottom:10px">📅 Son 30 Gün</div>
+    <div style="display:flex;gap:6px;margin-bottom:8px;flex-wrap:wrap;font-size:0.72rem;color:var(--text-muted);font-weight:600">
+      <span style="flex:1;text-align:center">Pt</span>
+      <span style="flex:1;text-align:center">Sl</span>
+      <span style="flex:1;text-align:center">Çr</span>
+      <span style="flex:1;text-align:center">Pr</span>
+      <span style="flex:1;text-align:center">Cu</span>
+      <span style="flex:1;text-align:center">Ct</span>
+      <span style="flex:1;text-align:center">Pz</span>
+    </div>
+    <div class="calendar-grid" id="progress-calendar"></div>
+    <div style="display:flex;gap:16px;margin-top:12px;font-size:0.78rem;color:var(--text-muted)">
+      <span>🟢 Tamamlandı</span>
+      <span>🟡 Kısmen</span>
+      <span>⬜ Boş</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="section-label" style="margin-bottom:12px">🏅 Rozetlerim</div>
+    <div class="badges-grid" id="badges-container"></div>
+  </div>
+</div>
+
+<!-- ==================== IMAGE MATCH GAME ==================== -->
+<div class="screen" id="screen-image-match">
+  <div class="screen-header">
+    <button class="back-btn" onclick="showScreen('games')">← Geri</button>
+    <span class="screen-title">🖼️ Resim Eşleştirme</span>
+    <span id="img-match-score" style="margin-left:auto;color:var(--accent);font-weight:700">0 puan</span>
+  </div>
+
+  <div class="game-info-bar">
+    <span id="img-match-round">Tur 1 / 8</span>
+    <div class="progress-bar-outer" style="flex:1;max-width:200px">
+      <div class="progress-bar-inner" id="img-match-pbar" style="width:0%"></div>
+    </div>
+    <span id="img-match-lives">❤️❤️❤️</span>
+  </div>
+
+  <div class="img-match-question">
+    <div class="img-match-prompt">Hangi kelime bu resmi karşılar?</div>
+    <div class="img-match-emoji" id="img-match-emoji">🍎</div>
+    <div class="img-match-hint" id="img-match-hint"></div>
+  </div>
+
+  <div class="img-match-options" id="img-match-options"></div>
+
+  <div id="img-match-result" class="game-result" style="display:none">
+    <div class="game-result-emoji" id="img-match-res-emoji">🎉</div>
+    <div class="game-result-title" id="img-match-res-title">Oyun Bitti!</div>
+    <div class="game-result-sub" id="img-match-res-sub"></div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-top:8px">
+      <button class="btn btn-primary" onclick="startImageMatch()">🔄 Tekrar Oyna</button>
+      <button class="btn btn-outline" onclick="showScreen('games')">← Oyunlar</button>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== WORD MATCH GAME ==================== -->
+<div class="screen" id="screen-word-match">
+  <div class="screen-header">
+    <button class="back-btn" onclick="showScreen('games')">← Geri</button>
+    <span class="screen-title">🔗 Kelime Eşleştirme</span>
+    <span id="word-match-score" style="margin-left:auto;color:var(--accent);font-weight:700">0 puan</span>
+  </div>
+
+  <div class="game-info-bar">
+    <span id="word-match-round">Tur 1 / 6</span>
+    <div class="progress-bar-outer" style="flex:1;max-width:200px">
+      <div class="progress-bar-inner" id="word-match-pbar" style="width:0%"></div>
+    </div>
+    <span id="word-match-timer" class="game-timer">⏱ 30</span>
+  </div>
+
+  <div class="word-match-instruction">Sol sütundan bir kelime, sağ sütundan eşini seç</div>
+
+  <div class="word-match-grid" id="word-match-grid"></div>
+
+  <div id="word-match-result" class="game-result" style="display:none">
+    <div class="game-result-emoji" id="word-match-res-emoji">🎉</div>
+    <div class="game-result-title" id="word-match-res-title">Oyun Bitti!</div>
+    <div class="game-result-sub" id="word-match-res-sub"></div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-top:8px">
+      <button class="btn btn-primary" onclick="startWordMatch()">🔄 Tekrar Oyna</button>
+      <button class="btn btn-outline" onclick="showScreen('games')">← Oyunlar</button>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== SPEAK HUB ==================== -->
+<div class="screen" id="screen-speak">
+  <div class="screen-header">
+    <span class="screen-title">🗣️ Konuşma Pratiği</span>
+  </div>
+  <p style="color:var(--text-muted);font-size:0.875rem;margin-bottom:6px">
+    Gerçek hayat senaryolarıyla heyecanı yen. Hata yapmaktan korkma!
+  </p>
+  <div class="speak-tip-banner">
+    💡 <strong>İpucu:</strong> Her diyalog 8-10 adım. Günde 2-3 senaryo hedefle!
+  </div>
+  <div style="display:flex;gap:10px;margin-bottom:16px;flex-wrap:wrap">
+    <button class="btn btn-primary" onclick="startRandomScenario()">🎲 Rastgele Senaryo</button>
+    <button class="btn btn-outline" onclick="startNextUnplayed()">🆕 Denemediklerim</button>
+  </div>
+  <div class="speak-scenarios-grid" id="speak-scenarios-grid"></div>
+</div>
+
+<!-- ==================== SPEAK DIALOG ==================== -->
+<div class="screen" id="screen-speak-dialog">
+  <div class="screen-header">
+    <button class="back-btn" id="speak-back-btn">← Geri</button>
+    <span class="screen-title" id="speak-dialog-title">Senaryo</span>
+    <span id="speak-turn-counter" style="margin-left:auto;color:var(--text-muted);font-size:0.82rem">0/0</span>
+  </div>
+
+  <!-- Situation context -->
+  <div class="speak-situation-card" id="speak-situation-card">
+    <div class="speak-sit-emoji" id="speak-sit-emoji">☕</div>
+    <div>
+      <div class="speak-sit-label">📍 Senaryo</div>
+      <div class="speak-sit-text" id="speak-sit-text">Bir kafede oturuyorsun...</div>
+    </div>
+  </div>
+
+  <!-- Dialogue area -->
+  <div class="speak-dialogue-area" id="speak-dialogue-area"></div>
+
+  <!-- Current prompt -->
+  <div class="speak-prompt-box" id="speak-prompt-box" style="display:none">
+    <div class="speak-prompt-label">🎤 Sen ne dersin?</div>
+    <div class="speak-hint-row">
+      <button class="speak-hint-btn" id="speak-hint-btn" onclick="toggleSpeakHint()">💡 İpucu</button>
+      <button class="speak-tts-btn" id="speak-tts-npc" onclick="speakLastNPC()">🔊 Tekrar Dinle</button>
+    </div>
+    <div class="speak-hint-text" id="speak-hint-text" style="display:none"></div>
+    <div class="speak-options" id="speak-options"></div>
+  </div>
+
+  <!-- Result screen -->
+  <div class="speak-result" id="speak-result" style="display:none">
+    <div class="speak-result-emoji" id="speak-res-emoji">🎉</div>
+    <div class="speak-result-title" id="speak-res-title">Harika!</div>
+    <div class="speak-result-score">
+      <span id="speak-res-correct">0</span> / <span id="speak-res-total">0</span> doğru
+    </div>
+    <div class="speak-result-msg" id="speak-res-msg"></div>
+    <div class="speak-result-review" id="speak-result-review"></div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-top:16px">
+      <button class="btn btn-primary" id="speak-res-replay">🔄 Tekrar Dene</button>
+      <button class="btn btn-accent" id="speak-res-next" onclick="startNextScenario()">➡️ Sonraki</button>
+      <button class="btn btn-outline" onclick="startRandomScenario()">🎲 Rastgele</button>
+      <button class="btn btn-outline" onclick="showScreen('speak')">≡ Tümü</button>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== GAMES HUB ==================== -->
+<div class="screen" id="screen-games">
+  <div class="screen-header">
+    <span class="screen-title">🎮 Oyunlar</span>
+  </div>
+  <p style="color:var(--text-muted);font-size:0.875rem;margin-bottom:20px">Eğlenerek öğren!</p>
+
+  <div class="games-grid">
+    <div class="game-hub-card" onclick="startImageMatch()">
+      <div class="game-hub-icon">🖼️</div>
+      <div class="game-hub-title">Resim Eşleştirme</div>
+      <div class="game-hub-desc">Emojiyi gör, doğru Almanca kelimeyi seç</div>
+      <div class="game-hub-meta">8 soru · Çoktan seçmeli</div>
+    </div>
+    <div class="game-hub-card" onclick="startWordMatch()">
+      <div class="game-hub-icon">🔗</div>
+      <div class="game-hub-title">Kelime Eşleştirme</div>
+      <div class="game-hub-desc">Almancayı Türkçesiyle eşleştir</div>
+      <div class="game-hub-meta">6 çift · Süreli</div>
+    </div>
+    <div class="game-hub-card" onclick="startQuizMode(WORDS.filter(w => (appData.wordStatus[w.id]||'new')!=='new').length >= 4 ? WORDS.filter(w => (appData.wordStatus[w.id]||'new')!=='new') : WORDS.slice(0,40))">
+      <div class="game-hub-icon">🧠</div>
+      <div class="game-hub-title">Quiz Modu</div>
+      <div class="game-hub-desc">Türkçe anlamı bul</div>
+      <div class="game-hub-meta">10 soru · Klasik quiz</div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== MODAL ==================== -->
+<div class="modal-overlay" id="main-modal">
+  <div class="modal-box">
+    <span class="modal-emoji" id="modal-emoji">🎉</span>
+    <div class="modal-title" id="modal-title">Tebrikler!</div>
+    <div class="modal-subtitle" id="modal-subtitle">Harika bir iş çıkardın!</div>
+    <button class="btn btn-primary btn-full" onclick="closeModal()">Devam Et →</button>
+  </div>
+</div>
+
+<script src="words.js"></script>
+<script src="a2_categories.js"></script>
+<script src="grammar.js"></script>
+<script src="conversations.js"></script>
+<script src="images.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
