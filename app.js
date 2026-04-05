@@ -618,7 +618,7 @@ function renderProgress() {
     const dateStr = d.toISOString().slice(0, 10);
     const log = appData.dailyLog[dateStr];
     const div = document.createElement('div');
-    div.className = 'calendar-day';
+    div.className = 'cal-day';
     if (dateStr === today()) div.classList.add('today');
     if (log) {
       if (log.studied >= stats.dailyGoal) div.classList.add('done');
@@ -661,7 +661,7 @@ function renderBadges(stats) {
 function showScreen(name) {
   document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
   document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
-  document.querySelectorAll('.bottom-nav-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.bnav-btn').forEach(b => b.classList.remove('active'));
 
   const el = document.getElementById('screen-' + name);
   if (el) el.classList.add('active');
@@ -1183,8 +1183,25 @@ document.addEventListener('keydown', e => {
   }
 });
 
+// ===== THEME =====
+function toggleTheme() {
+  const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+  document.documentElement.setAttribute('data-theme', isDark ? 'light' : 'dark');
+  const btn = document.getElementById('theme-toggle');
+  if (btn) btn.textContent = isDark ? '🌙' : '☀️';
+  localStorage.setItem('theme', isDark ? 'light' : 'dark');
+}
+
+function initTheme() {
+  const saved = localStorage.getItem('theme') || 'light';
+  document.documentElement.setAttribute('data-theme', saved);
+  const btn = document.getElementById('theme-toggle');
+  if (btn) btn.textContent = saved === 'dark' ? '☀️' : '🌙';
+}
+
 // ===== INIT =====
 document.addEventListener('DOMContentLoaded', () => {
+  initTheme();
   // Populate category filter in word list
   const catFilter = document.getElementById('filter-category');
   Object.entries(CATEGORIES).forEach(([key, cat]) => {

@@ -10,39 +10,37 @@
 
 <!-- TOP NAVBAR (desktop) -->
 <nav class="navbar">
-  <span class="navbar-brand">🇩🇪 <span>Almanca</span> A1/A2</span>
-  <button class="nav-btn" data-screen="dashboard" onclick="showScreen('dashboard')">🏠 Ana Sayfa</button>
+  <span class="navbar-brand">🇩🇪 Almanca <span class="brand-badge">Goethe A1/A2</span></span>
+  <button class="nav-btn" data-screen="dashboard"  onclick="showScreen('dashboard')">🏠 Ana Sayfa</button>
   <button class="nav-btn" data-screen="categories" onclick="showScreen('categories')">📂 Kategoriler</button>
-  <button class="nav-btn" data-screen="grammar" onclick="showScreen('grammar')">📖 Gramer</button>
-  <button class="nav-btn" data-screen="words" onclick="showScreen('words')">📋 Kelimeler</button>
-  <button class="nav-btn" data-screen="speak" onclick="showScreen('speak')">🗣️ Konuşma</button>
-  <button class="nav-btn" data-screen="games" onclick="showScreen('games')">🎮 Oyunlar</button>
-  <button class="nav-btn" data-screen="progress" onclick="showScreen('progress')">📊 İlerleme</button>
+  <button class="nav-btn" data-screen="grammar"    onclick="showScreen('grammar')">📖 Gramer</button>
+  <button class="nav-btn" data-screen="words"      onclick="showScreen('words')">📋 Kelimeler</button>
+  <button class="nav-btn" data-screen="speak"      onclick="showScreen('speak')">🗣️ Konuşma</button>
+  <button class="nav-btn" data-screen="games"      onclick="showScreen('games')">🎮 Oyunlar</button>
+  <button class="nav-btn" data-screen="progress"   onclick="showScreen('progress')">📊 İlerleme</button>
+  <button class="nav-btn" data-screen="about"      onclick="showScreen('about')">ℹ️ Hakkında</button>
+  <div class="nav-right">
+    <button class="theme-btn" id="theme-toggle" onclick="toggleTheme()" title="Tema değiştir">🌙</button>
+  </div>
 </nav>
 
-<!-- BOTTOM NAV (mobile) -->
+<!-- BOTTOM NAV (mobile) — max 5 tabs -->
 <nav class="bottom-nav">
-  <div class="bottom-nav-inner">
-    <button class="bottom-nav-btn" data-screen="dashboard" onclick="showScreen('dashboard')">
+  <div class="bnav-inner">
+    <button class="bnav-btn" data-screen="dashboard" onclick="showScreen('dashboard')">
       <span class="bnav-icon">🏠</span>Ana Sayfa
     </button>
-    <button class="bottom-nav-btn" data-screen="categories" onclick="showScreen('categories')">
+    <button class="bnav-btn" data-screen="categories" onclick="showScreen('categories')">
       <span class="bnav-icon">📂</span>Kategoriler
     </button>
-    <button class="bottom-nav-btn" data-screen="grammar" onclick="showScreen('grammar')">
-      <span class="bnav-icon">📖</span>Gramer
-    </button>
-    <button class="bottom-nav-btn" data-screen="words" onclick="showScreen('words')">
-      <span class="bnav-icon">📋</span>Kelimeler
-    </button>
-    <button class="bottom-nav-btn" data-screen="speak" onclick="showScreen('speak')">
-      <span class="bnav-icon">🗣️</span>Konuşma
-    </button>
-    <button class="bottom-nav-btn" data-screen="games" onclick="showScreen('games')">
+    <button class="bnav-btn" data-screen="games" onclick="showScreen('games')">
       <span class="bnav-icon">🎮</span>Oyunlar
     </button>
-    <button class="bottom-nav-btn" data-screen="progress" onclick="showScreen('progress')">
+    <button class="bnav-btn" data-screen="progress" onclick="showScreen('progress')">
       <span class="bnav-icon">📊</span>İlerleme
+    </button>
+    <button class="bnav-btn" data-screen="about" onclick="showScreen('about')">
+      <span class="bnav-icon">ℹ️</span>Hakkında
     </button>
   </div>
 </nav>
@@ -52,15 +50,15 @@
 
   <!-- Header -->
   <div class="pl-header">
-    <div class="pl-header-top">
+    <div class="pl-header-row">
       <div>
         <div class="pl-title">Seviye Belirleme Sınavı</div>
         <div class="pl-subtitle">Her kelimeyi gör, bilip bilmediğine karar ver</div>
       </div>
       <span id="pl-counter" class="pl-counter">1 / 25</span>
     </div>
-    <div class="pl-progress-outer">
-      <div class="pl-progress-inner" id="pl-progress-bar" style="width:0%"></div>
+    <div class="progress-outer h6">
+      <div class="progress-inner" id="pl-progress-bar" style="width:0%;height:100%"></div>
     </div>
   </div>
 
@@ -130,15 +128,15 @@
 <!-- ==================== DASHBOARD ==================== -->
 <div class="screen" id="screen-dashboard">
 
-  <!-- Daily Task Hero -->
-  <div class="daily-task-card">
-    <h2>📅 Günlük Görev</h2>
-    <p id="daily-task-status">Yükleniyor...</p>
-    <div class="task-progress-row">
-      <div class="progress-bar-outer" style="flex:1">
-        <div class="progress-bar-inner" id="goal-progress-bar" style="width:0%"></div>
+  <!-- Hero / Daily Task -->
+  <div class="hero-card">
+    <div class="hero-title">📅 Günlük Görev</div>
+    <div class="hero-sub" id="daily-task-status">Yükleniyor...</div>
+    <div class="hero-progress-row">
+      <div class="progress-outer h6" style="flex:1">
+        <div class="progress-inner" id="goal-progress-bar" style="width:0%;height:100%"></div>
       </div>
-      <span class="task-progress-text" id="goal-progress-text">0 / 20</span>
+      <span class="hero-progress-text" id="goal-progress-text">0 / 20</span>
     </div>
     <button class="btn btn-white btn-large" id="btn-daily-study"
       onclick="startFlashSession(getDailyWords(appData))">
@@ -146,78 +144,71 @@
     </button>
   </div>
 
-  <!-- Stats grid -->
-  <div class="dashboard-header">
+  <!-- Stats -->
+  <div class="stats-grid">
     <div class="stat-card">
-      <span class="stat-number" id="stat-known">0</span>
-      <span class="stat-label">✅ Öğrenilen</span>
+      <span class="stat-num" id="stat-known">0</span>
+      <span class="stat-lbl">✅ Öğrenilen</span>
     </div>
     <div class="stat-card">
-      <span class="stat-number" id="stat-learning">0</span>
-      <span class="stat-label">🔄 Öğreniliyor</span>
+      <span class="stat-num" id="stat-learning">0</span>
+      <span class="stat-lbl">🔄 Öğreniliyor</span>
     </div>
     <div class="stat-card">
-      <span class="stat-number" id="stat-new">600</span>
-      <span class="stat-label">🆕 Yeni</span>
+      <span class="stat-num" id="stat-new">600</span>
+      <span class="stat-lbl">🆕 Yeni</span>
     </div>
     <div class="stat-card">
-      <span class="streak-fire" id="streak-display">🌱</span>
-      <span class="stat-label">🔥 Seri: <strong id="stat-streak">0</strong></span>
+      <span class="stat-num" id="streak-display" style="font-size:1.5rem">🌱</span>
+      <span class="stat-lbl">🔥 Seri: <strong id="stat-streak">0</strong></span>
     </div>
   </div>
 
-  <!-- Goal progress -->
+  <!-- Goal -->
   <div class="card">
-    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px">
-      <strong style="font-size:0.9rem">🎯 2 Aylık Hedef: 600 Kelime</strong>
-      <span style="font-size:0.8rem;color:var(--text-muted)" id="main-progress-text">0/600</span>
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+      <strong style="font-size:.85rem">🎯 2 Aylık Hedef: 600 Kelime</strong>
+      <span style="font-size:.78rem;color:var(--text-3)" id="main-progress-text">0/600</span>
     </div>
-    <div class="progress-bar-outer">
-      <div class="progress-bar-inner" id="main-progress-bar" style="width:0%"></div>
+    <div class="progress-outer h6">
+      <div class="progress-inner" id="main-progress-bar" style="width:0%;height:100%"></div>
     </div>
   </div>
 
   <!-- Quick Actions -->
   <div class="section-label">⚡ Hızlı Başlat</div>
-  <div class="quick-actions">
-    <div class="quick-action-btn" onclick="startFlashSession(getDailyWords(appData))">
-      <span class="quick-action-icon">📚</span>
-      <span class="quick-action-label">Günlük</span>
+  <div class="quick-grid">
+    <div class="quick-btn" onclick="startFlashSession(getDailyWords(appData))">
+      <span class="qi">📚</span><span class="ql">Günlük</span>
     </div>
-    <div class="quick-action-btn" onclick="startFlashSession(WORDS.filter(w => (appData.wordStatus[w.id]||'new')==='learning').slice(0,20))">
-      <span class="quick-action-icon">🔄</span>
-      <span class="quick-action-label">Tekrar Et</span>
+    <div class="quick-btn" onclick="startFlashSession(WORDS.filter(w=>(appData.wordStatus[w.id]||'new')==='learning').slice(0,20))">
+      <span class="qi">🔄</span><span class="ql">Tekrar</span>
     </div>
-    <div class="quick-action-btn" onclick="startQuizMode(WORDS.filter(w => (appData.wordStatus[w.id]||'new')!=='new'))">
-      <span class="quick-action-icon">🧠</span>
-      <span class="quick-action-label">Quiz Yap</span>
+    <div class="quick-btn" onclick="startQuizMode(WORDS.filter(w=>(appData.wordStatus[w.id]||'new')!=='new'))">
+      <span class="qi">🧠</span><span class="ql">Quiz</span>
     </div>
-    <div class="quick-action-btn" onclick="startFlashSession(WORDS.filter(w=>w.level==='A1').slice(0,20))">
-      <span class="quick-action-icon">🔤</span>
-      <span class="quick-action-label">A1 Kelimeler</span>
+    <div class="quick-btn" onclick="startFlashSession(WORDS.filter(w=>w.level==='A1').slice(0,20))">
+      <span class="qi">🔤</span><span class="ql">A1</span>
     </div>
-    <div class="quick-action-btn" onclick="startFlashSession(WORDS.filter(w=>w.level==='A2').slice(0,20))">
-      <span class="quick-action-icon">📗</span>
-      <span class="quick-action-label">A2 Kelimeler</span>
+    <div class="quick-btn" onclick="startFlashSession(WORDS.filter(w=>w.level==='A2').slice(0,20))">
+      <span class="qi">📗</span><span class="ql">A2</span>
     </div>
-    <div class="quick-action-btn" onclick="showScreen('grammar')">
-      <span class="quick-action-icon">📖</span>
-      <span class="quick-action-label">Gramer</span>
+    <div class="quick-btn" onclick="showScreen('grammar')">
+      <span class="qi">📖</span><span class="ql">Gramer</span>
     </div>
-    <div class="quick-action-btn" onclick="showScreen('speak')">
-      <span class="quick-action-icon">🗣️</span>
-      <span class="quick-action-label">Konuşma</span>
+    <div class="quick-btn" onclick="showScreen('speak')">
+      <span class="qi">🗣️</span><span class="ql">Konuşma</span>
     </div>
-    <div class="quick-action-btn" onclick="showScreen('games')">
-      <span class="quick-action-icon">🎮</span>
-      <span class="quick-action-label">Oyunlar</span>
+    <div class="quick-btn" onclick="showScreen('games')">
+      <span class="qi">🎮</span><span class="ql">Oyunlar</span>
+    </div>
+    <div class="quick-btn" onclick="startPlacementTest()">
+      <span class="qi">🎯</span><span class="ql">Seviye Testi</span>
     </div>
   </div>
 
-  <div style="text-align:right;margin-top:8px">
-    <button class="btn btn-outline" id="btn-reset" style="font-size:0.8rem;padding:7px 14px">
-      🗑️ Sıfırla
-    </button>
+  <div style="text-align:right;margin-top:10px">
+    <button class="btn btn-ghost" id="btn-reset" style="font-size:.78rem">🗑️ Sıfırla</button>
   </div>
 </div>
 
@@ -226,48 +217,41 @@
   <div class="screen-header">
     <button class="back-btn" onclick="showScreen('dashboard')">← Geri</button>
     <span class="screen-title">Kelime Kartları</span>
-    <span id="card-counter" style="margin-left:auto;color:var(--text-muted);font-size:0.875rem">1/20</span>
+    <span id="card-counter" style="margin-left:auto;color:var(--text-3);font-size:.82rem">1/20</span>
   </div>
 
-  <!-- Session dots -->
-  <div id="session-dots" class="session-bar"></div>
+  <div id="session-dots" class="session-dots"></div>
 
-  <!-- Flashcard -->
-  <div class="flashcard-container" onclick="flipCard()">
+  <div class="flashcard-wrap" onclick="flipCard()">
     <div class="flashcard" id="flashcard">
       <!-- FRONT -->
-      <div class="flashcard-face flashcard-front">
+      <div class="fc-face fc-front">
         <span class="card-level-badge" id="card-level">A1</span>
-        <span class="card-category-badge" id="card-category">Aile</span>
-        <div class="card-emoji" id="card-emoji">👩</div>
+        <span class="card-cat-badge" id="card-category">Aile</span>
+        <div class="card-emoji-big" id="card-emoji">👩</div>
         <div class="card-word" id="card-word">die Mutter</div>
-        <div class="card-hint">Türkçesini düşün →</div>
+        <div class="card-hint-text">Türkçesini düşün →</div>
       </div>
       <!-- BACK -->
-      <div class="flashcard-face flashcard-back">
+      <div class="fc-face fc-back">
         <div class="card-translation" id="card-translation">anne</div>
         <div class="card-example" id="card-example">Meine Mutter kocht sehr gut.</div>
-        <!-- 5 example sentences -->
-        <div class="card-sentences" id="card-sentences">
-          <div class="card-sentences-title">📝 A1 Örnek Cümleler</div>
+        <div class="card-sentences-wrap" id="card-sentences">
+          <div class="cs-title">📝 A1 Örnek Cümleler</div>
           <div id="sentences-list"></div>
         </div>
       </div>
     </div>
   </div>
 
-  <p id="card-flip-hint" class="keyboard-hint">
-    Tıkla veya <kbd>Space</kbd> — kartı çevir
-  </p>
+  <p id="card-flip-hint" class="kb-hint">Tıkla veya <kbd>Space</kbd> — kartı çevir</p>
 
-  <!-- Rating buttons -->
-  <div id="rating-buttons" class="rating-buttons" style="opacity:0;pointer-events:none;margin-top:16px">
-    <button class="rating-btn unknown" onclick="rateCard('unknown')">❌ Bilmiyorum <kbd>1</kbd></button>
-    <button class="rating-btn partial" onclick="rateCard('partial')">😐 Az Biliyorum <kbd>2</kbd></button>
-    <button class="rating-btn known" onclick="rateCard('known')">✅ Biliyorum <kbd>3</kbd></button>
+  <div id="rating-buttons" class="rating-row" style="opacity:0;pointer-events:none">
+    <button class="rate-btn unknown" onclick="rateCard('unknown')">❌ Bilmiyorum <kbd>1</kbd></button>
+    <button class="rate-btn partial" onclick="rateCard('partial')">😐 Az <kbd>2</kbd></button>
+    <button class="rate-btn known" onclick="rateCard('known')">✅ Biliyorum <kbd>3</kbd></button>
   </div>
-
-  <p class="keyboard-hint" style="margin-top:12px">Çevirdikten sonra: <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd></p>
+  <p class="kb-hint" style="margin-top:8px">Çevirdikten sonra: <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd></p>
 </div>
 
 <!-- ==================== QUIZ SCREEN ==================== -->
@@ -400,56 +384,35 @@
     <span class="screen-title">📊 İlerleme Durumum</span>
   </div>
 
-  <div class="progress-stats">
-    <div class="stat-card">
-      <span class="stat-number" id="prog-known">0</span>
-      <span class="stat-label">✅ Öğrenildi</span>
-    </div>
-    <div class="stat-card">
-      <span class="stat-number" id="prog-learning">0</span>
-      <span class="stat-label">🔄 Öğreniliyor</span>
-    </div>
-    <div class="stat-card">
-      <span class="stat-number" id="prog-streak">0</span>
-      <span class="stat-label">🔥 Günlük Seri</span>
-    </div>
-    <div class="stat-card">
-      <span class="stat-number" id="prog-total">0</span>
-      <span class="stat-label">📚 Toplam</span>
-    </div>
+  <div class="prog-stats">
+    <div class="stat-card"><span class="stat-num" id="prog-known">0</span><span class="stat-lbl">✅ Öğrenildi</span></div>
+    <div class="stat-card"><span class="stat-num" id="prog-learning">0</span><span class="stat-lbl">🔄 Öğreniliyor</span></div>
+    <div class="stat-card"><span class="stat-num" id="prog-streak">0</span><span class="stat-lbl">🔥 Seri</span></div>
+    <div class="stat-card"><span class="stat-num" id="prog-total">0</span><span class="stat-lbl">📚 Toplam</span></div>
   </div>
 
   <div class="card">
-    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px">
-      <strong style="font-size:0.9rem">🎯 2 Aylık Hedef: 600 Kelime</strong>
-      <span style="font-size:0.8rem;color:var(--text-muted)" id="prog-bar-text">0/600</span>
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+      <strong style="font-size:.85rem">🎯 2 Aylık Hedef: 600 Kelime</strong>
+      <span style="font-size:.78rem;color:var(--text-3)" id="prog-bar-text">0/600</span>
     </div>
-    <div class="progress-bar-outer">
-      <div class="progress-bar-inner" id="prog-bar" style="width:0%"></div>
-    </div>
+    <div class="progress-outer h6"><div class="progress-inner" id="prog-bar" style="width:0%;height:100%"></div></div>
   </div>
 
   <div class="card">
     <div class="section-label" style="margin-bottom:10px">📅 Son 30 Gün</div>
-    <div style="display:flex;gap:6px;margin-bottom:8px;flex-wrap:wrap;font-size:0.72rem;color:var(--text-muted);font-weight:600">
-      <span style="flex:1;text-align:center">Pt</span>
-      <span style="flex:1;text-align:center">Sl</span>
-      <span style="flex:1;text-align:center">Çr</span>
-      <span style="flex:1;text-align:center">Pr</span>
-      <span style="flex:1;text-align:center">Cu</span>
-      <span style="flex:1;text-align:center">Ct</span>
-      <span style="flex:1;text-align:center">Pz</span>
+    <div style="display:grid;grid-template-columns:repeat(7,1fr);gap:3px;margin-bottom:6px;font-size:.62rem;font-weight:700;color:var(--text-3)">
+      <span style="text-align:center">Pt</span><span style="text-align:center">Sl</span><span style="text-align:center">Çr</span>
+      <span style="text-align:center">Pr</span><span style="text-align:center">Cu</span><span style="text-align:center">Ct</span><span style="text-align:center">Pz</span>
     </div>
     <div class="calendar-grid" id="progress-calendar"></div>
-    <div style="display:flex;gap:16px;margin-top:12px;font-size:0.78rem;color:var(--text-muted)">
-      <span>🟢 Tamamlandı</span>
-      <span>🟡 Kısmen</span>
-      <span>⬜ Boş</span>
+    <div style="display:flex;gap:14px;margin-top:10px;font-size:.75rem;color:var(--text-3)">
+      <span>🟢 Tamamlandı</span><span>🟡 Kısmen</span><span>⬜ Boş</span>
     </div>
   </div>
 
   <div class="card">
-    <div class="section-label" style="margin-bottom:12px">🏅 Rozetlerim</div>
+    <div class="section-label" style="margin-bottom:10px">🏅 Rozetlerim</div>
     <div class="badges-grid" id="badges-container"></div>
   </div>
 </div>
@@ -464,8 +427,8 @@
 
   <div class="game-info-bar">
     <span id="img-match-round">Tur 1 / 8</span>
-    <div class="progress-bar-outer" style="flex:1;max-width:200px">
-      <div class="progress-bar-inner" id="img-match-pbar" style="width:0%"></div>
+    <div class="progress-outer h6" style="flex:1;max-width:200px">
+      <div class="progress-inner h6" id="img-match-pbar" style="width:0%;height:100%"></div>
     </div>
     <span id="img-match-lives">❤️❤️❤️</span>
   </div>
@@ -499,8 +462,8 @@
 
   <div class="game-info-bar">
     <span id="word-match-round">Tur 1 / 6</span>
-    <div class="progress-bar-outer" style="flex:1;max-width:200px">
-      <div class="progress-bar-inner" id="word-match-pbar" style="width:0%"></div>
+    <div class="progress-outer h6" style="flex:1;max-width:200px">
+      <div class="progress-inner" id="word-match-pbar" style="width:0%;height:6px"></div>
     </div>
     <span id="word-match-timer" class="game-timer">⏱ 30</span>
   </div>
@@ -613,6 +576,133 @@
       <div class="game-hub-desc">Türkçe anlamı bul</div>
       <div class="game-hub-meta">10 soru · Klasik quiz</div>
     </div>
+  </div>
+</div>
+
+<!-- ==================== ABOUT ==================== -->
+<div class="screen" id="screen-about">
+
+  <!-- Hero -->
+  <div class="about-hero">
+    <span class="about-hero-flag">🇩🇪</span>
+    <div class="about-hero-title">Almanca Öğrenme Sistemi</div>
+    <div class="about-hero-sub">
+      Goethe-Zertifikat A1 &amp; A2 sınavlarına özel hazırlanmış,<br>
+      1091 kelime ve kapsamlı gramer içerikli öğrenme platformu.
+    </div>
+    <div class="about-goethe-badge">
+      🏆 Goethe-Zertifikat A1/A2 Odaklı
+    </div>
+  </div>
+
+  <!-- İstatistikler -->
+  <div class="about-stats-row">
+    <div class="about-stat">
+      <div class="about-stat-num">1091</div>
+      <div class="about-stat-lbl">Kelime</div>
+    </div>
+    <div class="about-stat">
+      <div class="about-stat-num">25+</div>
+      <div class="about-stat-lbl">Kategori</div>
+    </div>
+    <div class="about-stat">
+      <div class="about-stat-num">20+</div>
+      <div class="about-stat-lbl">Gramer Konusu</div>
+    </div>
+  </div>
+
+  <!-- Seviyeler -->
+  <div class="section-label">📚 İçerik Seviyeleri</div>
+  <div class="about-levels" style="margin-bottom:16px">
+    <div class="about-level-card a1">
+      <span class="about-level-tag">A1</span>
+      <div class="about-level-title">Başlangıç Seviyesi</div>
+      <div class="about-level-desc">Temel iletişim, selamlaşma, aile, alışveriş ve günlük hayat kelimeleri. Goethe A1 sınavı için zorunlu 600+ kelime içerir.</div>
+    </div>
+    <div class="about-level-card a2">
+      <span class="about-level-tag">A2</span>
+      <div class="about-level-title">Temel Seviye</div>
+      <div class="about-level-desc">Duygular, seyahat, iş hayatı, medya ve sosyal yaşam kelimeleri. Goethe A2 sınavında çıkan yapıları kapsar.</div>
+    </div>
+  </div>
+
+  <!-- Özellikler -->
+  <div class="section-label">✨ Özellikler</div>
+  <div class="about-features">
+    <div class="about-feature">
+      <span class="about-feat-icon">🃏</span>
+      <div>
+        <div class="about-feat-title">Akıllı Flashcard</div>
+        <div class="about-feat-desc">Spaced repetition (aralıklı tekrar) sistemiyle kelimeleri doğru zamanda tekrar edersin.</div>
+      </div>
+    </div>
+    <div class="about-feature">
+      <span class="about-feat-icon">🎯</span>
+      <div>
+        <div class="about-feat-title">Seviye Belirleme</div>
+        <div class="about-feat-desc">İlk açılışta 25 soruluk hızlı test ile başlangıç seviyeni belirler, bildiğin kelimeleri atlar.</div>
+      </div>
+    </div>
+    <div class="about-feature">
+      <span class="about-feat-icon">📝</span>
+      <div>
+        <div class="about-feat-title">5 Örnek Cümle</div>
+        <div class="about-feat-desc">Her kelime için A1 seviyesinde 5 özgün örnek cümle otomatik üretilir.</div>
+      </div>
+    </div>
+    <div class="about-feature">
+      <span class="about-feat-icon">🎮</span>
+      <div>
+        <div class="about-feat-title">Oyunlar</div>
+        <div class="about-feat-desc">Resim eşleştirme ve kelime eşleştirme oyunlarıyla öğrenmeyi eğlenceli hale getir.</div>
+      </div>
+    </div>
+    <div class="about-feature">
+      <span class="about-feat-icon">🗣️</span>
+      <div>
+        <div class="about-feat-title">Konuşma Pratiği</div>
+        <div class="about-feat-desc">Gerçek hayat senaryolarıyla diyalog kurma pratiği yaparsın.</div>
+      </div>
+    </div>
+    <div class="about-feature">
+      <span class="about-feat-icon">📊</span>
+      <div>
+        <div class="about-feat-title">İlerleme Takibi</div>
+        <div class="about-feat-desc">Günlük seri, rozet sistemi ve takvim görünümüyle motivasyonunu yüksek tut.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Günlük plan -->
+  <div class="section-label">💡 Nasıl Çalışılır?</div>
+  <ul class="about-tips-list" style="margin-bottom:16px">
+    <li><span class="tip-icon">1️⃣</span> Her gün 20 yeni kelime çalış (≈10 dakika)</li>
+    <li><span class="tip-icon">2️⃣</span> Öğrendiğin kelimeleri quiz ile pekiştir</li>
+    <li><span class="tip-icon">3️⃣</span> Günlük seriyi kırmamaya dikkat et 🔥</li>
+    <li><span class="tip-icon">4️⃣</span> Gramer konularını okuyup mini quizleri çöz</li>
+    <li><span class="tip-icon">5️⃣</span> Konuşma senaryolarıyla gerçek kullanıma geç</li>
+  </ul>
+
+  <!-- Goethe Sınav Bilgisi -->
+  <div class="card" style="border-left:3px solid var(--accent)">
+    <div style="font-weight:800;font-size:.95rem;margin-bottom:10px">🏆 Goethe-Zertifikat Hakkında</div>
+    <p style="font-size:.85rem;color:var(--text-2);line-height:1.65;margin-bottom:10px">
+      Goethe-Institut tarafından verilen bu sertifikalar, Almanca dil yeterliliğinin uluslararası alanda tanınan kanıtıdır. A1 ve A2 seviyeleri, temel iletişim becerilerini ölçer.
+    </p>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;font-size:.8rem">
+      <div style="background:var(--green-bg);border-radius:var(--r-sm);padding:10px">
+        <strong style="color:var(--green)">A1 Sınavı</strong><br>
+        <span style="color:var(--text-2)">Hören, Lesen, Schreiben, Sprechen</span>
+      </div>
+      <div style="background:var(--amber-bg);border-radius:var(--r-sm);padding:10px">
+        <strong style="color:var(--amber)">A2 Sınavı</strong><br>
+        <span style="color:var(--text-2)">4 bölüm · 60-75 dakika</span>
+      </div>
+    </div>
+  </div>
+
+  <div style="text-align:center;padding:12px 0;font-size:.78rem;color:var(--text-3)">
+    Kaynak: Goethe-Zertifikat A1 &amp; A2 Wortliste (Resmi Kelime Listesi)
   </div>
 </div>
 
